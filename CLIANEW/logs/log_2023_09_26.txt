@@ -1,0 +1,1024 @@
+26/09/2023 08:21:47-Conectando con GALILEO ONLINE
+
+26/09/2023 08:21:55-Se encuentra el analizador configurado.
+
+26/09/2023 08:21:56-Inicia la aplicación
+
+26/09/2023 08:21:56-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 08:21:56-Escuchando el puerto: COM4 
+
+26/09/2023 09:09:32-Conectando con GALILEO ONLINE
+
+26/09/2023 09:09:40-Se encuentra el analizador configurado.
+
+26/09/2023 09:09:40-Inicia la aplicación
+
+26/09/2023 09:09:40-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:09:40-Escuchando el puerto: COM4 
+
+26/09/2023 09:11:21-CLIA: <ENQ>
+
+26/09/2023 09:11:44-GALILEO:<ACK>
+
+26/09/2023 09:15:10-Conectando con GALILEO ONLINE
+
+26/09/2023 09:15:17-Se encuentra el analizador configurado.
+
+26/09/2023 09:15:17-Inicia la aplicación
+
+26/09/2023 09:15:17-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:15:17-Escuchando el puerto: COM4 
+
+26/09/2023 09:18:47-CLIA: <ENQ>
+
+26/09/2023 09:18:53-GALILEO:<ACK>
+
+26/09/2023 09:18:53-CLIA: <ENQ>
+
+26/09/2023 09:18:57-GALILEO:<ACK>
+
+26/09/2023 09:18:57-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926091958Q|8|^202309220001-3||||||||||OL|1|N<ETX>C6
+
+
+26/09/2023 09:18:59-GALILEO:<ACK>
+
+26/09/2023 09:19:14-GALILEO: <STX>H|\^&|||GalileoLIS|||||||||20230926091910|
+P|1||||VILLA^CAMILA||20210206|M||||||||||||||||||||||||||
+O|1|202309220001-3||AFP|R|20230926091910|20230926091910||||||||S||||||||||X|||||
+L|1|N
+<ETX>
+
+26/09/2023 09:29:38-Conectando con GALILEO ONLINE
+
+26/09/2023 09:29:47-Se encuentra el analizador configurado.
+
+26/09/2023 09:29:47-Inicia la aplicación
+
+26/09/2023 09:29:47-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:29:47-Escuchando el puerto: COM4 
+
+26/09/2023 09:32:47-Conectando con GALILEO ONLINE
+
+26/09/2023 09:32:53-Se encuentra el analizador configurado.
+
+26/09/2023 09:32:53-Inicia la aplicación
+
+26/09/2023 09:32:53-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:32:53-Escuchando el puerto: COM4 
+
+26/09/2023 09:40:09-CLIA: <ENQ>
+
+26/09/2023 09:40:13-GALILEO:<ACK>
+
+26/09/2023 09:40:13-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926094125Q|9|^202309220001-3||||||||||OL|2|N<ETX>
+
+26/09/2023 09:40:15-GALILEO:<ACK>
+
+26/09/2023 09:40:15-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|202309220001-3|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||
+Q|||||
+L|1|N<ETX>
+
+26/09/2023 09:41:58-Conectando con GALILEO ONLINE
+
+26/09/2023 09:42:05-Se encuentra el analizador configurado.
+
+26/09/2023 09:42:05-Inicia la aplicación
+
+26/09/2023 09:42:05-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:42:05-Escuchando el puerto: COM4 
+
+26/09/2023 09:45:04-Conectando con GALILEO ONLINE
+
+26/09/2023 09:45:09-Se encuentra el analizador configurado.
+
+26/09/2023 09:45:09-Inicia la aplicación
+
+26/09/2023 09:45:09-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 09:45:09-Escuchando el puerto: COM4 
+
+26/09/2023 09:48:57-CLIA: <ENQ>
+
+26/09/2023 09:49:01-GALILEO:<ACK>
+
+26/09/2023 09:49:01-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926095013Q|10|^202309220001-3||||||||||OL|3|N<ETX>
+
+26/09/2023 09:49:03-GALILEO:<ACK>
+
+26/09/2023 09:49:03-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|202309220001-3|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||
+Q|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 12:36:08-Conectando con GALILEO ONLINE
+
+26/09/2023 12:36:15-Se encuentra el analizador configurado.
+
+26/09/2023 12:36:15-Inicia la aplicación
+
+26/09/2023 12:36:15-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 12:36:16-Escuchando el puerto: COM4 
+
+26/09/2023 12:44:45-CLIA: <ENQ>
+
+26/09/2023 12:44:49-GALILEO:<ACK>
+
+26/09/2023 12:44:49-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926124601Q|11|^202309220001-3||||||||||OL|4|N<ETX>
+
+26/09/2023 12:44:51-GALILEO:<ACK>
+
+26/09/2023 12:44:51-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|SAMPLE123|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 12:47:13-CLIA: <ENQ>
+
+26/09/2023 12:47:17-GALILEO:<ACK>
+
+26/09/2023 12:47:17-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926124829Q|12|^202309220001-3||||||||||OL|5|N<ETX>
+
+26/09/2023 12:47:19-GALILEO:<ACK>
+
+26/09/2023 12:47:19-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|SAMPLE123|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 14:24:20-Conectando con GALILEO ONLINE
+
+26/09/2023 14:24:27-Se encuentra el analizador configurado.
+
+26/09/2023 14:24:27-Inicia la aplicación
+
+26/09/2023 14:24:27-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 14:24:27-Escuchando el puerto: COM4 
+
+26/09/2023 14:28:12-CLIA: <ENQ>
+
+26/09/2023 14:28:16-GALILEO:<ACK>
+
+26/09/2023 14:28:16-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926142928Q|13|^202309220001-3||||||||||OL|10|N<ETX>
+
+26/09/2023 14:28:18-GALILEO:<ACK>
+
+26/09/2023 14:28:18-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|202309220001-3|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 14:34:40-Conectando con GALILEO ONLINE
+
+26/09/2023 14:34:48-Se encuentra el analizador configurado.
+
+26/09/2023 14:34:48-Inicia la aplicación
+
+26/09/2023 14:34:48-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 14:34:48-Escuchando el puerto: COM4 
+
+26/09/2023 14:37:37-CLIA: <ENQ>
+
+26/09/2023 14:37:41-GALILEO:<ACK>
+
+26/09/2023 14:37:42-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926143853Q|14|^202309220001-3||||||||||OL|11|N<ETX>1
+
+26/09/2023 14:37:44-GALILEO:<ACK>
+
+26/09/2023 14:37:44-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|202309220001-3|1^FT3^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||Q|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 14:50:47-Conectando con GALILEO ONLINE
+
+26/09/2023 14:50:54-Se encuentra el analizador configurado.
+
+26/09/2023 14:50:54-Inicia la aplicación
+
+26/09/2023 14:50:54-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 14:50:55-Escuchando el puerto: COM4 
+
+26/09/2023 14:54:02-CLIA: <ENQ>
+
+26/09/2023 14:54:06-GALILEO:<ACK>
+
+26/09/2023 14:54:06-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926145518Q|15|^202309220001-3||||||||||OL|12|N<ETX>
+
+26/09/2023 14:54:08-GALILEO:<ACK>
+
+26/09/2023 14:54:08-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+|1|1^^|202309220001-3|1^FT3^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||Q|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 15:01:01-Conectando con GALILEO ONLINE
+
+26/09/2023 15:01:07-Se encuentra el analizador configurado.
+
+26/09/2023 15:01:07-Inicia la aplicación
+
+26/09/2023 15:01:07-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:01:07-Escuchando el puerto: COM4 
+
+26/09/2023 15:03:55-CLIA: <ENQ>
+
+26/09/2023 15:03:59-GALILEO:<ACK>
+
+26/09/2023 15:03:59-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926150511Q|16|^202309220001-3||||||||||OL|13|N<ETX>
+
+26/09/2023 15:04:01-GALILEO:<ACK>
+
+26/09/2023 15:04:01-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||
+O|1|1^^|202309220001-3|1^FT3^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 15:20:04-Conectando con GALILEO ONLINE
+
+26/09/2023 15:20:12-Se encuentra el analizador configurado.
+
+26/09/2023 15:20:12-Inicia la aplicación
+
+26/09/2023 15:20:12-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:20:13-Escuchando el puerto: COM4 
+
+26/09/2023 15:23:03-CLIA: <ENQ>
+
+26/09/2023 15:23:07-GALILEO:<ACK>
+
+26/09/2023 15:23:07-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926152419Q|17|^202309220001-3||||||||||OL|14|N<ETX>
+
+26/09/2023 15:23:09-GALILEO:<ACK>
+
+26/09/2023 15:23:09-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|1^FT3^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 15:29:27-Conectando con GALILEO ONLINE
+
+26/09/2023 15:29:35-Se encuentra el analizador configurado.
+
+26/09/2023 15:29:35-Inicia la aplicación
+
+26/09/2023 15:29:35-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:29:35-Escuchando el puerto: COM4 
+
+26/09/2023 15:29:53-Conectando con GALILEO ONLINE
+
+26/09/2023 15:29:59-Se encuentra el analizador configurado.
+
+26/09/2023 15:29:59-Inicia la aplicación
+
+26/09/2023 15:29:59-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:29:59-Escuchando el puerto: COM4 
+
+26/09/2023 15:32:39-CLIA: <ENQ>
+
+26/09/2023 15:32:43-GALILEO:<ACK>
+
+26/09/2023 15:32:43-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926153355Q|18|^202309220001-3||||||||||OL|1|N<ETX>
+
+26/09/2023 15:32:45-GALILEO:<ACK>
+
+26/09/2023 15:32:45-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 15:37:19-Conectando con GALILEO ONLINE
+
+26/09/2023 15:37:26-Se encuentra el analizador configurado.
+
+26/09/2023 15:37:26-Inicia la aplicación
+
+26/09/2023 15:37:26-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:37:26-Escuchando el puerto: COM4 
+
+26/09/2023 15:40:12-CLIA: <ENQ>
+
+26/09/2023 15:40:16-GALILEO:<ACK>
+
+26/09/2023 15:40:17-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926154128Q|19|^202309220001-3||||||||||OL|2|N<ETX>
+
+26/09/2023 15:40:19-GALILEO:<ACK>
+
+26/09/2023 15:40:19-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|^202309220001-3|1^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 15:52:06-Conectando con GALILEO ONLINE
+
+26/09/2023 15:52:16-Se encuentra el analizador configurado.
+
+26/09/2023 15:52:16-Inicia la aplicación
+
+26/09/2023 15:52:16-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 15:52:16-Escuchando el puerto: COM4 
+
+26/09/2023 15:54:59-CLIA: <ENQ>
+
+26/09/2023 15:55:03-GALILEO:<ACK>
+
+26/09/2023 15:55:03-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926155615Q|20|^202309220001-3||||||||||OL|3|N<ETX>
+
+26/09/2023 15:55:05-GALILEO:<ACK>
+
+26/09/2023 15:55:05-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|^202309220001-3|1^Tg^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 16:21:53-CLIA: <ENQ>
+
+26/09/2023 16:21:57-GALILEO:<ACK>
+
+26/09/2023 16:21:57-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||PR|1394-97|20230926162310P|1||||^^||^^|U||||||||||||||||||||||||||O|1|^^||^Anti-TPO^^|R|20230926123351|20230926162310|||||||20230926162310|serum||||||||||F|||||R|1|^Anti-TPO^^F|99.99^^^^|IU/mL|^|N||F|99.99^^^^|0|20230926134139||Mindray^L|1|N<ETX>
+
+26/09/2023 16:21:59-GALILEO:<ACK>
+
+{
+  "header": {
+    "Content": "\u0005\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20230926162310|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-09-26T16:23:10",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|1||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "1",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|1|^^||^Anti-TPO^^|R|20230926123351|20230926162310|||||||20230926162310|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "1",
+          "SpecimenId": "^^",
+          "InstrumentSpecimenId": "",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-09-26T12:33:51",
+          "SpecimenCollectionDateTime": "2023-09-26T16:23:10",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230926162310",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|1|^Anti-TPO^^F|99.99^^^^|IU/mL|^|N||F|99.99^^^^|0|20230926134139||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "1",
+              "TestID": "^Anti-TPO^^F",
+              "DataMeasurementValue": "99.99^^^^",
+              "Units": "IU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "99.99^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230926134139",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "Anti-TPO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^Anti-TPO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "99.99",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|1|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "1",
+    "TerminationCode": "N"
+  },
+  "Content": "\u0005\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20230926162310\rP|1||||^^||^^|U||||||||||||||||||||||||||\rO|1|^^||^Anti-TPO^^|R|20230926123351|20230926162310|||||||20230926162310|serum||||||||||F|||||\rR|1|^Anti-TPO^^F|99.99^^^^|IU/mL|^|N||F|99.99^^^^|0|20230926134139||Mindray^\rL|1|N\r\u0003"
+}
+
+26/09/2023 16:21:59-Anti-TPO : 99.99 :  : 0 : 18
+
+26/09/2023 16:22:00-"[{\"idLaboratorio\":18,\"codigoOrden\":\"\",\"CodigoMuestra\":\"0\",\"CodigoExamenHomologado\":\"Anti-TPO\",\"valorNumero\":99.99,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":188}]"
+
+26/09/2023 16:22:00-{"codigo":"VAL-01","descripcion":"El parámetro código orden es requerido. No puede ir nulo o vacío","error":null}
+
+26/09/2023 16:25:15-CLIA: <ENQ>
+
+26/09/2023 16:25:19-GALILEO:<ACK>
+
+26/09/2023 16:25:20-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||PR|1394-97|20230926162632P|2||||^^||^^|U||||||||||||||||||||||||||O|2|1^^|202309250005-3|^AFP^^\^CA15-3^^\^CA72-4^^\^CEA^^\^CYFRA 21-1^^\^FSH^^\^FT3^^\^FT4^^\^PROG^^|R|20230925142700|20230925142311|||||||20230925142311|serum||||||||||F|||||R|2|^AFP^^F|2.41^^^^|ng/mL|^|N||F|2.41^^^^|0|20230925150409||Mindray^R|3|^CA15-3^^F|5.03^^^^|U/mL|^|N||F|5.03^^^^|0|20230925151710||Mindray^R|4|^CA72-4^^F|0.95^^^^|U/mL|^|N||F|0.95^^^^|0|20230925150629||Mindray^R|5|^CEA^^F|1.07^^^^|ng/mL|^|N||F|1.07^^^^|0|20230925151810||Mindray^R|6|^CYFRA 21-1^^F|2.61^^^^|ng/mL|^|N||F|2.61^^^^|0|20230925150329||Mindray^R|7|^FSH^^F|20.90^^^^|mIU/mL|^|N||F|20.90^^^^|0|20230925151450||Mindray^R|8|^FT3^^F|2.35^^^^|pg/mL|^|N||F|2.35^^^^|0|20230925152630||Mindray^R|9|^FT4^^F|0.72^^^^|ng/dL|^|N||F|0.72^^^^|0|20230925151610||Mindray^R|10|^PROG^^F|0.73^^^^|ng/mL|^|N||F|0.73^^^^|0|20230925150529||Mindray^L|2|N<ETX>
+
+26/09/2023 16:25:22-GALILEO:<ACK>
+
+{
+  "header": {
+    "Content": "\u0005\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20230926162632|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-09-26T16:26:32",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|2||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "2",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|2|1^^|202309250005-3|^AFP^^\\^CA15-3^^\\^CA72-4^^\\^CEA^^\\^CYFRA 21-1^^\\^FSH^^\\^FT3^^\\^FT4^^\\^PROG^^|R|20230925142700|20230925142311|||||||20230925142311|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "2",
+          "SpecimenId": "1^^",
+          "InstrumentSpecimenId": "202309250005-3",
+          "UniversalTestIdPartOne": "\\",
+          "UniversalTestIdPartTwo": "",
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-09-25T14:27:00",
+          "SpecimenCollectionDateTime": "2023-09-25T14:23:11",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230925142311",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|2|^AFP^^F|2.41^^^^|ng/mL|^|N||F|2.41^^^^|0|20230925150409||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "2",
+              "TestID": "^AFP^^F",
+              "DataMeasurementValue": "2.41^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "2.41^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925150409",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "AFP",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^AFP^^F"
+              },
+              "DataMeasurement": {
+                "Value": "2.41",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|3|^CA15-3^^F|5.03^^^^|U/mL|^|N||F|5.03^^^^|0|20230925151710||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "3",
+              "TestID": "^CA15-3^^F",
+              "DataMeasurementValue": "5.03^^^^",
+              "Units": "U/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "5.03^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925151710",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "CA15-3",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^CA15-3^^F"
+              },
+              "DataMeasurement": {
+                "Value": "5.03",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|4|^CA72-4^^F|0.95^^^^|U/mL|^|N||F|0.95^^^^|0|20230925150629||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "4",
+              "TestID": "^CA72-4^^F",
+              "DataMeasurementValue": "0.95^^^^",
+              "Units": "U/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.95^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925150629",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "CA72-4",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^CA72-4^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.95",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|5|^CEA^^F|1.07^^^^|ng/mL|^|N||F|1.07^^^^|0|20230925151810||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "5",
+              "TestID": "^CEA^^F",
+              "DataMeasurementValue": "1.07^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "1.07^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925151810",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "CEA",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^CEA^^F"
+              },
+              "DataMeasurement": {
+                "Value": "1.07",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|6|^CYFRA 21-1^^F|2.61^^^^|ng/mL|^|N||F|2.61^^^^|0|20230925150329||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "6",
+              "TestID": "^CYFRA 21-1^^F",
+              "DataMeasurementValue": "2.61^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "2.61^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925150329",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "CYFRA 21-1",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^CYFRA 21-1^^F"
+              },
+              "DataMeasurement": {
+                "Value": "2.61",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|7|^FSH^^F|20.90^^^^|mIU/mL|^|N||F|20.90^^^^|0|20230925151450||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "7",
+              "TestID": "^FSH^^F",
+              "DataMeasurementValue": "20.90^^^^",
+              "Units": "mIU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "20.90^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925151450",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "FSH",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^FSH^^F"
+              },
+              "DataMeasurement": {
+                "Value": "20.90",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|8|^FT3^^F|2.35^^^^|pg/mL|^|N||F|2.35^^^^|0|20230925152630||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "8",
+              "TestID": "^FT3^^F",
+              "DataMeasurementValue": "2.35^^^^",
+              "Units": "pg/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "2.35^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925152630",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "FT3",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^FT3^^F"
+              },
+              "DataMeasurement": {
+                "Value": "2.35",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|9|^FT4^^F|0.72^^^^|ng/dL|^|N||F|0.72^^^^|0|20230925151610||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "9",
+              "TestID": "^FT4^^F",
+              "DataMeasurementValue": "0.72^^^^",
+              "Units": "ng/dL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.72^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925151610",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "FT4",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^FT4^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.72",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            },
+            {
+              "Content": "R|10|^PROG^^F|0.73^^^^|ng/mL|^|N||F|0.73^^^^|0|20230925150529||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "10",
+              "TestID": "^PROG^^F",
+              "DataMeasurementValue": "0.73^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.73^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230925150529",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "PROG",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^PROG^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.73",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "1",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|2|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "2",
+    "TerminationCode": "N"
+  },
+  "Content": "\u0005\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20230926162632\rP|2||||^^||^^|U||||||||||||||||||||||||||\rO|2|1^^|202309250005-3|^AFP^^\\^CA15-3^^\\^CA72-4^^\\^CEA^^\\^CYFRA 21-1^^\\^FSH^^\\^FT3^^\\^FT4^^\\^PROG^^|R|20230925142700|20230925142311|||||||20230925142311|serum||||||||||F|||||\rR|2|^AFP^^F|2.41^^^^|ng/mL|^|N||F|2.41^^^^|0|20230925150409||Mindray^\rR|3|^CA15-3^^F|5.03^^^^|U/mL|^|N||F|5.03^^^^|0|20230925151710||Mindray^\rR|4|^CA72-4^^F|0.95^^^^|U/mL|^|N||F|0.95^^^^|0|20230925150629||Mindray^\rR|5|^CEA^^F|1.07^^^^|ng/mL|^|N||F|1.07^^^^|0|20230925151810||Mindray^\rR|6|^CYFRA 21-1^^F|2.61^^^^|ng/mL|^|N||F|2.61^^^^|0|20230925150329||Mindray^\rR|7|^FSH^^F|20.90^^^^|mIU/mL|^|N||F|20.90^^^^|0|20230925151450||Mindray^\rR|8|^FT3^^F|2.35^^^^|pg/mL|^|N||F|2.35^^^^|0|20230925152630||Mindray^\rR|9|^FT4^^F|0.72^^^^|ng/dL|^|N||F|0.72^^^^|0|20230925151610||Mindray^\rR|10|^PROG^^F|0.73^^^^|ng/mL|^|N||F|0.73^^^^|0|20230925150529||Mindray^\rL|2|N\r\u0003"
+}
+
+26/09/2023 16:25:22-AFP : 2.41 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-CA15-3 : 5.03 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-CA72-4 : 0.95 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-CEA : 1.07 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-CYFRA 21-1 : 2.61 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-FSH : 20.90 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-FT3 : 2.35 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-FT4 : 0.72 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-PROG : 0.73 : 202309250005 : 3 : 18
+
+26/09/2023 16:25:22-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT4\",\"valorNumero\":0.72,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":107},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT3\",\"valorNumero\":2.35,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":109},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FSH\",\"valorNumero\":20.9,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":115},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"PROG\",\"valorNumero\":0.73,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":121},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"AFP\",\"valorNumero\":2.41,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":132},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CEA\",\"valorNumero\":1.07,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":133},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CYFRA 21-1\",\"valorNumero\":2.61,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":158},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CA15-3\",\"valorNumero\":5.03,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":180},{\"idLaboratorio\":18,\"codigoOrden\":\"202309250005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CA72-4\",\"valorNumero\":0.95,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":182}]"
+
+26/09/2023 16:25:22-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+26/09/2023 16:44:56-Conectando con GALILEO ONLINE
+
+26/09/2023 16:45:04-Se encuentra el analizador configurado.
+
+26/09/2023 16:45:04-Inicia la aplicación
+
+26/09/2023 16:45:04-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 16:45:04-Escuchando el puerto: COM4 
+
+26/09/2023 16:47:53-CLIA: <ENQ>
+
+26/09/2023 16:47:57-GALILEO:<ACK>
+
+26/09/2023 16:47:57-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926164910Q|1|^202309220001-3||||||||||OL|3|N<ETX>
+
+26/09/2023 16:47:59-GALILEO:<ACK>
+
+26/09/2023 16:47:59-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||F|||||
+L|1|N<ETX><EOT>
+
+26/09/2023 16:52:21-Conectando con GALILEO ONLINE
+
+26/09/2023 16:52:30-Se encuentra el analizador configurado.
+
+26/09/2023 16:52:30-Inicia la aplicación
+
+26/09/2023 16:52:30-Esperando Conexión del Instrumento CLIA 1000
+
+26/09/2023 16:52:30-Escuchando el puerto: COM4 
+
+26/09/2023 16:55:18-CLIA: <ENQ>
+
+26/09/2023 16:55:22-GALILEO:<ACK>
+
+26/09/2023 16:55:22-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230926165635Q|2|^202309220001-3||||||||||OL|4|N<ETX>
+
+26/09/2023 16:55:24-GALILEO:<ACK>
+
+26/09/2023 16:55:24-GALILEO: <STX>H|\^&|||Mindray^^|||||||RQ|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||F|||||
+L|1|N<ETX><EOT>
+

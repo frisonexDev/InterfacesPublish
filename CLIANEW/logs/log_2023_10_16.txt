@@ -1,0 +1,2343 @@
+16/10/2023 9:25:30-Conectando con GALILEO ONLINE
+
+16/10/2023 9:25:39-Se encuentra el analizador configurado.
+
+16/10/2023 9:25:39-Inicia la aplicación
+
+16/10/2023 9:25:39-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 9:25:39-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 9:40:11-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 9:40:12-Se mueve el archivo: c:\temporal\results\old\20231016094011QRY^Q02.txt
+
+16/10/2023 9:40:47-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 9:41:29-Conectando con GALILEO ONLINE
+
+16/10/2023 9:41:37-Se encuentra el analizador configurado.
+
+16/10/2023 9:41:37-Inicia la aplicación
+
+16/10/2023 9:41:37-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 9:41:38-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 9:41:38-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 9:42:27-Se mueve el archivo: c:\temporal\results\old\20231016094138QRY^Q02.txt
+
+16/10/2023 9:43:11-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 9:43:29-Conectando con GALILEO ONLINE
+
+16/10/2023 9:43:35-Se encuentra el analizador configurado.
+
+16/10/2023 9:43:35-Inicia la aplicación
+
+16/10/2023 9:43:35-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 9:43:35-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 9:43:35-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:08:29-Conectando con GALILEO ONLINE
+
+16/10/2023 10:08:42-Se encuentra el analizador configurado.
+
+16/10/2023 10:08:42-Inicia la aplicación
+
+16/10/2023 10:08:42-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:08:42-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:08:42-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:08:48-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:08:50-HOST  :<SB>MSH|^~\&|||||20231016100850||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:08:50-Se mueve el archivo: c:\temporal\results\old\20231016100842QRY^Q02.txt
+
+16/10/2023 10:09:56-Conectando con GALILEO ONLINE
+
+16/10/2023 10:10:03-Se encuentra el analizador configurado.
+
+16/10/2023 10:10:03-Inicia la aplicación
+
+16/10/2023 10:10:03-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:10:03-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:10:03-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:11:33-Conectando con GALILEO ONLINE
+
+16/10/2023 10:11:39-Se encuentra el analizador configurado.
+
+16/10/2023 10:11:39-Inicia la aplicación
+
+16/10/2023 10:11:39-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:11:39-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:11:39-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:11:46-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:11:59-HOST  :<SB>MSH|^~\&|||||20231016101159||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+MSA|AA||Message accepted|||0<CR>
+ERR|0|<CR>
+QAK|SR|OK|<CR>
+<EB><CR>
+
+
+16/10/2023 10:11:59-Se mueve el archivo: c:\temporal\results\old\20231016101139QRY^Q02.txt
+
+16/10/2023 10:14:07-Conectando con GALILEO ONLINE
+
+16/10/2023 10:14:16-Se encuentra el analizador configurado.
+
+16/10/2023 10:14:16-Inicia la aplicación
+
+16/10/2023 10:14:16-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:14:16-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:14:58-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:15:19-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:16:26-Conectando con GALILEO ONLINE
+
+16/10/2023 10:16:32-Se encuentra el analizador configurado.
+
+16/10/2023 10:16:32-Inicia la aplicación
+
+16/10/2023 10:16:32-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:16:32-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:16:32-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:16:41-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:16:41-HOST  :<SB>MSH|^~\&|||||20231016101641||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+MSA|AA||Message accepted|||0<CR>
+ERR|0|<CR>
+QAK|SR|OK|<CR>
+<EB><CR>
+
+
+16/10/2023 10:16:41-Se mueve el archivo: c:\temporal\results\old\20231016101632QRY^Q02.txt
+
+16/10/2023 10:18:08-Conectando con GALILEO ONLINE
+
+16/10/2023 10:18:17-Se encuentra el analizador configurado.
+
+16/10/2023 10:18:17-Inicia la aplicación
+
+16/10/2023 10:18:17-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:18:17-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:18:26-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:18:35-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:18:35-HOST  :<SB>MSH|^~\&|||||20231016101835||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+MSA|AA||Message accepted|||0<CR>
+ERR|0|<CR>
+QAK|SR|OK|<CR>
+<EB><CR>
+
+
+16/10/2023 10:18:35-Se mueve el archivo: c:\temporal\results\old\20231016101826QRY^Q02.txt
+
+16/10/2023 10:18:51-Conectando con GALILEO ONLINE
+
+16/10/2023 10:18:58-Se encuentra el analizador configurado.
+
+16/10/2023 10:18:58-Inicia la aplicación
+
+16/10/2023 10:18:58-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:18:59-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:19:07-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:19:08-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:19:08-HOST  :<SB>MSH|^~\&|||||20231016101908||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+MSA|AA||Message accepted|||0<CR>
+ERR|0|<CR>
+QAK|SR|OK|<CR>
+<EB><CR>
+
+
+16/10/2023 10:19:08-Se mueve el archivo: c:\temporal\results\old\20231016101907QRY^Q02.txt
+
+16/10/2023 10:19:24-Conectando con GALILEO ONLINE
+
+16/10/2023 10:19:30-Se encuentra el analizador configurado.
+
+16/10/2023 10:19:30-Inicia la aplicación
+
+16/10/2023 10:19:30-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:19:30-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:19:30-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:20:53-Conectando con GALILEO ONLINE
+
+16/10/2023 10:21:02-Se encuentra el analizador configurado.
+
+16/10/2023 10:21:03-Inicia la aplicación
+
+16/10/2023 10:21:03-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:21:03-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:21:03-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:23:16-Conectando con GALILEO ONLINE
+
+16/10/2023 10:23:23-Se encuentra el analizador configurado.
+
+16/10/2023 10:23:23-Inicia la aplicación
+
+16/10/2023 10:23:23-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:23:23-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:23:23-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:23:31-CLIA  :<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>
+QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>
+QRF||||||RCT|COR|ALL||<LF>
+<EB>
+
+16/10/2023 10:24:05-HOST  :<SB>MSH|^~\&|||||20231016102331||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:24:09-Se mueve el archivo: c:\temporal\results\old\20231016102323QRY^Q02.txt
+
+16/10/2023 10:33:23-Conectando con GALILEO ONLINE
+
+16/10/2023 10:33:32-Se encuentra el analizador configurado.
+
+16/10/2023 10:33:32-Inicia la aplicación
+
+16/10/2023 10:33:32-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:33:32-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:34:57-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:35:51-Conectando con GALILEO ONLINE
+
+16/10/2023 10:35:58-Se encuentra el analizador configurado.
+
+16/10/2023 10:35:59-Inicia la aplicación
+
+16/10/2023 10:35:59-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:35:59-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:35:59-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:36:00-CLIA  :16/10/2023 10:36:00	MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|QRF||||||RCT|COR|ALL||
+
+16/10/2023 10:36:00-CLIA  :16/10/2023 10:36:00	MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|QRF||||||RCT|COR|ALL||
+
+16/10/2023 10:36:00-CLIA  :16/10/2023 10:36:00	MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|QRF||||||RCT|COR|ALL||
+
+16/10/2023 10:36:00-CLIA  :16/10/2023 10:36:00	MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|QRF||||||RCT|COR|ALL||
+
+16/10/2023 10:36:00-HOST  :16/10/2023 10:36:00	<SB>MSH|^~\&|||||20231016103600||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:36:00-Se mueve el archivo: c:\temporal\results\old\20231016103559QRY^Q02.txt
+
+16/10/2023 10:40:34-Conectando con GALILEO ONLINE
+
+16/10/2023 10:40:41-Se encuentra el analizador configurado.
+
+16/10/2023 10:40:41-Inicia la aplicación
+
+16/10/2023 10:40:41-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:40:41-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:41:07-Conectando con GALILEO ONLINE
+
+16/10/2023 10:41:14-Se encuentra el analizador configurado.
+
+16/10/2023 10:41:14-Inicia la aplicación
+
+16/10/2023 10:41:14-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:41:14-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:41:35-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt - Acceso directo.lnk
+
+16/10/2023 10:41:38-CLIA  :16/10/2023 10:41:38	L   <SOH><STX>     �      F�      �N�m> �<SOH>����> �<SOH>_̧�> �<SOH>�       <SOH>               <ACK><SOH> P�O� �:i�� +00�: .�:̿�,�LB�)隇�A& <SOH> & �   �S� �+�<SOH>5<SB>����<SOH>�l����<SOH> T 1     PW�t Tramas  > 	 <EOT> �MW0�PW�t.   ��   !               �8 T r a m a s    b 2 �   PW+u  QRY^Q02.txt H 	 <EOT> �PW�tPW+u.   3�                  �4 Q R Y ^ Q 0 2 . t x t      f   <EB>   <SOH>   <EB>   4       e      <ETX>   D�v   Windows C:\Users\lvillafuerte\Desktop\Tramas\QRY^Q02.txt  3 . . \ . . \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s \ Q R Y ^ Q 0 2 . t x t $ C : \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s `   <ETX>  �X       lp-fr-lvillafu  8lvu��a@��<EB>Fkv)n�8��j����[(�8lvu��a@��<EB>Fkv)n�8��j����[(�<STX>  	  ��   1SPS0�%��G��<STX>`���)   <CR>          Q R Y ^ Q 0 2 . t x t   <NAK>       @    �Vn> �<SOH><NAK>       <NAK>   �       9   <EOT>          D o c u m e n t o   d e   t e x t o     <NAK>       @   _̧�> �<SOH>    �   1SPS�jc(=���� �O��u          1   C : \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s \ Q R Y ^ Q 0 2 . t x t         9   1SPS�mD��pH�H@.�=x�   h    H   \���CLN�U<NAK>~=�^�    �   1SPSLX�㈷ZJ� ZDɬ�i   <ACK>       +   C : \ U s u a r i o s \ l v i l l a f u e r t e \ E s c r i t o r i o \ T r a m a s                 
+
+16/10/2023 10:41:38-Se mueve el archivo: c:\temporal\results\old\20231016104135QRY^Q02.txt - Acceso directo.lnk
+
+16/10/2023 10:41:45-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:42:02-CLIA  :16/10/2023 10:42:02	L   <SOH><STX>     �      F�      �N�m> �<SOH>����> �<SOH>_̧�> �<SOH>�       <SOH>               <ACK><SOH> P�O� �:i�� +00�: .�:̿�,�LB�)隇�A& <SOH> & �   �S� �+�<SOH>5<SB>����<SOH>�l����<SOH> T 1     PW�t Tramas  > 	 <EOT> �MW0�PW�t.   ��   !               �8 T r a m a s    b 2 �   PW+u  QRY^Q02.txt H 	 <EOT> �PW�tPW+u.   3�                  �4 Q R Y ^ Q 0 2 . t x t      f   <EB>   <SOH>   <EB>   4       e      <ETX>   D�v   Windows C:\Users\lvillafuerte\Desktop\Tramas\QRY^Q02.txt  3 . . \ . . \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s \ Q R Y ^ Q 0 2 . t x t $ C : \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s `   <ETX>  �X       lp-fr-lvillafu  8lvu��a@��<EB>Fkv)n�8��j����[(�8lvu��a@��<EB>Fkv)n�8��j����[(�<STX>  	  ��   1SPS0�%��G��<STX>`���)   <CR>          Q R Y ^ Q 0 2 . t x t   <NAK>       @    �Vn> �<SOH><NAK>       <NAK>   �       9   <EOT>          D o c u m e n t o   d e   t e x t o     <NAK>       @   _̧�> �<SOH>    �   1SPS�jc(=���� �O��u          1   C : \ U s e r s \ l v i l l a f u e r t e \ D e s k t o p \ T r a m a s \ Q R Y ^ Q 0 2 . t x t         9   1SPS�mD��pH�H@.�=x�   h    H   \���CLN�U<NAK>~=�^�    �   1SPSLX�㈷ZJ� ZDɬ�i   <ACK>       +   C : \ U s u a r i o s \ l v i l l a f u e r t e \ E s c r i t o r i o \ T r a m a s                 <SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<LF>QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<LF>QRF||||||RCT|COR|ALL||<LF><EB>
+
+16/10/2023 10:44:20-Conectando con GALILEO ONLINE
+
+16/10/2023 10:44:29-Se encuentra el analizador configurado.
+
+16/10/2023 10:44:29-Inicia la aplicación
+
+16/10/2023 10:44:29-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:44:29-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:44:29-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:45:18-Conectando con GALILEO ONLINE
+
+16/10/2023 10:45:23-Se encuentra el analizador configurado.
+
+16/10/2023 10:45:24-Inicia la aplicación
+
+16/10/2023 10:45:24-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:45:24-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:45:24-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:45:27-CLIA  :16/10/2023 10:45:27	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:45:27-CLIA  :16/10/2023 10:45:27	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:45:27-CLIA  :16/10/2023 10:45:27	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:45:27-CLIA  :16/10/2023 10:45:27	<EB>
+
+16/10/2023 10:45:30-HOST  :16/10/2023 10:45:30	<SB>MSH|^~\&|||||20231016104527||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:45:30-Se mueve el archivo: c:\temporal\results\old\20231016104524QRY^Q02.txt
+
+16/10/2023 10:46:04-Conectando con GALILEO ONLINE
+
+16/10/2023 10:46:18-Se encuentra el analizador configurado.
+
+16/10/2023 10:46:18-Inicia la aplicación
+
+16/10/2023 10:46:18-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:46:18-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:46:24-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:46:25-CLIA  :16/10/2023 10:46:25	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:46:25-CLIA  :16/10/2023 10:46:25	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:46:25-CLIA  :16/10/2023 10:46:25	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:46:25-CLIA  :16/10/2023 10:46:25	<EB>
+
+16/10/2023 10:46:25-HOST  :16/10/2023 10:46:25	<SB>MSH|^~\&|||||20231016104625||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:46:25-Se mueve el archivo: c:\temporal\results\old\20231016104624QRY^Q02.txt
+
+16/10/2023 10:51:35-Conectando con GALILEO ONLINE
+
+16/10/2023 10:51:44-Se encuentra el analizador configurado.
+
+16/10/2023 10:51:44-Inicia la aplicación
+
+16/10/2023 10:51:44-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:51:44-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:52:35-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:52:36-16/10/2023 10:52:36	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:52:36-16/10/2023 10:52:36	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:52:36-16/10/2023 10:52:36	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:52:36-16/10/2023 10:52:36	CLIA:	<EB>
+
+16/10/2023 10:52:36-16/10/2023 10:52:36	HOST:	<SB>MSH|^~\&|||||20231016105236||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:52:36-Se mueve el archivo: c:\temporal\results\old\20231016105235QRY^Q02.txt
+
+16/10/2023 10:53:36-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	<EB><SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:53:37-16/10/2023 10:53:37	CLIA:	<EB>
+
+16/10/2023 10:53:40-16/10/2023 10:53:40	HOST:	<SB>MSH|^~\&|||||20231016105337||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:53:51-Conectando con GALILEO ONLINE
+
+16/10/2023 10:53:57-Se encuentra el analizador configurado.
+
+16/10/2023 10:53:57-Inicia la aplicación
+
+16/10/2023 10:53:57-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 10:53:57-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 10:53:57-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:53:58-16/10/2023 10:53:58	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:53:58-16/10/2023 10:53:58	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:53:58-16/10/2023 10:53:58	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:53:58-16/10/2023 10:53:58	CLIA:	<EB>
+
+16/10/2023 10:54:32-16/10/2023 10:54:32	HOST:	<SB>MSH|^~\&|||||20231016105358||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>MSA|AA||Message accepted|||0<CR>ERR|0|<CR>QAK|SR|OK|<CR><EB><CR>
+
+16/10/2023 10:54:36-Se mueve el archivo: c:\temporal\results\old\20231016105357QRY^Q02.txt
+
+16/10/2023 10:56:17-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	<EB><SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 10:56:18-16/10/2023 10:56:18	CLIA:	<EB>
+
+16/10/2023 11:18:38-Conectando con GALILEO ONLINE
+
+16/10/2023 11:18:54-Se encuentra el analizador configurado.
+
+16/10/2023 11:18:54-Inicia la aplicación
+
+16/10/2023 11:18:54-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 11:18:54-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 11:18:54-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 11:19:08-16/10/2023 11:19:08	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 11:19:08-16/10/2023 11:19:08	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 11:19:08-16/10/2023 11:19:08	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 11:19:08-16/10/2023 11:19:08	CLIA:	<EB>
+
+16/10/2023 11:19:53-Conectando con GALILEO ONLINE
+
+16/10/2023 11:20:00-Se encuentra el analizador configurado.
+
+16/10/2023 11:20:01-Inicia la aplicación
+
+16/10/2023 11:20:01-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 11:20:01-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 11:20:01-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 11:20:06-16/10/2023 11:20:06	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 11:20:06-16/10/2023 11:20:06	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 11:20:06-16/10/2023 11:20:06	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 11:20:06-16/10/2023 11:20:06	CLIA:	<EB>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	<SB>MSH|^~\&|||||20231016112007||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	ERR|0|<CR>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	<EB><CR>
+
+16/10/2023 11:20:10-16/10/2023 11:20:10	HOST:	
+
+16/10/2023 11:20:10-Se mueve el archivo: c:\temporal\results\old\20231016112001QRY^Q02.txt
+
+16/10/2023 11:47:03-Conectando con GALILEO ONLINE
+
+16/10/2023 11:47:14-Se encuentra el analizador configurado.
+
+16/10/2023 11:47:14-Inicia la aplicación
+
+16/10/2023 11:47:14-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 11:47:15-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 11:47:15-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 11:47:40-16/10/2023 11:47:40	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 11:47:40-16/10/2023 11:47:40	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 11:47:40-16/10/2023 11:47:40	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 11:47:40-16/10/2023 11:47:40	CLIA:	<EB>
+
+16/10/2023 11:47:47-16/10/2023 11:47:47	HOST:	<SB>MSH|^~\&|||||20231016114742||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 11:47:47-16/10/2023 11:47:47	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 11:47:47-16/10/2023 11:47:47	HOST:	ERR|0|<CR>
+
+16/10/2023 11:47:47-16/10/2023 11:47:47	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 11:47:47-16/10/2023 11:47:47	HOST:	<EB><CR>
+
+16/10/2023 11:47:47-Se mueve el archivo: c:\temporal\results\old\20231016114715QRY^Q02.txt
+
+16/10/2023 11:54:49-Conectando con GALILEO ONLINE
+
+16/10/2023 11:54:57-Se encuentra el analizador configurado.
+
+16/10/2023 11:54:57-Inicia la aplicación
+
+16/10/2023 11:54:57-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 11:54:57-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 11:55:19-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 11:55:24-16/10/2023 11:55:24	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 11:55:24-16/10/2023 11:55:24	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 11:55:24-16/10/2023 11:55:24	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 11:55:24-16/10/2023 11:55:24	CLIA:	<EB>
+
+16/10/2023 12:37:38-Conectando con GALILEO ONLINE
+
+16/10/2023 12:37:52-Se encuentra el analizador configurado.
+
+16/10/2023 12:37:52-Inicia la aplicación
+
+16/10/2023 12:37:52-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 12:37:52-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 12:37:52-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 12:37:53-16/10/2023 12:37:53	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 12:37:53-16/10/2023 12:37:53	CLIA:	QRD|20230926093902|R|D|32|||RD|2309260009.1|OTH|||T|<CR>
+
+16/10/2023 12:37:53-16/10/2023 12:37:53	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 12:37:53-16/10/2023 12:37:53	CLIA:	<EB>
+
+16/10/2023 12:56:02-Conectando con GALILEO ONLINE
+
+16/10/2023 12:56:15-Se encuentra el analizador configurado.
+
+16/10/2023 12:56:15-Inicia la aplicación
+
+16/10/2023 12:56:15-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 12:56:15-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 12:56:15-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 12:56:16-16/10/2023 12:56:16	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 12:56:16-16/10/2023 12:56:16	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 12:56:16-16/10/2023 12:56:16	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 12:56:16-16/10/2023 12:56:16	CLIA:	<EB>
+
+16/10/2023 13:10:23-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:10:29-16/10/2023 13:10:29	HOST:	<SB>MSH|^~\&|||||20231016131023||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:10:29-16/10/2023 13:10:29	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:10:29-16/10/2023 13:10:29	HOST:	ERR|0|<CR>
+
+16/10/2023 13:10:29-16/10/2023 13:10:29	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:10:29-16/10/2023 13:10:29	HOST:	<EB><CR>
+
+16/10/2023 13:10:29-Se mueve el archivo: c:\temporal\results\old\20231016125615QRY^Q02.txt
+
+16/10/2023 13:11:51-Conectando con GALILEO ONLINE
+
+16/10/2023 13:12:01-Se encuentra el analizador configurado.
+
+16/10/2023 13:12:01-Inicia la aplicación
+
+16/10/2023 13:12:01-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:12:01-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:12:16-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:12:17-16/10/2023 13:12:17	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:12:17-16/10/2023 13:12:17	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:12:17-16/10/2023 13:12:17	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:12:17-16/10/2023 13:12:17	CLIA:	<EB>
+
+16/10/2023 13:12:17-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:13:09-16/10/2023 13:13:09	HOST:	<SB>MSH|^~\&|||||20231016131256||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:13:09-16/10/2023 13:13:09	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:13:09-16/10/2023 13:13:09	HOST:	ERR|0|<CR>
+
+16/10/2023 13:13:09-16/10/2023 13:13:09	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:13:09-16/10/2023 13:13:09	HOST:	<EB><CR>
+
+16/10/2023 13:25:19-Conectando con GALILEO ONLINE
+
+16/10/2023 13:25:27-Se encuentra el analizador configurado.
+
+16/10/2023 13:25:27-Inicia la aplicación
+
+16/10/2023 13:25:27-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:25:27-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:25:27-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:25:28-16/10/2023 13:25:28	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:25:28-16/10/2023 13:25:28	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:25:28-16/10/2023 13:25:28	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:25:28-16/10/2023 13:25:28	CLIA:	<EB>
+
+16/10/2023 13:25:29-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:25:41-16/10/2023 13:25:41	HOST:	<SB>MSH|^~\&|||||20231016132541||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:25:41-16/10/2023 13:25:41	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:25:41-16/10/2023 13:25:41	HOST:	ERR|0|<CR>
+
+16/10/2023 13:25:41-16/10/2023 13:25:41	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:25:41-16/10/2023 13:25:41	HOST:	<EB><CR>
+
+16/10/2023 13:29:21-Conectando con GALILEO ONLINE
+
+16/10/2023 13:29:28-Se encuentra el analizador configurado.
+
+16/10/2023 13:29:28-Inicia la aplicación
+
+16/10/2023 13:29:28-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:29:28-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:29:28-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	CLIA:	<EB>
+
+16/10/2023 13:29:29-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	HOST:	<SB>MSH|^~\&|||||20231016132929||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	HOST:	ERR|0|<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:29:29-16/10/2023 13:29:29	HOST:	<EB><CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	<SB>MSH|^~\&|||||20231016132929||DSR^Q03|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	ERR|0|<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	QRD|20231013123456|R|D|2|||RD||OTH|||T|<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	|||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|1||1|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|2|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|3||FRISONEX|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|4||YYYY02DD0000SS|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|5||M|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|6|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|7|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|8|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|9|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|10|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|11|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|12|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|13|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|14|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|15|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|16|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|17|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|18|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|19|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|20|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|21||202310160001|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|22|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|23|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|24||N|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|25|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|26|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|27|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|28|||||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|29||CEA^^^|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSP|30||CA125^^^|||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	DSC||<CR>
+
+16/10/2023 13:29:34-16/10/2023 13:29:34	HOST:	<EB><CR>
+
+16/10/2023 13:29:34-Se mueve el archivo: c:\temporal\results\old\20231016132928QRY^Q02.txt
+
+16/10/2023 13:31:20-Conectando con GALILEO ONLINE
+
+16/10/2023 13:31:26-Se encuentra el analizador configurado.
+
+16/10/2023 13:31:26-Inicia la aplicación
+
+16/10/2023 13:31:26-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:31:26-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:31:40-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:31:41-16/10/2023 13:31:41	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:31:41-16/10/2023 13:31:41	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	CLIA:	<EB>
+
+16/10/2023 13:31:42-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	HOST:	<SB>MSH|^~\&|||||20231016133142||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	HOST:	ERR|0|<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:31:42-16/10/2023 13:31:42	HOST:	<EB><CR>
+
+16/10/2023 13:31:42-Creando la respuesta al analizador para: 202310160001-3
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	<SB>MSH|^~\&|||||20231016133142||DSR^Q03|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	ERR|0|<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	QRD|20231013123456|R|D|2|||RD||OTH|||T|<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	|||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|1||1|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|2|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|3||FRISONEX|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|4||19990210120000|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|5||M|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|6|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|7|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|8|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|9|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|10|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|11|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|12|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|13|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|14|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|15|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|16|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|17|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|18|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|19|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|20|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|21||202310160001|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|22|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|23|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|24||N|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|25|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|26|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|27|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|28|||||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|29||CEA^^^|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSP|30||CA125^^^|||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	DSC||<CR>
+
+16/10/2023 13:32:00-16/10/2023 13:32:00	HOST:	<EB><CR>
+
+16/10/2023 13:32:00-Se mueve el archivo: c:\temporal\results\old\20231016133140QRY^Q02.txt
+
+16/10/2023 13:38:08-Conectando con GALILEO ONLINE
+
+16/10/2023 13:38:16-Se encuentra el analizador configurado.
+
+16/10/2023 13:38:16-Inicia la aplicación
+
+16/10/2023 13:38:16-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:38:16-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:38:22-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	CLIA:	<EB>
+
+16/10/2023 13:38:23-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	HOST:	<SB>MSH|^~\&|||||20231016133823||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	HOST:	ERR|0|<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:38:23-16/10/2023 13:38:23	HOST:	<EB><CR>
+
+16/10/2023 13:38:23-Creando la respuesta al analizador para: 202310160001-3
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	<SB>MSH|^~\&|||||20231016133823||DSR^Q03|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	MSA|AA||Message accepted|||0<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	ERR|0|<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	QRD|20231013123456|R|D|2|||RD||OTH|||T|<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	|||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|1||1|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|2|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|3||FRISONEX|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|4||19990210120000|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|5||M|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|6|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|7|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|8|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|9|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|10|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|11|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|12|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|13|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|14|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|15|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|16|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|17|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|18|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|19|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|20|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|21||202310160001-3|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|22|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|23|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|24||N|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|25|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|26|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|27|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|28|||||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|29||CEA^^^|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSP|30||CA125^^^|||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	DSC||<CR>
+
+16/10/2023 13:38:30-16/10/2023 13:38:30	HOST:	<EB><CR>
+
+16/10/2023 13:38:30-Se mueve el archivo: c:\temporal\results\old\20231016133822QRY^Q02.txt
+
+16/10/2023 13:45:15-Conectando con GALILEO ONLINE
+
+16/10/2023 13:45:22-Se encuentra el analizador configurado.
+
+16/10/2023 13:45:22-Inicia la aplicación
+
+16/10/2023 13:45:22-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 13:45:23-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 13:45:34-Se ha encontrado el archivo c:\temporal\results\QRY^Q02.txt
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	CLIA:	<EB>
+
+16/10/2023 13:45:35-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	HOST:	<SB>MSH|^~\&|||||20231016134535||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	HOST:	MSA|AA||Message accepted|||0|<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	HOST:	ERR|0|<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:45:35-16/10/2023 13:45:35	HOST:	<EB><CR>
+
+16/10/2023 13:45:35-Creando la respuesta al analizador para: 202310160001-3
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	<SB>MSH|^~\&|||||20231016134535||DSR^Q03|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	MSA|AA||Message accepted|||0|<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	ERR|0|<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	QRD|20231013123456|R|D|2|||RD||OTH|||T|<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|1||1|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|2|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|3||FRISONEX|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|4||19990210120000|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|5||M|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|6|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|7|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|8|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|9|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|10|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|11|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|12|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|13|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|14|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|15|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|16|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|17|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|18|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|19|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|20|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|21||202310160001-3|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|22|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|23|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|24||N|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|25|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|26|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|27|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|28|||||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|29||CEA^^^|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSP|30||CA125^^^|||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	DSC||<CR>
+
+16/10/2023 13:45:37-16/10/2023 13:45:37	HOST:	<EB><CR>
+
+16/10/2023 13:45:37-Se mueve el archivo: c:\temporal\results\old\20231016134534QRY^Q02.txt
+
+16/10/2023 13:56:06-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	<EB><SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 13:56:07-16/10/2023 13:56:07	CLIA:	<EB>
+
+16/10/2023 13:56:07-Consultando al LIS la orden: 202310160001-3
+
+16/10/2023 13:56:10-16/10/2023 13:56:10	HOST:	<SB>MSH|^~\&|||||20231016135610||QCK^Q02|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:56:10-16/10/2023 13:56:10	HOST:	MSA|AA||Message accepted|||0|<CR>
+
+16/10/2023 13:56:10-16/10/2023 13:56:10	HOST:	ERR|0|<CR>
+
+16/10/2023 13:56:10-16/10/2023 13:56:10	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:56:10-16/10/2023 13:56:10	HOST:	<EB><CR>
+
+16/10/2023 13:56:10-Creando la respuesta al analizador para: 202310160001-3
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	<SB>MSH|^~\&|||||20231016135610||DSR^Q03|4|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	MSA|AA||Message accepted|||0|<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	ERR|0|<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	QAK|SR|OK|<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	QRD|20231013123456|R|D|2|||RD||OTH|||T|<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|1||1|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|2|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|3||FRISONEX|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|4||19990210120000|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|5||M|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|6|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|7|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|8|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|9|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|10|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|11|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|12|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|13|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|14|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|15|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|16|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|17|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|18|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|19|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|20|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|21||202310160001-3|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|22|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|23|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|24||N|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|25|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|26|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|27|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|28|||||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|29||CEA^^^|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSP|30||CA125^^^|||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	DSC||<CR>
+
+16/10/2023 13:56:19-16/10/2023 13:56:19	HOST:	<EB><CR>
+
+16/10/2023 13:56:19-Se mueve el archivo: c:\temporal\results\old\20231016135606TramaResultados.txt
+
+16/10/2023 13:57:58-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	<SB>MSH|^~\&|||||20230926093902||QRY^Q02|51|P|2.3.1||||||ASCII|||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	QRD|20230926093902|R|D|32|||RD|202310160001-3|OTH|||T|<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	<EB><SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	<EB><SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 13:57:59-16/10/2023 13:57:59	CLIA:	<EB>
+
+16/10/2023 14:00:34-Conectando con GALILEO ONLINE
+
+16/10/2023 14:00:43-Se encuentra el analizador configurado.
+
+16/10/2023 14:00:43-Inicia la aplicación
+
+16/10/2023 14:00:43-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:00:43-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:00:43-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:00:44-16/10/2023 14:00:44	CLIA:	<EB>
+
+16/10/2023 14:01:23-*****FIN DEL MENSAJE******
+
+16/10/2023 14:01:23-Se mueve el archivo: c:\temporal\results\old\20231016140043TramaResultados.txt
+
+16/10/2023 14:17:09-Conectando con GALILEO ONLINE
+
+16/10/2023 14:17:18-Se encuentra el analizador configurado.
+
+16/10/2023 14:17:18-Inicia la aplicación
+
+16/10/2023 14:17:18-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:17:18-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:17:18-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:17:19-16/10/2023 14:17:19	CLIA:	<EB>
+
+16/10/2023 14:18:41-Conectando con GALILEO ONLINE
+
+16/10/2023 14:18:48-Se encuentra el analizador configurado.
+
+16/10/2023 14:18:48-Inicia la aplicación
+
+16/10/2023 14:18:48-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:18:48-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:18:48-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:18:49-16/10/2023 14:18:49	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "2309260007.1",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:20:07-Conectando con GALILEO ONLINE
+
+16/10/2023 14:20:13-Se encuentra el analizador configurado.
+
+16/10/2023 14:20:13-Inicia la aplicación
+
+16/10/2023 14:20:13-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:20:13-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:20:13-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:20:14-16/10/2023 14:20:14	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|2309260007.1|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "2309260007.1",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:21:30-Conectando con GALILEO ONLINE
+
+16/10/2023 14:21:37-Se encuentra el analizador configurado.
+
+16/10/2023 14:21:37-Inicia la aplicación
+
+16/10/2023 14:21:37-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:21:37-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:21:37-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:21:38-16/10/2023 14:21:38	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "202310160001-3",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:21:53-{"Header":{"Content":"|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20230926101057","Security":"","MessageType":"ORU^R01","MessageControlId":"52","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]","PatientIdentifier":null,"PatientNameContent":"ALAVA,  ADRIANA SULEMA","Patient":{"LastName":"ALAVA,  ADRIANA SULEMA","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||","SetId":"20","PlaceOrderNumber":"202310160001-3","FillerOrderNumber":"3","UniversalServiceId":"N","Priority":null,"RequestedTime":"2023-09-26T09:28:45","ObservationTime":"2023-09-26T09:28:45","CollectorId":"^^^","RelevantClinicalInfo":"","SpecimenReceivedTime":"2023-09-26T09:28:45","SpecimenSource":"Otros","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"4,462","Arguments":[]},"Units":"�IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FT3","Identifier":"FT3","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT3","ObservationNumericValue":0.0,"ObservationValue":{"Value":"3,11","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0,63","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+16/10/2023 14:22:23-Conectando con GALILEO ONLINE
+
+16/10/2023 14:22:30-Se encuentra el analizador configurado.
+
+16/10/2023 14:22:30-Inicia la aplicación
+
+16/10/2023 14:22:30-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:22:30-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:22:30-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:22:31-16/10/2023 14:22:31	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "202310160001-3",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:22:49-{"Header":{"Content":"|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20230926101057","Security":"","MessageType":"ORU^R01","MessageControlId":"52","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]","PatientIdentifier":null,"PatientNameContent":"ALAVA,  ADRIANA SULEMA","Patient":{"LastName":"ALAVA,  ADRIANA SULEMA","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||","SetId":"20","PlaceOrderNumber":"202310160001-3","FillerOrderNumber":"3","UniversalServiceId":"N","Priority":null,"RequestedTime":"2023-09-26T09:28:45","ObservationTime":"2023-09-26T09:28:45","CollectorId":"^^^","RelevantClinicalInfo":"","SpecimenReceivedTime":"2023-09-26T09:28:45","SpecimenSource":"Otros","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"4,462","Arguments":[]},"Units":"�IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FT3","Identifier":"FT3","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT3","ObservationNumericValue":0.0,"ObservationValue":{"Value":"3,11","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0,63","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+16/10/2023 14:24:26-Conectando con GALILEO ONLINE
+
+16/10/2023 14:24:34-Se encuentra el analizador configurado.
+
+16/10/2023 14:24:34-Inicia la aplicación
+
+16/10/2023 14:24:34-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:24:34-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:24:34-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:24:35-16/10/2023 14:24:35	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "202310160001-3",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:24:44-{"Header":{"Content":"|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20230926101057","Security":"","MessageType":"ORU^R01","MessageControlId":"52","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]","PatientIdentifier":null,"PatientNameContent":"ALAVA,  ADRIANA SULEMA","Patient":{"LastName":"ALAVA,  ADRIANA SULEMA","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||","SetId":"20","PlaceOrderNumber":"202310160001-3","FillerOrderNumber":"3","UniversalServiceId":"N","Priority":null,"RequestedTime":"2023-09-26T09:28:45","ObservationTime":"2023-09-26T09:28:45","CollectorId":"^^^","RelevantClinicalInfo":"","SpecimenReceivedTime":"2023-09-26T09:28:45","SpecimenSource":"Otros","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"4,462","Arguments":[]},"Units":"�IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FT3","Identifier":"FT3","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT3","ObservationNumericValue":0.0,"ObservationValue":{"Value":"3,11","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0,63","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+16/10/2023 14:25:00-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT4\",\"valorNumero\":63.0,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":107},{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT3\",\"valorNumero\":311.0,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":109},{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":4462.0,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111}]"
+
+16/10/2023 14:25:55-Conectando con GALILEO ONLINE
+
+16/10/2023 14:26:02-Se encuentra el analizador configurado.
+
+16/10/2023 14:26:02-Inicia la aplicación
+
+16/10/2023 14:26:02-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:26:02-Sensando la ruta: c:\temporal\results 
+
+16/10/2023 14:26:02-Se ha encontrado el archivo c:\temporal\results\TramaResultados.txt
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	<SB>MSH|^~\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||<CR>
+
+16/10/2023 14:26:03-16/10/2023 14:26:03	CLIA:	<EB>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20230926101057",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "52",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALAVA,  ADRIANA SULEMA",
+    "Patient": {
+      "LastName": "ALAVA,  ADRIANA SULEMA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||",
+    "SetId": "20",
+    "PlaceOrderNumber": "202310160001-3",
+    "FillerOrderNumber": "3",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-09-26T09:28:45",
+    "ObservationTime": "2023-09-26T09:28:45",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-09-26T09:28:45",
+    "SpecimenSource": "Otros",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "4,462",
+        "Arguments": []
+      },
+      "Units": "�IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3,11",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0,63",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+16/10/2023 14:26:05-{"Header":{"Content":"|^~\\&|||||20230926101057||ORU^R01|52|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20230926101057","Security":"","MessageType":"ORU^R01","MessageControlId":"52","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|20|1301653349|||ALAVA,  ADRIANA SULEMA|||F|||||||||||||||||||||||[CR]","PatientIdentifier":null,"PatientNameContent":"ALAVA,  ADRIANA SULEMA","Patient":{"LastName":"ALAVA,  ADRIANA SULEMA","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|20|202310160001-3|3|^|N|20230926092845|20230926092845|20230926092845||^^^||||20230926092845|Otros||||||||||5|||||||||||||||||||||||","SetId":"20","PlaceOrderNumber":"202310160001-3","FillerOrderNumber":"3","UniversalServiceId":"N","Priority":null,"RequestedTime":"2023-09-26T09:28:45","ObservationTime":"2023-09-26T09:28:45","CollectorId":"^^^","RelevantClinicalInfo":"","SpecimenReceivedTime":"2023-09-26T09:28:45","SpecimenSource":"Otros","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TSH|TSH|4,462|�IU/mL|-|N|||F||4.461827|20230926100616|||0|||||","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"4,462","Arguments":[]},"Units":"�IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FT3|FT3|3,11|pg/mL|-|N|||F||3.108022|20230926101056|||0|||||","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FT3","Identifier":"FT3","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT3","ObservationNumericValue":0.0,"ObservationValue":{"Value":"3,11","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|FT4|FT4|0,63|ng/dL|-|N|||F||0.627692|20230926100036|||0|||||","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0,63","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+16/10/2023 14:26:05-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT4\",\"valorNumero\":0.63,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":107},{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT3\",\"valorNumero\":3.11,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":109},{\"idLaboratorio\":18,\"codigoOrden\":\"202310160001\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":4.462,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111}]"
+
+16/10/2023 14:26:08-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+16/10/2023 14:26:08-*****FIN DEL MENSAJE******
+
+16/10/2023 14:26:08-Se mueve el archivo: c:\temporal\results\old\20231016142602TramaResultados.txt
+
+16/10/2023 14:42:48-Conectando con GALILEO ONLINE
+
+16/10/2023 14:42:57-Se encuentra el analizador configurado.
+
+16/10/2023 14:42:57-Inicia la aplicación
+
+16/10/2023 14:42:57-Esperando Conexión del Instrumento CLIA 1000
+
+16/10/2023 14:42:57-Escuchando el puerto: 6500 por TCP/IP
+

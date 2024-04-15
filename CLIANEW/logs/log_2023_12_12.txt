@@ -1,0 +1,138 @@
+12/12/2023 12:58:26-Conectando con GALILEO ONLINE
+
+12/12/2023 12:58:34-Se encuentra el analizador configurado.
+
+12/12/2023 12:58:34-Inicia la aplicación
+
+12/12/2023 12:58:34-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 12:58:34-Escuchando el puerto: 6502 por TCP/IP
+
+12/12/2023 12:59:18-Conectando con GALILEO ONLINE
+
+12/12/2023 12:59:27-Se encuentra el analizador configurado.
+
+12/12/2023 12:59:27-Inicia la aplicación
+
+12/12/2023 12:59:27-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 13:36:03-Conectando con GALILEO ONLINE
+
+12/12/2023 13:36:12-Se encuentra el analizador configurado.
+
+12/12/2023 13:36:12-Inicia la aplicación
+
+12/12/2023 13:36:12-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:06:56-Conectando con GALILEO ONLINE
+
+12/12/2023 15:07:07-Se encuentra el analizador configurado.
+
+12/12/2023 15:07:07-Inicia la aplicación
+
+12/12/2023 15:07:07-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:07:32-Conectando con GALILEO ONLINE
+
+12/12/2023 15:07:38-Se encuentra el analizador configurado.
+
+12/12/2023 15:07:38-Inicia la aplicación
+
+12/12/2023 15:07:38-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:11:38-Conectando con GALILEO ONLINE
+
+12/12/2023 15:11:44-Se encuentra el analizador configurado.
+
+12/12/2023 15:11:44-Inicia la aplicación
+
+12/12/2023 15:11:44-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:11:48-Conectando con GALILEO ONLINE
+
+12/12/2023 15:11:55-Se encuentra el analizador configurado.
+
+12/12/2023 15:11:55-Inicia la aplicación
+
+12/12/2023 15:11:55-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:12:01-Conectando con GALILEO ONLINE
+
+12/12/2023 15:12:08-Conectando con GALILEO ONLINE
+
+12/12/2023 15:12:10-Se encuentra el analizador configurado.
+
+12/12/2023 15:12:10-Inicia la aplicación
+
+12/12/2023 15:12:10-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:12:17-Se encuentra el analizador configurado.
+
+12/12/2023 15:12:17-Inicia la aplicación
+
+12/12/2023 15:12:17-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 15:12:24-Conectando con GALILEO ONLINE
+
+12/12/2023 15:12:32-Se encuentra el analizador configurado.
+
+12/12/2023 15:12:32-Inicia la aplicación
+
+12/12/2023 15:12:32-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 16:24:24-Conectando con GALILEO ONLINE
+
+12/12/2023 16:24:34-Se encuentra el analizador configurado.
+
+12/12/2023 16:24:34-Inicia la aplicación
+
+12/12/2023 16:24:34-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 16:24:44-Conectando con GALILEO ONLINE
+
+12/12/2023 16:24:51-Se encuentra el analizador configurado.
+
+12/12/2023 16:24:51-Inicia la aplicación
+
+12/12/2023 16:24:51-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 20:22:45-Conectando con GALILEO ONLINE
+
+12/12/2023 20:22:55-Se encuentra el analizador configurado.
+
+12/12/2023 20:22:55-Inicia la aplicación
+
+12/12/2023 20:22:55-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 20:23:09-Conectando con GALILEO ONLINE
+
+12/12/2023 20:23:17-Se encuentra el analizador configurado.
+
+12/12/2023 20:23:17-Inicia la aplicación
+
+12/12/2023 20:23:17-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 20:23:26-Conectando con GALILEO ONLINE
+
+12/12/2023 20:23:35-Se encuentra el analizador configurado.
+
+12/12/2023 20:23:35-Inicia la aplicación
+
+12/12/2023 20:23:35-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 20:41:32-Conectando con GALILEO ONLINE
+
+12/12/2023 20:41:42-Conectando con GALILEO ONLINE
+
+12/12/2023 20:41:42-Se encuentra el analizador configurado.
+
+12/12/2023 20:41:42-Inicia la aplicación
+
+12/12/2023 20:41:42-Esperando Conexión del Instrumento CLIA 1000
+
+12/12/2023 20:41:49-Se encuentra el analizador configurado.
+
+12/12/2023 20:41:49-Inicia la aplicación
+
+12/12/2023 20:41:49-Esperando Conexión del Instrumento CLIA 1000
+

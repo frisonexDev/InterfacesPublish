@@ -1,0 +1,3214 @@
+11/02/2024 11:53:57-11/02/2024 11:53:57	CLIA:	<SB>MSH|^~\&|||||20240211115703||ORU^R01|418|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:53:57-11/02/2024 11:53:57	CLIA:	OBR|544|CA19-9|CA19-9|^|0|19000101000000|20240211110619|20240211113518|||1|101|IA LVL2|2286EC|20251128|0|M|69.200000|4.600000|64.590000|U/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:53:57-11/02/2024 11:53:57	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115703||ORU^R01|418|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115703",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "418",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|544|CA19-9|CA19-9|^|0|19000101000000|20240211110619|20240211113518|||1|101|IA LVL2|2286EC|20251128|0|M|69.200000|4.600000|64.590000|U/mL|||||||||1||||||||||||||||||",
+    "SetId": "544",
+    "PlaceOrderNumber": "CA19-9",
+    "FillerOrderNumber": "CA19-9",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:53:57.4266979-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:53:57-{"Header":{"Content":"|^~\\&|||||20240211115703||ORU^R01|418|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115703","Security":"","MessageType":"ORU^R01","MessageControlId":"418","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|544|CA19-9|CA19-9|^|0|19000101000000|20240211110619|20240211113518|||1|101|IA LVL2|2286EC|20251128|0|M|69.200000|4.600000|64.590000|U/mL|||||||||1||||||||||||||||||","SetId":"544","PlaceOrderNumber":"CA19-9","FillerOrderNumber":"CA19-9","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:53:57.4266979-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:53:57-"[]"
+
+11/02/2024 11:53:57-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115357||ACK^R01|418|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	HOST:	MSA|AA|418|Message accepted|||0|<CR>
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115402||ACK^Q03|418|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	HOST:	MSA|AR|418|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:02-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	CLIA:	<SB>MSH|^~\&|||||20240211115708||ORU^R01|419|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	CLIA:	OBR|545|AFP|AFP|^|0|19000101000000|20240211110619|20240211113218|||1|101|IA LVL2|2286EC|20251128|0|M|56.100000|3.730000|58.110000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:02-11/02/2024 11:54:02	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115708||ORU^R01|419|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115708",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "419",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|545|AFP|AFP|^|0|19000101000000|20240211110619|20240211113218|||1|101|IA LVL2|2286EC|20251128|0|M|56.100000|3.730000|58.110000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "545",
+    "PlaceOrderNumber": "AFP",
+    "FillerOrderNumber": "AFP",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:02.8584558-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:02-{"Header":{"Content":"|^~\\&|||||20240211115708||ORU^R01|419|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115708","Security":"","MessageType":"ORU^R01","MessageControlId":"419","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|545|AFP|AFP|^|0|19000101000000|20240211110619|20240211113218|||1|101|IA LVL2|2286EC|20251128|0|M|56.100000|3.730000|58.110000|ng/mL|||||||||1||||||||||||||||||","SetId":"545","PlaceOrderNumber":"AFP","FillerOrderNumber":"AFP","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:02.8584558-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:02-"[]"
+
+11/02/2024 11:54:03-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115403||ACK^R01|419|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	HOST:	MSA|AA|419|Message accepted|||0|<CR>
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115408||ACK^Q03|419|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	HOST:	MSA|AR|419|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:08-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	CLIA:	<SB>MSH|^~\&|||||20240211115714||ORU^R01|420|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	CLIA:	OBR|546|C-Peptide|C-Peptide|^|0|19000101000000|20240211110619|20240211113738|||1|101|IA LVL2|2286EC|20251128|0|M|6.190000|0.510000|6.440000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:08-11/02/2024 11:54:08	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115714||ORU^R01|420|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115714",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "420",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|546|C-Peptide|C-Peptide|^|0|19000101000000|20240211110619|20240211113738|||1|101|IA LVL2|2286EC|20251128|0|M|6.190000|0.510000|6.440000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "546",
+    "PlaceOrderNumber": "C-Peptide",
+    "FillerOrderNumber": "C-Peptide",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:08.4684604-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:08-{"Header":{"Content":"|^~\\&|||||20240211115714||ORU^R01|420|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115714","Security":"","MessageType":"ORU^R01","MessageControlId":"420","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|546|C-Peptide|C-Peptide|^|0|19000101000000|20240211110619|20240211113738|||1|101|IA LVL2|2286EC|20251128|0|M|6.190000|0.510000|6.440000|ng/mL|||||||||1||||||||||||||||||","SetId":"546","PlaceOrderNumber":"C-Peptide","FillerOrderNumber":"C-Peptide","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:08.4684604-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:08-"[]"
+
+11/02/2024 11:54:08-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115408||ACK^R01|420|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	HOST:	MSA|AA|420|Message accepted|||0|<CR>
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115413||ACK^Q03|420|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	HOST:	MSA|AR|420|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:13-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	CLIA:	<SB>MSH|^~\&|||||20240211115719||ORU^R01|421|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	CLIA:	OBR|547|CA125|CA125|^|0|19000101000000|20240211110619|20240211113618|||1|101|IA LVL2|2286EC|20251128|0|M|142.000000|9.300000|127.020000|U/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:13-11/02/2024 11:54:13	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115719||ORU^R01|421|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115719",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "421",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|547|CA125|CA125|^|0|19000101000000|20240211110619|20240211113618|||1|101|IA LVL2|2286EC|20251128|0|M|142.000000|9.300000|127.020000|U/mL|||||||||1||||||||||||||||||",
+    "SetId": "547",
+    "PlaceOrderNumber": "CA125",
+    "FillerOrderNumber": "CA125",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:13.8734081-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:13-{"Header":{"Content":"|^~\\&|||||20240211115719||ORU^R01|421|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115719","Security":"","MessageType":"ORU^R01","MessageControlId":"421","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|547|CA125|CA125|^|0|19000101000000|20240211110619|20240211113618|||1|101|IA LVL2|2286EC|20251128|0|M|142.000000|9.300000|127.020000|U/mL|||||||||1||||||||||||||||||","SetId":"547","PlaceOrderNumber":"CA125","FillerOrderNumber":"CA125","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:13.8734081-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:13-"[]"
+
+11/02/2024 11:54:13-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:18-11/02/2024 11:54:18	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115413||ACK^R01|421|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:18-11/02/2024 11:54:18	HOST:	MSA|AA|421|Message accepted|||0|<CR>
+
+11/02/2024 11:54:19-11/02/2024 11:54:19	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115418||ACK^Q03|421|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:19-11/02/2024 11:54:19	HOST:	MSA|AR|421|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:19-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:19-11/02/2024 11:54:19	CLIA:	<SB>MSH|^~\&|||||20240211115724||ORU^R01|422|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:19-11/02/2024 11:54:19	CLIA:	OBR|548|CA15-3|CA15-3|^|0|19000101000000|20240211110619|20240211114558|||1|101|IA LVL2|2286EC|20251128|0|M|20.900000|1.400000|20.570000|U/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:19-11/02/2024 11:54:19	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115724||ORU^R01|422|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115724",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "422",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|548|CA15-3|CA15-3|^|0|19000101000000|20240211110619|20240211114558|||1|101|IA LVL2|2286EC|20251128|0|M|20.900000|1.400000|20.570000|U/mL|||||||||1||||||||||||||||||",
+    "SetId": "548",
+    "PlaceOrderNumber": "CA15-3",
+    "FillerOrderNumber": "CA15-3",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:19.2882395-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:19-{"Header":{"Content":"|^~\\&|||||20240211115724||ORU^R01|422|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115724","Security":"","MessageType":"ORU^R01","MessageControlId":"422","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|548|CA15-3|CA15-3|^|0|19000101000000|20240211110619|20240211114558|||1|101|IA LVL2|2286EC|20251128|0|M|20.900000|1.400000|20.570000|U/mL|||||||||1||||||||||||||||||","SetId":"548","PlaceOrderNumber":"CA15-3","FillerOrderNumber":"CA15-3","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:19.2882395-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:19-"[]"
+
+11/02/2024 11:54:19-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115419||ACK^R01|422|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	HOST:	MSA|AA|422|Message accepted|||0|<CR>
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115424||ACK^Q03|422|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	HOST:	MSA|AR|422|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:24-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	CLIA:	<SB>MSH|^~\&|||||20240211115730||ORU^R01|423|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	CLIA:	OBR|549|DHEA-S|DHEA-S|^|0|19000101000000|20240211110619|20240211114638|||1|101|IA LVL2|2286EC|20251128|0|M|518.080000|36.380000|507.860000|?g/dL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:24-11/02/2024 11:54:24	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115730||ORU^R01|423|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115730",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "423",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|549|DHEA-S|DHEA-S|^|0|19000101000000|20240211110619|20240211114638|||1|101|IA LVL2|2286EC|20251128|0|M|518.080000|36.380000|507.860000|?g/dL|||||||||1||||||||||||||||||",
+    "SetId": "549",
+    "PlaceOrderNumber": "DHEA-S",
+    "FillerOrderNumber": "DHEA-S",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:24.701852-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:24-{"Header":{"Content":"|^~\\&|||||20240211115730||ORU^R01|423|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115730","Security":"","MessageType":"ORU^R01","MessageControlId":"423","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|549|DHEA-S|DHEA-S|^|0|19000101000000|20240211110619|20240211114638|||1|101|IA LVL2|2286EC|20251128|0|M|518.080000|36.380000|507.860000|?g/dL|||||||||1||||||||||||||||||","SetId":"549","PlaceOrderNumber":"DHEA-S","FillerOrderNumber":"DHEA-S","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:24.701852-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:24-"[]"
+
+11/02/2024 11:54:24-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:29-11/02/2024 11:54:29	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115424||ACK^R01|423|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:29-11/02/2024 11:54:29	HOST:	MSA|AA|423|Message accepted|||0|<CR>
+
+11/02/2024 11:54:30-11/02/2024 11:54:30	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115429||ACK^Q03|423|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:30-11/02/2024 11:54:30	HOST:	MSA|AR|423|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:30-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:30-11/02/2024 11:54:30	CLIA:	<SB>MSH|^~\&|||||20240211115735||ORU^R01|424|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:30-11/02/2024 11:54:30	CLIA:	OBR|550|E2|E2|^|0|19000101000000|20240211110619|20240211115238|||1|101|IA LVL2|2286EC|20251128|0|M|236.000000|15.700000|203.120000|pg/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:30-11/02/2024 11:54:30	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115735||ORU^R01|424|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115735",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "424",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|550|E2|E2|^|0|19000101000000|20240211110619|20240211115238|||1|101|IA LVL2|2286EC|20251128|0|M|236.000000|15.700000|203.120000|pg/mL|||||||||1||||||||||||||||||",
+    "SetId": "550",
+    "PlaceOrderNumber": "E2",
+    "FillerOrderNumber": "E2",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:30.109559-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:30-{"Header":{"Content":"|^~\\&|||||20240211115735||ORU^R01|424|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115735","Security":"","MessageType":"ORU^R01","MessageControlId":"424","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|550|E2|E2|^|0|19000101000000|20240211110619|20240211115238|||1|101|IA LVL2|2286EC|20251128|0|M|236.000000|15.700000|203.120000|pg/mL|||||||||1||||||||||||||||||","SetId":"550","PlaceOrderNumber":"E2","FillerOrderNumber":"E2","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:30.109559-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:30-"[]"
+
+11/02/2024 11:54:30-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115430||ACK^R01|424|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	HOST:	MSA|AA|424|Message accepted|||0|<CR>
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115435||ACK^Q03|424|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	HOST:	MSA|AR|424|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:35-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	CLIA:	<SB>MSH|^~\&|||||20240211115741||ORU^R01|425|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	CLIA:	OBR|551|FPSA|FPSA|^|0|19000101000000|20240211110619|20240211113418|||1|101|IA LVL2|2286EC|20251128|0|M|12.700000|1.060000|11.490000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:35-11/02/2024 11:54:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115741||ORU^R01|425|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115741",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "425",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|551|FPSA|FPSA|^|0|19000101000000|20240211110619|20240211113418|||1|101|IA LVL2|2286EC|20251128|0|M|12.700000|1.060000|11.490000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "551",
+    "PlaceOrderNumber": "FPSA",
+    "FillerOrderNumber": "FPSA",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:35.5643344-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:35-{"Header":{"Content":"|^~\\&|||||20240211115741||ORU^R01|425|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115741","Security":"","MessageType":"ORU^R01","MessageControlId":"425","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|551|FPSA|FPSA|^|0|19000101000000|20240211110619|20240211113418|||1|101|IA LVL2|2286EC|20251128|0|M|12.700000|1.060000|11.490000|ng/mL|||||||||1||||||||||||||||||","SetId":"551","PlaceOrderNumber":"FPSA","FillerOrderNumber":"FPSA","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:35.5643344-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:35-"[]"
+
+11/02/2024 11:54:35-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115435||ACK^R01|425|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	HOST:	MSA|AA|425|Message accepted|||0|<CR>
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115440||ACK^Q03|425|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	HOST:	MSA|AR|425|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:40-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	CLIA:	<SB>MSH|^~\&|||||20240211115746||ORU^R01|426|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	CLIA:	OBR|552|FSH|FSH|^|0|19000101000000|20240211110619|20240211114058|||1|101|IA LVL2|2286EC|20251128|0|M|37.300000|2.500000|37.200000|mIU/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:40-11/02/2024 11:54:40	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115746||ORU^R01|426|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115746",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "426",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|552|FSH|FSH|^|0|19000101000000|20240211110619|20240211114058|||1|101|IA LVL2|2286EC|20251128|0|M|37.300000|2.500000|37.200000|mIU/mL|||||||||1||||||||||||||||||",
+    "SetId": "552",
+    "PlaceOrderNumber": "FSH",
+    "FillerOrderNumber": "FSH",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:40.983629-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:40-{"Header":{"Content":"|^~\\&|||||20240211115746||ORU^R01|426|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115746","Security":"","MessageType":"ORU^R01","MessageControlId":"426","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|552|FSH|FSH|^|0|19000101000000|20240211110619|20240211114058|||1|101|IA LVL2|2286EC|20251128|0|M|37.300000|2.500000|37.200000|mIU/mL|||||||||1||||||||||||||||||","SetId":"552","PlaceOrderNumber":"FSH","FillerOrderNumber":"FSH","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:40.983629-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:40-"[]"
+
+11/02/2024 11:54:41-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115441||ACK^R01|426|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	HOST:	MSA|AA|426|Message accepted|||0|<CR>
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115446||ACK^Q03|426|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	HOST:	MSA|AR|426|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:46-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	CLIA:	<SB>MSH|^~\&|||||20240211115752||ORU^R01|427|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	CLIA:	OBR|553|FT3|FT3|^|0|19000101000000|20240211110619|20240211114338|||1|101|IA LVL2|2286EC|20251128|0|M|9.240000|0.760000|9.290000|pg/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:46-11/02/2024 11:54:46	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115752||ORU^R01|427|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115752",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "427",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|553|FT3|FT3|^|0|19000101000000|20240211110619|20240211114338|||1|101|IA LVL2|2286EC|20251128|0|M|9.240000|0.760000|9.290000|pg/mL|||||||||1||||||||||||||||||",
+    "SetId": "553",
+    "PlaceOrderNumber": "FT3",
+    "FillerOrderNumber": "FT3",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:46.3900958-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:46-{"Header":{"Content":"|^~\\&|||||20240211115752||ORU^R01|427|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115752","Security":"","MessageType":"ORU^R01","MessageControlId":"427","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|553|FT3|FT3|^|0|19000101000000|20240211110619|20240211114338|||1|101|IA LVL2|2286EC|20251128|0|M|9.240000|0.760000|9.290000|pg/mL|||||||||1||||||||||||||||||","SetId":"553","PlaceOrderNumber":"FT3","FillerOrderNumber":"FT3","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:46.3900958-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:46-"[]"
+
+11/02/2024 11:54:46-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115446||ACK^R01|427|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	HOST:	MSA|AA|427|Message accepted|||0|<CR>
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115451||ACK^Q03|427|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	HOST:	MSA|AR|427|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:51-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	CLIA:	<SB>MSH|^~\&|||||20240211115757||ORU^R01|428|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	CLIA:	OBR|554|FT4|FT4|^|0|19000101000000|20240211110619|20240211114318|||1|101|IA LVL2|2286EC|20251128|0|M|2.880000|0.190000|2.610000|ng/dL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:51-11/02/2024 11:54:51	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115757||ORU^R01|428|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115757",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "428",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|554|FT4|FT4|^|0|19000101000000|20240211110619|20240211114318|||1|101|IA LVL2|2286EC|20251128|0|M|2.880000|0.190000|2.610000|ng/dL|||||||||1||||||||||||||||||",
+    "SetId": "554",
+    "PlaceOrderNumber": "FT4",
+    "FillerOrderNumber": "FT4",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:51.7997933-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:51-{"Header":{"Content":"|^~\\&|||||20240211115757||ORU^R01|428|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115757","Security":"","MessageType":"ORU^R01","MessageControlId":"428","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|554|FT4|FT4|^|0|19000101000000|20240211110619|20240211114318|||1|101|IA LVL2|2286EC|20251128|0|M|2.880000|0.190000|2.610000|ng/dL|||||||||1||||||||||||||||||","SetId":"554","PlaceOrderNumber":"FT4","FillerOrderNumber":"FT4","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:51.7997933-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:51-"[]"
+
+11/02/2024 11:54:51-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:54:56-11/02/2024 11:54:56	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115451||ACK^R01|428|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:56-11/02/2024 11:54:56	HOST:	MSA|AA|428|Message accepted|||0|<CR>
+
+11/02/2024 11:54:57-11/02/2024 11:54:57	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115456||ACK^Q03|428|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:54:57-11/02/2024 11:54:57	HOST:	MSA|AR|428|Unsopported message type|||200|<CR>
+
+11/02/2024 11:54:57-*****FIN DEL MENSAJE******
+
+11/02/2024 11:54:57-11/02/2024 11:54:57	CLIA:	<SB>MSH|^~\&|||||20240211115802||ORU^R01|429|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:54:57-11/02/2024 11:54:57	CLIA:	OBR|555|LH|LH|^|0|19000101000000|20240211110619|20240211114518|||1|101|IA LVL2|2286EC|20251128|0|M|39.500000|3.950000|42.550000|mIU/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:54:57-11/02/2024 11:54:57	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115802||ORU^R01|429|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115802",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "429",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|555|LH|LH|^|0|19000101000000|20240211110619|20240211114518|||1|101|IA LVL2|2286EC|20251128|0|M|39.500000|3.950000|42.550000|mIU/mL|||||||||1||||||||||||||||||",
+    "SetId": "555",
+    "PlaceOrderNumber": "LH",
+    "FillerOrderNumber": "LH",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:54:57.2267432-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:54:57-{"Header":{"Content":"|^~\\&|||||20240211115802||ORU^R01|429|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115802","Security":"","MessageType":"ORU^R01","MessageControlId":"429","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|555|LH|LH|^|0|19000101000000|20240211110619|20240211114518|||1|101|IA LVL2|2286EC|20251128|0|M|39.500000|3.950000|42.550000|mIU/mL|||||||||1||||||||||||||||||","SetId":"555","PlaceOrderNumber":"LH","FillerOrderNumber":"LH","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:54:57.2267432-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:54:57-"[]"
+
+11/02/2024 11:54:57-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115457||ACK^R01|429|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	HOST:	MSA|AA|429|Message accepted|||0|<CR>
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115502||ACK^Q03|429|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	HOST:	MSA|AR|429|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:02-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	CLIA:	<SB>MSH|^~\&|||||20240211115808||ORU^R01|430|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	CLIA:	OBR|556|PRL|PRL|^|0|19000101000000|20240211110619|20240211113018|||1|101|IA LVL2|2286EC|20251128|0|M|34.009430|2.264150|31.380000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:02-11/02/2024 11:55:02	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115808||ORU^R01|430|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115808",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "430",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|556|PRL|PRL|^|0|19000101000000|20240211110619|20240211113018|||1|101|IA LVL2|2286EC|20251128|0|M|34.009430|2.264150|31.380000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "556",
+    "PlaceOrderNumber": "PRL",
+    "FillerOrderNumber": "PRL",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:02.6478506-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:02-{"Header":{"Content":"|^~\\&|||||20240211115808||ORU^R01|430|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115808","Security":"","MessageType":"ORU^R01","MessageControlId":"430","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|556|PRL|PRL|^|0|19000101000000|20240211110619|20240211113018|||1|101|IA LVL2|2286EC|20251128|0|M|34.009430|2.264150|31.380000|ng/mL|||||||||1||||||||||||||||||","SetId":"556","PlaceOrderNumber":"PRL","FillerOrderNumber":"PRL","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:02.6478506-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:02-"[]"
+
+11/02/2024 11:55:02-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:07-11/02/2024 11:55:07	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115502||ACK^R01|430|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:07-11/02/2024 11:55:07	HOST:	MSA|AA|430|Message accepted|||0|<CR>
+
+11/02/2024 11:55:08-11/02/2024 11:55:08	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115507||ACK^Q03|430|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:08-11/02/2024 11:55:08	HOST:	MSA|AR|430|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:08-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:08-11/02/2024 11:55:08	CLIA:	<SB>MSH|^~\&|||||20240211115813||ORU^R01|431|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:08-11/02/2024 11:55:08	CLIA:	OBR|557|PROG|PROG|^|0|19000101000000|20240211110619|20240211113158|||1|101|IA LVL2|2286EC|20251128|0|M|12.800000|0.870000|12.020000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:08-11/02/2024 11:55:08	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115813||ORU^R01|431|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115813",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "431",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|557|PROG|PROG|^|0|19000101000000|20240211110619|20240211113158|||1|101|IA LVL2|2286EC|20251128|0|M|12.800000|0.870000|12.020000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "557",
+    "PlaceOrderNumber": "PROG",
+    "FillerOrderNumber": "PROG",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:08.0705706-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:08-{"Header":{"Content":"|^~\\&|||||20240211115813||ORU^R01|431|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115813","Security":"","MessageType":"ORU^R01","MessageControlId":"431","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|557|PROG|PROG|^|0|19000101000000|20240211110619|20240211113158|||1|101|IA LVL2|2286EC|20251128|0|M|12.800000|0.870000|12.020000|ng/mL|||||||||1||||||||||||||||||","SetId":"557","PlaceOrderNumber":"PROG","FillerOrderNumber":"PROG","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:08.0705706-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:08-"[]"
+
+11/02/2024 11:55:08-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115508||ACK^R01|431|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	HOST:	MSA|AA|431|Message accepted|||0|<CR>
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115513||ACK^Q03|431|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	HOST:	MSA|AR|431|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:13-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	CLIA:	<SB>MSH|^~\&|||||20240211115819||ORU^R01|432|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	CLIA:	OBR|558|t-PSA|t-PSA|^|0|19000101000000|20240211110619|20240211113438|||1|101|IA LVL2|2286EC|20251128|0|M|13.600000|1.130000|12.767000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:13-11/02/2024 11:55:13	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115819||ORU^R01|432|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115819",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "432",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|558|t-PSA|t-PSA|^|0|19000101000000|20240211110619|20240211113438|||1|101|IA LVL2|2286EC|20251128|0|M|13.600000|1.130000|12.767000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "558",
+    "PlaceOrderNumber": "t-PSA",
+    "FillerOrderNumber": "t-PSA",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:13.5512054-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:13-{"Header":{"Content":"|^~\\&|||||20240211115819||ORU^R01|432|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115819","Security":"","MessageType":"ORU^R01","MessageControlId":"432","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|558|t-PSA|t-PSA|^|0|19000101000000|20240211110619|20240211113438|||1|101|IA LVL2|2286EC|20251128|0|M|13.600000|1.130000|12.767000|ng/mL|||||||||1||||||||||||||||||","SetId":"558","PlaceOrderNumber":"t-PSA","FillerOrderNumber":"t-PSA","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:13.5512054-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:13-"[]"
+
+11/02/2024 11:55:13-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115513||ACK^R01|432|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	HOST:	MSA|AA|432|Message accepted|||0|<CR>
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115518||ACK^Q03|432|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	HOST:	MSA|AR|432|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:18-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	CLIA:	<SB>MSH|^~\&|||||20240211115824||ORU^R01|433|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	CLIA:	OBR|559|T3|T3|^|0|19000101000000|20240211110619|20240211114358|||1|101|IA LVL2|2286EC|20251128|0|M|2.510000|3.130000|2.170000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:18-11/02/2024 11:55:18	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115824||ORU^R01|433|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115824",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "433",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|559|T3|T3|^|0|19000101000000|20240211110619|20240211114358|||1|101|IA LVL2|2286EC|20251128|0|M|2.510000|3.130000|2.170000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "559",
+    "PlaceOrderNumber": "T3",
+    "FillerOrderNumber": "T3",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:18.9683815-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:18-{"Header":{"Content":"|^~\\&|||||20240211115824||ORU^R01|433|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115824","Security":"","MessageType":"ORU^R01","MessageControlId":"433","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|559|T3|T3|^|0|19000101000000|20240211110619|20240211114358|||1|101|IA LVL2|2286EC|20251128|0|M|2.510000|3.130000|2.170000|ng/mL|||||||||1||||||||||||||||||","SetId":"559","PlaceOrderNumber":"T3","FillerOrderNumber":"T3","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:18.9683815-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:18-"[]"
+
+11/02/2024 11:55:19-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115519||ACK^R01|433|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	HOST:	MSA|AA|433|Message accepted|||0|<CR>
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115524||ACK^Q03|433|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	HOST:	MSA|AR|433|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:24-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	CLIA:	<SB>MSH|^~\&|||||20240211115830||ORU^R01|434|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	CLIA:	OBR|560|T4|T4|^|0|19000101000000|20240211110619|20240211115258|||1|101|IA LVL2|2286EC|20251128|0|M|10.400000|0.870000|9.190000|?g/dL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:24-11/02/2024 11:55:24	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115830||ORU^R01|434|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115830",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "434",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|560|T4|T4|^|0|19000101000000|20240211110619|20240211115258|||1|101|IA LVL2|2286EC|20251128|0|M|10.400000|0.870000|9.190000|?g/dL|||||||||1||||||||||||||||||",
+    "SetId": "560",
+    "PlaceOrderNumber": "T4",
+    "FillerOrderNumber": "T4",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:24.3785897-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:24-{"Header":{"Content":"|^~\\&|||||20240211115830||ORU^R01|434|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115830","Security":"","MessageType":"ORU^R01","MessageControlId":"434","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|560|T4|T4|^|0|19000101000000|20240211110619|20240211115258|||1|101|IA LVL2|2286EC|20251128|0|M|10.400000|0.870000|9.190000|?g/dL|||||||||1||||||||||||||||||","SetId":"560","PlaceOrderNumber":"T4","FillerOrderNumber":"T4","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:24.3785897-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:24-"[]"
+
+11/02/2024 11:55:24-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115524||ACK^R01|434|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	HOST:	MSA|AA|434|Message accepted|||0|<CR>
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115529||ACK^Q03|434|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	HOST:	MSA|AR|434|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:29-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	CLIA:	<SB>MSH|^~\&|||||20240211115835||ORU^R01|435|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	CLIA:	OBR|561|TESTO|TESTO|^|0|19000101000000|20240211110619|20240211113118|||1|101|IA LVL2|2286EC|20251128|0|M|5.700000|0.575000|5.260000|ng/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:29-11/02/2024 11:55:29	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115835||ORU^R01|435|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115835",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "435",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|561|TESTO|TESTO|^|0|19000101000000|20240211110619|20240211113118|||1|101|IA LVL2|2286EC|20251128|0|M|5.700000|0.575000|5.260000|ng/mL|||||||||1||||||||||||||||||",
+    "SetId": "561",
+    "PlaceOrderNumber": "TESTO",
+    "FillerOrderNumber": "TESTO",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:29.7878494-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:29-{"Header":{"Content":"|^~\\&|||||20240211115835||ORU^R01|435|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115835","Security":"","MessageType":"ORU^R01","MessageControlId":"435","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|561|TESTO|TESTO|^|0|19000101000000|20240211110619|20240211113118|||1|101|IA LVL2|2286EC|20251128|0|M|5.700000|0.575000|5.260000|ng/mL|||||||||1||||||||||||||||||","SetId":"561","PlaceOrderNumber":"TESTO","FillerOrderNumber":"TESTO","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:29.7878494-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:29-"[]"
+
+11/02/2024 11:55:29-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:34-11/02/2024 11:55:34	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115529||ACK^R01|435|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:34-11/02/2024 11:55:34	HOST:	MSA|AA|435|Message accepted|||0|<CR>
+
+11/02/2024 11:55:35-11/02/2024 11:55:35	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115534||ACK^Q03|435|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:35-11/02/2024 11:55:35	HOST:	MSA|AR|435|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:35-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:35-11/02/2024 11:55:35	CLIA:	<SB>MSH|^~\&|||||20240211115840||ORU^R01|436|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:35-11/02/2024 11:55:35	CLIA:	OBR|562|TSH|TSH|^|0|19000101000000|20240211110619|20240211114918|||1|101|IA LVL2|2286EC|20251128|0|M|2.740000|0.180000|2.762000|?IU/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:35-11/02/2024 11:55:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115840||ORU^R01|436|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115840",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "436",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|562|TSH|TSH|^|0|19000101000000|20240211110619|20240211114918|||1|101|IA LVL2|2286EC|20251128|0|M|2.740000|0.180000|2.762000|?IU/mL|||||||||1||||||||||||||||||",
+    "SetId": "562",
+    "PlaceOrderNumber": "TSH",
+    "FillerOrderNumber": "TSH",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:35.2225451-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:35-{"Header":{"Content":"|^~\\&|||||20240211115840||ORU^R01|436|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115840","Security":"","MessageType":"ORU^R01","MessageControlId":"436","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|562|TSH|TSH|^|0|19000101000000|20240211110619|20240211114918|||1|101|IA LVL2|2286EC|20251128|0|M|2.740000|0.180000|2.762000|?IU/mL|||||||||1||||||||||||||||||","SetId":"562","PlaceOrderNumber":"TSH","FillerOrderNumber":"TSH","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:35.2225451-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:35-"[]"
+
+11/02/2024 11:55:35-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115535||ACK^R01|436|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	HOST:	MSA|AA|436|Message accepted|||0|<CR>
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115540||ACK^Q03|436|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	HOST:	MSA|AR|436|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:40-*****FIN DEL MENSAJE******
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	CLIA:	<SB>MSH|^~\&|||||20240211115846||ORU^R01|437|P|2.3.1||||2||ASCII|||<CR>
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	CLIA:	OBR|563|VB12|VB12|^|0|19000101000000|20240211110619|20240211115658|||1|101|IA LVL2|2286EC|20251128|0|M|633.000000|63.000000|600.160000|pg/mL|||||||||1||||||||||||||||||<CR>
+
+11/02/2024 11:55:40-11/02/2024 11:55:40	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211115846||ORU^R01|437|P|2.3.1||||2||ASCII|||",
+    "_obsResultCount": 0,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211115846",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "437",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "2",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": null,
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|563|VB12|VB12|^|0|19000101000000|20240211110619|20240211115658|||1|101|IA LVL2|2286EC|20251128|0|M|633.000000|63.000000|600.160000|pg/mL|||||||||1||||||||||||||||||",
+    "SetId": "563",
+    "PlaceOrderNumber": "VB12",
+    "FillerOrderNumber": "VB12",
+    "UniversalServiceId": "0",
+    "Priority": null,
+    "RequestedTime": "1900-01-01T00:00:00",
+    "ObservationTime": "2024-02-11T11:06:19",
+    "CollectorId": "",
+    "RelevantClinicalInfo": "IA LVL2",
+    "SpecimenReceivedTime": "2024-02-11T11:55:40.6386338-05:00",
+    "SpecimenSource": "20251128",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 11:55:40-{"Header":{"Content":"|^~\\&|||||20240211115846||ORU^R01|437|P|2.3.1||||2||ASCII|||","_obsResultCount":0,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211115846","Security":"","MessageType":"ORU^R01","MessageControlId":"437","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"2","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":null,"PatientVisit":null,"ObservationRequest":{"Content":"OBR|563|VB12|VB12|^|0|19000101000000|20240211110619|20240211115658|||1|101|IA LVL2|2286EC|20251128|0|M|633.000000|63.000000|600.160000|pg/mL|||||||||1||||||||||||||||||","SetId":"563","PlaceOrderNumber":"VB12","FillerOrderNumber":"VB12","UniversalServiceId":"0","Priority":null,"RequestedTime":"1900-01-01T00:00:00","ObservationTime":"2024-02-11T11:06:19","CollectorId":"","RelevantClinicalInfo":"IA LVL2","SpecimenReceivedTime":"2024-02-11T11:55:40.6386338-05:00","SpecimenSource":"20251128","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 11:55:40-"[]"
+
+11/02/2024 11:55:40-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 11:55:45-11/02/2024 11:55:45	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115540||ACK^R01|437|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:45-11/02/2024 11:55:45	HOST:	MSA|AA|437|Message accepted|||0|<CR>
+
+11/02/2024 11:55:46-11/02/2024 11:55:46	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211115545||ACK^Q03|437|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 11:55:46-11/02/2024 11:55:46	HOST:	MSA|AR|437|Unsopported message type|||200|<CR>
+
+11/02/2024 11:55:46-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:25-11/02/2024 12:45:25	CLIA:	<SB>MSH|^~\&|||||20240211124831||QRY^Q02|438|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:25-11/02/2024 12:45:25	CLIA:	QRD|20240211124831|R|D|705|||RD|202402110025-3|OTH|||T|<CR>
+
+11/02/2024 12:45:25-11/02/2024 12:45:25	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:25-11/02/2024 12:45:25	CLIA:	<EB><CR>
+
+11/02/2024 12:45:29-Consultando al LIS la orden: 202402110025-3
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	<SB>MSH|^~\&|||||20240211124831||QCK^Q02|438|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	MSA|AA|438|Message accepted|||0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	<EB><CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	<SB>MSH|^~\&|||||20240211124831||DSR^Q03|438|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	MSA|AA|438|Message accepted|||0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	QRD|20240211124929|R|D|705|||RD|202402110025-3|OTH|||T|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|1||0914287065|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|2|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|3||ADRIANA DEL ROCIO|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|4||19770721120000|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|5||F|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|6|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|7|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|8|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|9|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|10|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|11|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|12|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|13|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|14|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|15|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|16|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|17|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|18|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|19|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|20|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|21||202402110025-3|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|22||705|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|23|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|24||N|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|25|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|26||Suero|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|27|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|28|||||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|29||TSH^^^|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|30||FSH^^^|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSP|31||E2^^^|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	DSC||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	HOST:	<EB><CR>
+
+11/02/2024 12:45:29-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	<SB>MSH|^~\&|||||20240211124835||ACK^Q03|438|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	MSA|AA|438|Message accepted|||0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	ERR|0|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	<EB><CR>
+
+11/02/2024 12:45:29-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	<SB>MSH|^~\&|||||20240211124835||QRY^Q02|439|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	QRD|20240211124835|R|D|706|||RD|202402110027-3|OTH|||T|<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:29-11/02/2024 12:45:29	CLIA:	<EB><CR>
+
+11/02/2024 12:45:33-Consultando al LIS la orden: 202402110027-3
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	<SB>MSH|^~\&|||||20240211124835||QCK^Q02|439|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	MSA|AA|439|Message accepted|||0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	<EB><CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	<SB>MSH|^~\&|||||20240211124835||DSR^Q03|439|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	MSA|AA|439|Message accepted|||0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	QRD|20240211124934|R|D|706|||RD|202402110027-3|OTH|||T|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|1||1703908754|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|2|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|3||EUGENIO AUGUSTO|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|4||19500901120000|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|5||M|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|6|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|7|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|8|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|9|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|10|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|11|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|12|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|13|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|14|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|15|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|16|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|17|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|18|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|19|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|20|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|21||202402110027-3|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|22||706|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|23|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|24||N|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|25|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|26||Suero|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|27|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|28|||||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|29||TSH^^^|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|30||FT4^^^|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSP|31||t-PSA^^^|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	DSC||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	HOST:	<EB><CR>
+
+11/02/2024 12:45:34-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	<SB>MSH|^~\&|||||20240211124840||ACK^Q03|439|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	MSA|AA|439|Message accepted|||0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	ERR|0|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	<EB><CR>
+
+11/02/2024 12:45:34-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	<SB>MSH|^~\&|||||20240211124840||QRY^Q02|440|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	QRD|20240211124840|R|D|707|||RD|202402110029-3|OTH|||T|<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:34-11/02/2024 12:45:34	CLIA:	<EB><CR>
+
+11/02/2024 12:45:38-Consultando al LIS la orden: 202402110029-3
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	<SB>MSH|^~\&|||||20240211124840||QCK^Q02|440|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	MSA|AA|440|Message accepted|||0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	<EB><CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	<SB>MSH|^~\&|||||20240211124840||DSR^Q03|440|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	MSA|AA|440|Message accepted|||0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	ERR|0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	QRD|20240211124938|R|D|707|||RD|202402110029-3|OTH|||T|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|1||602678690|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|2|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|3||MAREVA GABRIELA|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|4||19870319120000|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|5||F|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|6|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|7|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|8|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|9|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|10|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|11|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|12|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|13|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|14|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|15|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|16|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|17|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|18|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|19|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|20|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|21||202402110029-3|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|22||707|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|23|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|24||N|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|25|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|26||Suero|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|27|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|28|||||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|29||TSH^^^|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|30||FT4^^^|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSP|31||FT3^^^|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	DSC||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	HOST:	<EB><CR>
+
+11/02/2024 12:45:38-*****FIN DEL MENSAJE******
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	CLIA:	<SB>MSH|^~\&|||||20240211124844||ACK^Q03|440|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	CLIA:	MSA|AA|440|Message accepted|||0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	CLIA:	ERR|0|<CR>
+
+11/02/2024 12:45:38-11/02/2024 12:45:38	CLIA:	<EB><CR>
+
+11/02/2024 12:45:38-*****FIN DEL MENSAJE******
+
+11/02/2024 12:46:02-11/02/2024 12:46:02	CLIA:	<SB>MSH|^~\&|||||20240211124908||QRY^Q02|441|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:46:02-11/02/2024 12:46:02	CLIA:	QRD|20240211124908|R|D|708|||RD|202402110034-3|OTH|||T|<CR>
+
+11/02/2024 12:46:02-11/02/2024 12:46:02	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:46:02-11/02/2024 12:46:02	CLIA:	<EB><CR>
+
+11/02/2024 12:46:06-Consultando al LIS la orden: 202402110034-3
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	<SB>MSH|^~\&|||||20240211124908||QCK^Q02|441|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	MSA|AA|441|Message accepted|||0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	ERR|0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	<EB><CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	<SB>MSH|^~\&|||||20240211124908||DSR^Q03|441|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	MSA|AA|441|Message accepted|||0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	ERR|0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	QRD|20240211125006|R|D|708|||RD|202402110034-3|OTH|||T|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|1||1754444972|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|2|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|3||JIN SEBASTIAN|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|4||20130717120000|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|5||M|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|6|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|7|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|8|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|9|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|10|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|11|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|12|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|13|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|14|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|15|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|16|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|17|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|18|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|19|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|20|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|21||202402110034-3|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|22||708|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|23|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|24||N|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|25|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|26||Suero|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|27|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|28|||||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSP|29||TSH^^^|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	DSC||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	HOST:	<EB><CR>
+
+11/02/2024 12:46:06-*****FIN DEL MENSAJE******
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	CLIA:	<SB>MSH|^~\&|||||20240211124912||ACK^Q03|441|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	CLIA:	MSA|AA|441|Message accepted|||0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	CLIA:	ERR|0|<CR>
+
+11/02/2024 12:46:06-11/02/2024 12:46:06	CLIA:	<EB><CR>
+
+11/02/2024 12:46:06-*****FIN DEL MENSAJE******
+
+11/02/2024 13:08:35-11/02/2024 13:08:35	CLIA:	<SB>MSH|^~\&|||||20240211131141||ORU^R01|442|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:35-11/02/2024 13:08:35	CLIA:	PID|838|||||||O|||||||||||||||||||||||<CR>
+
+11/02/2024 13:08:35-11/02/2024 13:08:35	CLIA:	OBR|838|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:08:35-11/02/2024 13:08:35	CLIA:	OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|<CR>
+
+11/02/2024 13:08:35-11/02/2024 13:08:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211131141||ORU^R01|442|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211131141",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "442",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|838|||||||O|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "",
+    "Patient": {
+      "LastName": null,
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "O"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|838|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "838",
+    "PlaceOrderNumber": "202402110040-3",
+    "FillerOrderNumber": "1",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:40:22",
+    "ObservationTime": "2024-02-11T12:40:03",
+    "CollectorId": "200003^1",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:40:03",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "CA19-9",
+        "Identifier": "CA19-9",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "CA19-9",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "<1",
+        "Arguments": []
+      },
+      "Units": "U/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:08:35-{"Header":{"Content":"|^~\\&|||||20240211131141||ORU^R01|442|P|2.3.1||||0||ASCII|||","_obsResultCount":1,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211131141","Security":"","MessageType":"ORU^R01","MessageControlId":"442","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|838|||||||O|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"","Patient":{"LastName":null,"FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"O"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|838|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||","SetId":"838","PlaceOrderNumber":"202402110040-3","FillerOrderNumber":"1","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:40:22","ObservationTime":"2024-02-11T12:40:03","CollectorId":"200003^1","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:40:03","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"CA19-9","Identifier":"CA19-9","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"CA19-9","ObservationNumericValue":0.0,"ObservationValue":{"Value":"<1","Arguments":[]},"Units":"U/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:08:35-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110040\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CA19-9\",\"valorNumero\":0.0,\"valorTexto\":\"<1\",\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":181}]"
+
+11/02/2024 13:08:36-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211130836||ACK^R01|442|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	HOST:	MSA|AA|442|Message accepted|||0|<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211130841||ACK^Q03|442|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	HOST:	MSA|AR|442|Unsopported message type|||200|<CR>
+
+11/02/2024 13:08:41-*****FIN DEL MENSAJE******
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	CLIA:	<SB>MSH|^~\&|||||20240211131147||ORU^R01|443|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	CLIA:	PID|839|||||||O|||||||||||||||||||||||<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	CLIA:	OBR|839|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	CLIA:	OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|<CR>
+
+11/02/2024 13:08:41-11/02/2024 13:08:41	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211131147||ORU^R01|443|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211131147",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "443",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|839|||||||O|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "",
+    "Patient": {
+      "LastName": null,
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "O"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|839|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "839",
+    "PlaceOrderNumber": "202402110040-3",
+    "FillerOrderNumber": "1",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:40:22",
+    "ObservationTime": "2024-02-11T12:40:03",
+    "CollectorId": "200003^1",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:40:03",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "CA19-9",
+        "Identifier": "CA19-9",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "CA19-9",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "<1",
+        "Arguments": []
+      },
+      "Units": "U/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:08:41-{"Header":{"Content":"|^~\\&|||||20240211131147||ORU^R01|443|P|2.3.1||||0||ASCII|||","_obsResultCount":1,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211131147","Security":"","MessageType":"ORU^R01","MessageControlId":"443","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|839|||||||O|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"","Patient":{"LastName":null,"FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"O"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|839|202402110040-3|1|^|N|20240211124022|20240211124003|20240211124003||200003^1||||20240211124003|Suero||||||||||5|||||||||||||||||||||||","SetId":"839","PlaceOrderNumber":"202402110040-3","FillerOrderNumber":"1","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:40:22","ObservationTime":"2024-02-11T12:40:03","CollectorId":"200003^1","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:40:03","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|CA19-9|CA19-9|<1|U/mL|-|N|<1||F||0.572403|20240211131141|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"CA19-9","Identifier":"CA19-9","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"CA19-9","ObservationNumericValue":0.0,"ObservationValue":{"Value":"<1","Arguments":[]},"Units":"U/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:08:41-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110040\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"CA19-9\",\"valorNumero\":0.0,\"valorTexto\":\"<1\",\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":181}]"
+
+11/02/2024 13:08:41-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+11/02/2024 13:08:46-11/02/2024 13:08:46	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211130841||ACK^R01|443|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:46-11/02/2024 13:08:46	HOST:	MSA|AA|443|Message accepted|||0|<CR>
+
+11/02/2024 13:08:46-11/02/2024 13:08:46	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211130846||ACK^Q03|443|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:08:46-11/02/2024 13:08:46	HOST:	MSA|AR|443|Unsopported message type|||200|<CR>
+
+11/02/2024 13:08:46-*****FIN DEL MENSAJE******
+
+11/02/2024 13:16:11-11/02/2024 13:16:11	CLIA:	<SB>MSH|^~\&|||||20240211131917||QRY^Q02|444|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 13:16:11-11/02/2024 13:16:11	CLIA:	QRD|20240211131917|R|D|709|||RD|202402110035-3|OTH|||T|<CR>
+
+11/02/2024 13:16:11-11/02/2024 13:16:11	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+11/02/2024 13:16:11-11/02/2024 13:16:11	CLIA:	<EB><CR>
+
+11/02/2024 13:16:15-Consultando al LIS la orden: 202402110035-3
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	<SB>MSH|^~\&|||||20240211131917||QCK^Q02|444|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	MSA|AA|444|Message accepted|||0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	ERR|0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	<EB><CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	<SB>MSH|^~\&|||||20240211131917||DSR^Q03|444|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	MSA|AA|444|Message accepted|||0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	ERR|0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	QAK|SR|OK|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	QRD|20240211132015|R|D|709|||RD|202402110035-3|OTH|||T|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|1||1703917938|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|2|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|3||ALFONSO RODRIGO|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|4||19541003120000|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|5||M|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|6|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|7|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|8|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|9|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|10|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|11|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|12|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|13|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|14|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|15|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|16|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|17|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|18|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|19|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|20|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|21||202402110035-3|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|22||709|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|23|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|24||N|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|25|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|26||Suero|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|27|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|28|||||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSP|29||t-PSA^^^|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	DSC||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	HOST:	<EB><CR>
+
+11/02/2024 13:16:15-*****FIN DEL MENSAJE******
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	CLIA:	<SB>MSH|^~\&|||||20240211131921||ACK^Q03|444|P|2.3.1||||||ASCII|||<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	CLIA:	MSA|AA|444|Message accepted|||0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	CLIA:	ERR|0|<CR>
+
+11/02/2024 13:16:15-11/02/2024 13:16:15	CLIA:	<EB><CR>
+
+11/02/2024 13:16:15-*****FIN DEL MENSAJE******
+
+11/02/2024 13:22:35-11/02/2024 13:22:35	CLIA:	<SB>MSH|^~\&|||||20240211132541||ORU^R01|445|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:22:35-11/02/2024 13:22:35	CLIA:	PID|840|1754444972|||JIN SEBASTIAN|||M|||||||||||||||||||||||<CR>
+
+11/02/2024 13:22:35-11/02/2024 13:22:35	CLIA:	OBR|840|202402110034-3|708|^|N|20240211124912|20240211124912|20240211124912||600002^1||||20240211124912|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:22:35-11/02/2024 13:22:35	CLIA:	OBX|1|NM|TSH|TSH|5.192|?IU/mL|-|N|||F||5.192177|20240211132541|||0|<CR>
+
+11/02/2024 13:22:35-11/02/2024 13:22:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211132541||ORU^R01|445|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211132541",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "445",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|840|1754444972|||JIN SEBASTIAN|||M|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "JIN SEBASTIAN",
+    "Patient": {
+      "LastName": "JIN SEBASTIAN",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "M"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|840|202402110034-3|708|^|N|20240211124912|20240211124912|20240211124912||600002^1||||20240211124912|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "840",
+    "PlaceOrderNumber": "202402110034-3",
+    "FillerOrderNumber": "708",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:49:12",
+    "ObservationTime": "2024-02-11T12:49:12",
+    "CollectorId": "600002^1",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:49:12",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TSH|TSH|5.192|?IU/mL|-|N|||F||5.192177|20240211132541|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "5.192",
+        "Arguments": []
+      },
+      "Units": "?IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:22:35-{"Header":{"Content":"|^~\\&|||||20240211132541||ORU^R01|445|P|2.3.1||||0||ASCII|||","_obsResultCount":1,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211132541","Security":"","MessageType":"ORU^R01","MessageControlId":"445","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|840|1754444972|||JIN SEBASTIAN|||M|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"JIN SEBASTIAN","Patient":{"LastName":"JIN SEBASTIAN","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"M"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|840|202402110034-3|708|^|N|20240211124912|20240211124912|20240211124912||600002^1||||20240211124912|Suero||||||||||5|||||||||||||||||||||||","SetId":"840","PlaceOrderNumber":"202402110034-3","FillerOrderNumber":"708","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:49:12","ObservationTime":"2024-02-11T12:49:12","CollectorId":"600002^1","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:49:12","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TSH|TSH|5.192|?IU/mL|-|N|||F||5.192177|20240211132541|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"5.192","Arguments":[]},"Units":"?IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:22:35-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110034\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":5.192,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111}]"
+
+11/02/2024 13:22:35-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+11/02/2024 13:22:40-11/02/2024 13:22:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132235||ACK^R01|445|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:22:40-11/02/2024 13:22:40	HOST:	MSA|AA|445|Message accepted|||0|<CR>
+
+11/02/2024 13:22:40-11/02/2024 13:22:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132240||ACK^Q03|445|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:22:40-11/02/2024 13:22:40	HOST:	MSA|AR|445|Unsopported message type|||200|<CR>
+
+11/02/2024 13:22:40-*****FIN DEL MENSAJE******
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	<SB>MSH|^~\&|||||20240211132841||ORU^R01|446|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	PID|841|1703908754|||EUGENIO AUGUSTO|||M|||||||||||||||||||||||<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	OBR|841|202402110027-3|706|^|N|20240211124840|20240211124840|20240211124840||200003^3||||20240211124840|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	OBX|1|NM|FT4|FT4|1.16|ng/dL|-|N|||F||1.159092|20240211132321|||0|<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	OBX|2|NM|t-PSA|t-PSA|3.106|ng/mL|-|N|||F||3.105617|20240211131341|||0|<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	OBX|3|NM|TSH|TSH|6.474|?IU/mL|-|N|||F||6.474234|20240211132841|||0|<CR>
+
+11/02/2024 13:25:35-11/02/2024 13:25:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211132841||ORU^R01|446|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211132841",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "446",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|841|1703908754|||EUGENIO AUGUSTO|||M|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "EUGENIO AUGUSTO",
+    "Patient": {
+      "LastName": "EUGENIO AUGUSTO",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "M"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|841|202402110027-3|706|^|N|20240211124840|20240211124840|20240211124840||200003^3||||20240211124840|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "841",
+    "PlaceOrderNumber": "202402110027-3",
+    "FillerOrderNumber": "706",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:48:40",
+    "ObservationTime": "2024-02-11T12:48:40",
+    "CollectorId": "200003^3",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:48:40",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|FT4|FT4|1.16|ng/dL|-|N|||F||1.159092|20240211132321|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "1.16",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|t-PSA|t-PSA|3.106|ng/mL|-|N|||F||3.105617|20240211131341|||0|",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "t-PSA",
+        "Identifier": "t-PSA",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "t-PSA",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "3.106",
+        "Arguments": []
+      },
+      "Units": "ng/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|TSH|TSH|6.474|?IU/mL|-|N|||F||6.474234|20240211132841|||0|",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "6.474",
+        "Arguments": []
+      },
+      "Units": "?IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:25:35-{"Header":{"Content":"|^~\\&|||||20240211132841||ORU^R01|446|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211132841","Security":"","MessageType":"ORU^R01","MessageControlId":"446","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|841|1703908754|||EUGENIO AUGUSTO|||M|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"EUGENIO AUGUSTO","Patient":{"LastName":"EUGENIO AUGUSTO","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"M"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|841|202402110027-3|706|^|N|20240211124840|20240211124840|20240211124840||200003^3||||20240211124840|Suero||||||||||5|||||||||||||||||||||||","SetId":"841","PlaceOrderNumber":"202402110027-3","FillerOrderNumber":"706","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:48:40","ObservationTime":"2024-02-11T12:48:40","CollectorId":"200003^3","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:48:40","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|FT4|FT4|1.16|ng/dL|-|N|||F||1.159092|20240211132321|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"1.16","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|t-PSA|t-PSA|3.106|ng/mL|-|N|||F||3.105617|20240211131341|||0|","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"t-PSA","Identifier":"t-PSA","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"t-PSA","ObservationNumericValue":0.0,"ObservationValue":{"Value":"3.106","Arguments":[]},"Units":"ng/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|TSH|TSH|6.474|?IU/mL|-|N|||F||6.474234|20240211132841|||0|","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"6.474","Arguments":[]},"Units":"?IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:25:35-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110027\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT4\",\"valorNumero\":1.16,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":107},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110027\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":6.474,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110027\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"t-PSA\",\"valorNumero\":3.106,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":135}]"
+
+11/02/2024 13:25:35-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+11/02/2024 13:25:40-11/02/2024 13:25:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132535||ACK^R01|446|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:25:40-11/02/2024 13:25:40	HOST:	MSA|AA|446|Message accepted|||0|<CR>
+
+11/02/2024 13:25:40-11/02/2024 13:25:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132540||ACK^Q03|446|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:25:40-11/02/2024 13:25:40	HOST:	MSA|AR|446|Unsopported message type|||200|<CR>
+
+11/02/2024 13:25:40-*****FIN DEL MENSAJE******
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	<SB>MSH|^~\&|||||20240211133001||ORU^R01|447|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	PID|842|602678690|||MAREVA GABRIELA|||F|||||||||||||||||||||||<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	OBR|842|202402110029-3|707|^|N|20240211124844|20240211124844|20240211124844||200003^4||||20240211124844|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	OBX|1|NM|FT3|FT3|2.93|pg/mL|-|N|||F||2.925738|20240211132441|||0|<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	OBX|2|NM|FT4|FT4|1.22|ng/dL|-|N|||F||1.219626|20240211132421|||0|<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	OBX|3|NM|TSH|TSH|2.637|?IU/mL|-|N|||F||2.637331|20240211133001|||0|<CR>
+
+11/02/2024 13:26:55-11/02/2024 13:26:55	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211133001||ORU^R01|447|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211133001",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "447",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|842|602678690|||MAREVA GABRIELA|||F|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "MAREVA GABRIELA",
+    "Patient": {
+      "LastName": "MAREVA GABRIELA",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|842|202402110029-3|707|^|N|20240211124844|20240211124844|20240211124844||200003^4||||20240211124844|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "842",
+    "PlaceOrderNumber": "202402110029-3",
+    "FillerOrderNumber": "707",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:48:44",
+    "ObservationTime": "2024-02-11T12:48:44",
+    "CollectorId": "200003^4",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:48:44",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|FT3|FT3|2.93|pg/mL|-|N|||F||2.925738|20240211132441|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT3",
+        "Identifier": "FT3",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT3",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "2.93",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FT4|FT4|1.22|ng/dL|-|N|||F||1.219626|20240211132421|||0|",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FT4",
+        "Identifier": "FT4",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FT4",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "1.22",
+        "Arguments": []
+      },
+      "Units": "ng/dL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|TSH|TSH|2.637|?IU/mL|-|N|||F||2.637331|20240211133001|||0|",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "2.637",
+        "Arguments": []
+      },
+      "Units": "?IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:26:55-{"Header":{"Content":"|^~\\&|||||20240211133001||ORU^R01|447|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211133001","Security":"","MessageType":"ORU^R01","MessageControlId":"447","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|842|602678690|||MAREVA GABRIELA|||F|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"MAREVA GABRIELA","Patient":{"LastName":"MAREVA GABRIELA","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|842|202402110029-3|707|^|N|20240211124844|20240211124844|20240211124844||200003^4||||20240211124844|Suero||||||||||5|||||||||||||||||||||||","SetId":"842","PlaceOrderNumber":"202402110029-3","FillerOrderNumber":"707","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:48:44","ObservationTime":"2024-02-11T12:48:44","CollectorId":"200003^4","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:48:44","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|FT3|FT3|2.93|pg/mL|-|N|||F||2.925738|20240211132441|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"FT3","Identifier":"FT3","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT3","ObservationNumericValue":0.0,"ObservationValue":{"Value":"2.93","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FT4|FT4|1.22|ng/dL|-|N|||F||1.219626|20240211132421|||0|","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FT4","Identifier":"FT4","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FT4","ObservationNumericValue":0.0,"ObservationValue":{"Value":"1.22","Arguments":[]},"Units":"ng/dL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|TSH|TSH|2.637|?IU/mL|-|N|||F||2.637331|20240211133001|||0|","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"2.637","Arguments":[]},"Units":"?IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:26:55-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110029\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT4\",\"valorNumero\":1.22,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":107},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110029\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FT3\",\"valorNumero\":2.93,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":109},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110029\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":2.637,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111}]"
+
+11/02/2024 13:26:55-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+11/02/2024 13:27:00-11/02/2024 13:27:00	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132655||ACK^R01|447|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:27:00-11/02/2024 13:27:00	HOST:	MSA|AA|447|Message accepted|||0|<CR>
+
+11/02/2024 13:27:00-11/02/2024 13:27:00	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132700||ACK^Q03|447|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:27:00-11/02/2024 13:27:00	HOST:	MSA|AR|447|Unsopported message type|||200|<CR>
+
+11/02/2024 13:27:00-*****FIN DEL MENSAJE******
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	<SB>MSH|^~\&|||||20240211133241||ORU^R01|448|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	PID|843|0914287065|||ADRIANA DEL ROCIO|||F|||||||||||||||||||||||<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	OBR|843|202402110025-3|705|^|N|20240211124835|20240211124835|20240211124835||200003^2||||20240211124835|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	OBX|1|NM|E2|E2|494.04|pg/mL|-|N|||F||494.038870|20240211133241|||0|<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	OBX|2|NM|FSH|FSH|2.60|mIU/mL|-|N|||F||2.602497|20240211132201|||0|<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	OBX|3|NM|TSH|TSH|2.087|?IU/mL|-|N|||F||2.087033|20240211132801|||0|<CR>
+
+11/02/2024 13:29:35-11/02/2024 13:29:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211133241||ORU^R01|448|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 3,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211133241",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "448",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|843|0914287065|||ADRIANA DEL ROCIO|||F|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ADRIANA DEL ROCIO",
+    "Patient": {
+      "LastName": "ADRIANA DEL ROCIO",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|843|202402110025-3|705|^|N|20240211124835|20240211124835|20240211124835||200003^2||||20240211124835|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "843",
+    "PlaceOrderNumber": "202402110025-3",
+    "FillerOrderNumber": "705",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T12:48:35",
+    "ObservationTime": "2024-02-11T12:48:35",
+    "CollectorId": "200003^2",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T12:48:35",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|E2|E2|494.04|pg/mL|-|N|||F||494.038870|20240211133241|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "E2",
+        "Identifier": "E2",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "E2",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "494.04",
+        "Arguments": []
+      },
+      "Units": "pg/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|2|NM|FSH|FSH|2.60|mIU/mL|-|N|||F||2.602497|20240211132201|||0|",
+      "Index": 2,
+      "SecuenceId": "2",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "FSH",
+        "Identifier": "FSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "2.60",
+        "Arguments": []
+      },
+      "Units": "mIU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    },
+    {
+      "Content": "OBX|3|NM|TSH|TSH|2.087|?IU/mL|-|N|||F||2.087033|20240211132801|||0|",
+      "Index": 3,
+      "SecuenceId": "3",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TSH",
+        "Identifier": "TSH",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TSH",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "2.087",
+        "Arguments": []
+      },
+      "Units": "?IU/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:29:35-{"Header":{"Content":"|^~\\&|||||20240211133241||ORU^R01|448|P|2.3.1||||0||ASCII|||","_obsResultCount":3,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211133241","Security":"","MessageType":"ORU^R01","MessageControlId":"448","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|843|0914287065|||ADRIANA DEL ROCIO|||F|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"ADRIANA DEL ROCIO","Patient":{"LastName":"ADRIANA DEL ROCIO","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|843|202402110025-3|705|^|N|20240211124835|20240211124835|20240211124835||200003^2||||20240211124835|Suero||||||||||5|||||||||||||||||||||||","SetId":"843","PlaceOrderNumber":"202402110025-3","FillerOrderNumber":"705","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T12:48:35","ObservationTime":"2024-02-11T12:48:35","CollectorId":"200003^2","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T12:48:35","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|E2|E2|494.04|pg/mL|-|N|||F||494.038870|20240211133241|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"E2","Identifier":"E2","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"E2","ObservationNumericValue":0.0,"ObservationValue":{"Value":"494.04","Arguments":[]},"Units":"pg/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|2|NM|FSH|FSH|2.60|mIU/mL|-|N|||F||2.602497|20240211132201|||0|","Index":2,"SecuenceId":"2","ValueType":"NM","ObservationIdentifier":{"Content":"FSH","Identifier":"FSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"FSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"2.60","Arguments":[]},"Units":"mIU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"},{"Content":"OBX|3|NM|TSH|TSH|2.087|?IU/mL|-|N|||F||2.087033|20240211132801|||0|","Index":3,"SecuenceId":"3","ValueType":"NM","ObservationIdentifier":{"Content":"TSH","Identifier":"TSH","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TSH","ObservationNumericValue":0.0,"ObservationValue":{"Value":"2.087","Arguments":[]},"Units":"?IU/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:29:35-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110025\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TSH\",\"valorNumero\":2.087,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":111},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110025\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"FSH\",\"valorNumero\":2.6,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":115},{\"idLaboratorio\":18,\"codigoOrden\":\"202402110025\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"E2\",\"valorNumero\":494.04,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":117}]"
+
+11/02/2024 13:29:35-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+11/02/2024 13:29:40-11/02/2024 13:29:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132935||ACK^R01|448|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:29:40-11/02/2024 13:29:40	HOST:	MSA|AA|448|Message accepted|||0|<CR>
+
+11/02/2024 13:29:40-11/02/2024 13:29:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211132940||ACK^Q03|448|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:29:40-11/02/2024 13:29:40	HOST:	MSA|AR|448|Unsopported message type|||200|<CR>
+
+11/02/2024 13:29:40-*****FIN DEL MENSAJE******
+
+11/02/2024 13:37:35-11/02/2024 13:37:35	CLIA:	<SB>MSH|^~\&|||||20240211134041||ORU^R01|449|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:37:35-11/02/2024 13:37:35	CLIA:	PID|844|1703917938|||ALFONSO RODRIGO|||M|||||||||||||||||||||||<CR>
+
+11/02/2024 13:37:35-11/02/2024 13:37:35	CLIA:	OBR|844|202402110035-3|709|^|N|20240211131921|20240211131921|20240211131921||300004^1||||20240211131921|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+11/02/2024 13:37:35-11/02/2024 13:37:35	CLIA:	OBX|1|NM|t-PSA|t-PSA|1.590|ng/mL|-|N|||F||1.589921|20240211134041|||0|<CR>
+
+11/02/2024 13:37:35-11/02/2024 13:37:35	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240211134041||ORU^R01|449|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240211134041",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "449",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|844|1703917938|||ALFONSO RODRIGO|||M|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALFONSO RODRIGO",
+    "Patient": {
+      "LastName": "ALFONSO RODRIGO",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "M"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|844|202402110035-3|709|^|N|20240211131921|20240211131921|20240211131921||300004^1||||20240211131921|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "844",
+    "PlaceOrderNumber": "202402110035-3",
+    "FillerOrderNumber": "709",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-02-11T13:19:21",
+    "ObservationTime": "2024-02-11T13:19:21",
+    "CollectorId": "300004^1",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-02-11T13:19:21",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|t-PSA|t-PSA|1.590|ng/mL|-|N|||F||1.589921|20240211134041|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "t-PSA",
+        "Identifier": "t-PSA",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "t-PSA",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "1.590",
+        "Arguments": []
+      },
+      "Units": "ng/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+11/02/2024 13:37:35-{"Header":{"Content":"|^~\\&|||||20240211134041||ORU^R01|449|P|2.3.1||||0||ASCII|||","_obsResultCount":1,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240211134041","Security":"","MessageType":"ORU^R01","MessageControlId":"449","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|844|1703917938|||ALFONSO RODRIGO|||M|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"ALFONSO RODRIGO","Patient":{"LastName":"ALFONSO RODRIGO","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"M"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|844|202402110035-3|709|^|N|20240211131921|20240211131921|20240211131921||300004^1||||20240211131921|Suero||||||||||5|||||||||||||||||||||||","SetId":"844","PlaceOrderNumber":"202402110035-3","FillerOrderNumber":"709","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-02-11T13:19:21","ObservationTime":"2024-02-11T13:19:21","CollectorId":"300004^1","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-02-11T13:19:21","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|t-PSA|t-PSA|1.590|ng/mL|-|N|||F||1.589921|20240211134041|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"t-PSA","Identifier":"t-PSA","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"t-PSA","ObservationNumericValue":0.0,"ObservationValue":{"Value":"1.590","Arguments":[]},"Units":"ng/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+11/02/2024 13:37:35-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202402110035\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"t-PSA\",\"valorNumero\":1.59,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":135}]"
+
+11/02/2024 13:37:35-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+11/02/2024 13:37:40-11/02/2024 13:37:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211133735||ACK^R01|449|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:37:40-11/02/2024 13:37:40	HOST:	MSA|AA|449|Message accepted|||0|<CR>
+
+11/02/2024 13:37:40-11/02/2024 13:37:40	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240211133740||ACK^Q03|449|P|2.3.1||||0||ASCII|||<CR>
+
+11/02/2024 13:37:40-11/02/2024 13:37:40	HOST:	MSA|AR|449|Unsopported message type|||200|<CR>
+
+11/02/2024 13:37:40-*****FIN DEL MENSAJE******
+

@@ -1,0 +1,1560 @@
+25/10/2023 11:42:36-Conectando con GALILEO ONLINE
+
+25/10/2023 11:42:45-Se encuentra el analizador configurado.
+
+25/10/2023 11:42:45-Inicia la aplicación
+
+25/10/2023 11:42:45-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:42:46-Escuchando el puerto: COM5 
+
+25/10/2023 11:43:24-Conectando con GALILEO ONLINE
+
+25/10/2023 11:43:32-Se encuentra el analizador configurado.
+
+25/10/2023 11:43:32-Inicia la aplicación
+
+25/10/2023 11:43:32-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:43:32-Escuchando el puerto: COM5 
+
+25/10/2023 11:44:50-Conectando con GALILEO ONLINE
+
+25/10/2023 11:44:56-Se encuentra el analizador configurado.
+
+25/10/2023 11:44:56-Inicia la aplicación
+
+25/10/2023 11:44:56-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:44:56-Escuchando el puerto: COM5 
+
+25/10/2023 11:50:13-Conectando con GALILEO ONLINE
+
+25/10/2023 11:50:22-Se encuentra el analizador configurado.
+
+25/10/2023 11:50:22-Inicia la aplicación
+
+25/10/2023 11:50:22-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:50:22-Escuchando el puerto: COM5 
+
+25/10/2023 11:50:22-Error al conectar en el puerto: COM5
+
+25/10/2023 11:50:22-Error al conectar en el puerto: COM5 Access to the path 'COM5' is denied.
+
+25/10/2023 11:50:42-Conectando con GALILEO ONLINE
+
+25/10/2023 11:50:49-Se encuentra el analizador configurado.
+
+25/10/2023 11:50:49-Inicia la aplicación
+
+25/10/2023 11:50:49-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:50:50-Escuchando el puerto: COM5 
+
+25/10/2023 11:51:21-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230922141852Q|1|^202309220001-3||||||||||OL|1|N<ETX>
+
+25/10/2023 11:51:23-GALILEO:<ACK>
+
+25/10/2023 11:51:23-Mensaje HL7 Omitido
+
+25/10/2023 11:51:23-GALILEO: <ENQ>
+
+25/10/2023 11:51:41-Conectando con GALILEO ONLINE
+
+25/10/2023 11:51:48-Se encuentra el analizador configurado.
+
+25/10/2023 11:51:48-Inicia la aplicación
+
+25/10/2023 11:51:48-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:51:48-Escuchando el puerto: COM5 
+
+25/10/2023 11:52:08-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230922141852Q|1|^202309220001-3||||||||||OL|1|N<ETX>
+
+25/10/2023 11:52:10-GALILEO:<ACK>
+
+25/10/2023 11:52:10-GALILEO: <ENQ>
+
+25/10/2023 11:52:37-CLIA: <ACK>
+
+25/10/2023 11:52:39-GALILEO: <STX>1H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501<CR>P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||<CR>O|1|1^^|202310120003-3|1^CA125^^\2^CEA^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||<CR>; L|1|N<CR><ETX>
+
+25/10/2023 11:54:50-Conectando con GALILEO ONLINE
+
+25/10/2023 11:54:56-Se encuentra el analizador configurado.
+
+25/10/2023 11:54:56-Inicia la aplicación
+
+25/10/2023 11:54:56-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:54:56-Escuchando el puerto: COM5 
+
+25/10/2023 11:55:21-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230922141852Q|1|^202309220001-3||||||||||OL|1|N<ETX>B0
+
+25/10/2023 11:55:23-GALILEO:<ACK>
+
+25/10/2023 11:55:23-GALILEO: <ENQ>
+
+25/10/2023 11:55:30-CLIA: <ACK>
+
+25/10/2023 11:55:32-GALILEO: <STX><ETX>
+
+25/10/2023 11:56:36-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230922141852L|1|N<ETX>
+
+25/10/2023 11:56:38-GALILEO:<ACK>
+
+25/10/2023 11:56:47-Conectando con GALILEO ONLINE
+
+25/10/2023 11:56:53-Se encuentra el analizador configurado.
+
+25/10/2023 11:56:53-Inicia la aplicación
+
+25/10/2023 11:56:53-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:56:53-Escuchando el puerto: COM5 
+
+25/10/2023 11:58:01-CLIA:
+L|1|N<ETX>B0L|1|N<ETX>B0<STX><ETX>
+
+25/10/2023 11:58:03-GALILEO:<ACK>
+
+25/10/2023 11:58:31-GALILEO: <ENQ>
+
+25/10/2023 11:58:43-CLIA:
+<STX><ETX>
+
+25/10/2023 11:58:45-GALILEO:<ACK>
+
+25/10/2023 11:59:23-Conectando con GALILEO ONLINE
+
+25/10/2023 11:59:29-Se encuentra el analizador configurado.
+
+25/10/2023 11:59:29-Inicia la aplicación
+
+25/10/2023 11:59:29-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 11:59:29-Escuchando el puerto: COM5 
+
+25/10/2023 12:00:42-CLIA:
+<STX><ETX>
+
+25/10/2023 12:00:44-GALILEO:<ACK>
+
+25/10/2023 12:15:14-Conectando con GALILEO ONLINE
+
+25/10/2023 12:15:23-Se encuentra el analizador configurado.
+
+25/10/2023 12:15:23-Inicia la aplicación
+
+25/10/2023 12:15:23-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 12:15:23-Escuchando el puerto: COM5 
+
+25/10/2023 12:17:51-CLIA:
+<STX><ETX>
+
+25/10/2023 12:17:53-GALILEO:<ACK>
+
+25/10/2023 12:18:56-Conectando con GALILEO ONLINE
+
+25/10/2023 12:19:02-Se encuentra el analizador configurado.
+
+25/10/2023 12:19:02-Inicia la aplicación
+
+25/10/2023 12:19:02-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 12:19:03-Escuchando el puerto: COM5 
+
+25/10/2023 12:21:47-CLIA:
+<STX><ETX>
+
+25/10/2023 12:21:49-GALILEO:<ACK>
+
+25/10/2023 12:22:19-GALILEO: <ENQ>
+
+25/10/2023 12:22:28-CLIA: <ACK>
+
+25/10/2023 12:22:30-GALILEO: <STX>H|\^&|||GalileoLIS^^|||||||SA|1394-97|20231025122201<LF>P|1||1||FRISONEX,FRISONEX||19990210^2^Y|M||||||||||Códigos para situaciones especiales||||||||||||||||<LF>O|9|1^^|202310100001-3|1^TSH^^\2^FT4^^\3^CA125^^\4^FT3^^|R|20231025122205|20231025122205|||||||20231025122205|serum||||||||||F|||||<LF>L|1|N<LF><ETX>
+
+25/10/2023 12:32:03-Conectando con GALILEO ONLINE
+
+25/10/2023 12:32:11-Se encuentra el analizador configurado.
+
+25/10/2023 12:32:11-Inicia la aplicación
+
+25/10/2023 12:32:11-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 12:32:11-Escuchando el puerto: COM5 
+
+25/10/2023 12:33:36-25/10/2023 12:33:36	CLIA:	<STX><ETX>
+
+25/10/2023 12:33:38-25/10/2023 12:33:38	GALILEO:	<ACK>
+
+25/10/2023 12:33:38-25/10/2023 12:33:38	GALILEO:	<ENQ>
+
+25/10/2023 12:33:42-25/10/2023 12:33:42	CLIA:	<ACK>
+
+25/10/2023 12:33:44-GALILEO: <STX>H|\^&|||GalileoLIS^^|||||||SA|1394-97|20231025123338<LF>P|1||1||FRISONEX,FRISONEX||19990210^2^Y|M||||||||||Códigos para situaciones especiales||||||||||||||||<LF>O|9|1^^|202310100001-3|1^TSH^^\2^FT4^^\3^CA125^^\4^FT3^^|R|20231025123338|20231025123338|||||||20231025123338|serum||||||||||F|||||<LF>L|1|N<LF><ETX>
+
+25/10/2023 12:42:32-Conectando con GALILEO ONLINE
+
+25/10/2023 12:42:39-Se encuentra el analizador configurado.
+
+25/10/2023 12:42:39-Inicia la aplicación
+
+25/10/2023 12:42:39-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 12:42:39-Escuchando el puerto: COM5 
+
+25/10/2023 12:42:48-25/10/2023 12:42:48	CLIA:	<STX><ETX>
+
+25/10/2023 12:42:50-25/10/2023 12:42:50	GALILEO:	<ACK>
+
+25/10/2023 12:42:50-25/10/2023 12:42:50	GALILEO:	<ENQ>
+
+25/10/2023 12:42:51-25/10/2023 12:42:51	CLIA:	<ACK>
+
+25/10/2023 12:42:53-GALILEO: <STX>H|\^&|||GalileoLIS^^|||||||SA|1394-97|20231025124250<LF>P|1||1||FRISONEX,FRISONEX||19990210^2^Y|M||||||||||Códigos para situaciones especiales||||||||||||||||<LF><CR>O|9|1^^|202310100001-3|1^TSH^^\2^FT4^^\3^CA125^^\4^FT3^^|R|20231025124250|20231025124250|||||||20231025124250|serum||||||||||F|||||<LF><CR>L|1|N<LF><CR><ETX>
+
+25/10/2023 12:46:24-Conectando con GALILEO ONLINE
+
+25/10/2023 12:46:31-Se encuentra el analizador configurado.
+
+25/10/2023 12:46:31-Inicia la aplicación
+
+25/10/2023 12:46:31-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 12:46:31-Escuchando el puerto: COM5 
+
+25/10/2023 12:46:59-25/10/2023 12:46:59	CLIA:	<STX><ETX>
+
+25/10/2023 12:47:01-25/10/2023 12:47:01	GALILEO:	<ACK>
+
+25/10/2023 12:47:01-25/10/2023 12:47:01	GALILEO:	<ENQ>
+
+25/10/2023 12:47:04-25/10/2023 12:47:04	CLIA:	<ACK>
+
+25/10/2023 12:47:06-25/10/2023 12:47:06	CLIA:	<STX>H|\^&|||GalileoLIS^^|||||||SA|1394-97|20231025124701<CR>
+
+25/10/2023 12:47:06-25/10/2023 12:47:06	CLIA:	P|1||1||FRISONEX,FRISONEX||19990210^2^Y|M||||||||||Códigos para situaciones especiales||||||||||||||||<CR>
+
+25/10/2023 12:47:06-25/10/2023 12:47:06	CLIA:	O|9|1^^|202310100001-3|1^TSH^^\2^FT4^^\3^CA125^^\4^FT3^^|R|20231025124701|20231025124701|||||||20231025124701|serum||||||||||F|||||<CR>
+
+25/10/2023 12:47:06-25/10/2023 12:47:06	CLIA:	L|1|N<CR>
+
+25/10/2023 12:47:06-25/10/2023 12:47:06	CLIA:	<ETX>
+
+25/10/2023 14:26:30-Conectando con GALILEO ONLINE
+
+25/10/2023 14:26:37-Se encuentra el analizador configurado.
+
+25/10/2023 14:26:37-Inicia la aplicación
+
+25/10/2023 14:26:37-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 14:26:37-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 14:29:26-25/10/2023 14:29:26	CLIA:	<SB>MSH|^~\&|||||20231025143121||QRY^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 14:29:26-25/10/2023 14:29:26	CLIA:	QRD|20231025143121|R|D|7|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 14:29:26-25/10/2023 14:29:26	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 14:29:26-25/10/2023 14:29:26	CLIA:	<EB><CR>
+
+25/10/2023 14:29:30-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 14:29:30-25/10/2023 14:29:30	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025143330||QCK^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 14:29:30-25/10/2023 14:29:30	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 14:29:30-25/10/2023 14:29:30	HOST:	ERR|0|<CR>
+
+25/10/2023 14:29:30-25/10/2023 14:29:30	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 14:29:30-25/10/2023 14:29:30	HOST:	<EB><CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO||BS-200|20231025143333||DSR^Q03|1|P|2.3.1||||||UNICODE UTF-8|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	ERR|0|<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	QRD|20231025143333|R|D|7|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|2|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|6|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|7|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|8|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|9|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|10|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|11|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|12|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|13|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|14|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|15|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|16|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|17|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|18|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|19|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|20|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|22||7|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|23|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|25|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|27|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|28|||||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	DSC||<CR>
+
+25/10/2023 14:29:33-25/10/2023 14:29:33	HOST:	<EB><CR>
+
+25/10/2023 14:29:33-*****FIN DEL MENSAJE******
+
+25/10/2023 14:35:01-25/10/2023 14:35:01	CLIA:	<SB>MSH|^~\&|||||20231025143657||ORU^R01|2|P|2.3.1||||0||ASCII|||<CR>
+
+25/10/2023 14:35:01-25/10/2023 14:35:01	CLIA:	PID|5|||||||O|||||||||||||||||||||||<CR>
+
+25/10/2023 14:35:01-25/10/2023 14:35:01	CLIA:	OBR|5|202310250001|8|^|N|20231025140527|20231025140508|20231025140508||^^^||||20231025140508|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+25/10/2023 14:35:01-25/10/2023 14:35:01	CLIA:	OBX|1|NM||FPSA|0.23|ng/mL|-|N|||F||0.228495|20231025143657|||0|||||<CR>
+
+25/10/2023 14:35:01-25/10/2023 14:35:01	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20231025143657||ORU^R01|2|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20231025143657",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "2",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|5|||||||O|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "",
+    "Patient": {
+      "LastName": null,
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "O"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|5|202310250001|8|^|N|20231025140527|20231025140508|20231025140508||^^^||||20231025140508|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "5",
+    "PlaceOrderNumber": "202310250001",
+    "FillerOrderNumber": "8",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-10-25T14:05:27",
+    "ObservationTime": "2023-10-25T14:05:08",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-10-25T14:05:08",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM||FPSA|0.23|ng/mL|-|N|||F||0.228495|20231025143657|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "",
+        "Identifier": null,
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "FPSA",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.23",
+        "Arguments": []
+      },
+      "Units": "ng/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+25/10/2023 14:35:39-Conectando con GALILEO ONLINE
+
+25/10/2023 14:35:48-Se encuentra el analizador configurado.
+
+25/10/2023 14:35:48-Inicia la aplicación
+
+25/10/2023 14:35:48-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 14:35:48-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 14:36:21-25/10/2023 14:36:21	CLIA:	<SB>MSH|^~\&|||||20231025143816||ORU^R01|3|P|2.3.1||||0||ASCII|||<CR>
+
+25/10/2023 14:36:21-25/10/2023 14:36:21	CLIA:	PID|6|||||||O|||||||||||||||||||||||<CR>
+
+25/10/2023 14:36:21-25/10/2023 14:36:21	CLIA:	OBR|6|202310250003|10|^|N|20231025140643|20231025140558|20231025140558||^^^||||20231025140558|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+25/10/2023 14:36:21-25/10/2023 14:36:21	CLIA:	OBX|1|NM|C-Peptide|C-Peptide|2.92|ng/mL|-|N|||F||2.918171|20231025143717|||0|||||<CR>
+
+25/10/2023 14:36:21-25/10/2023 14:36:21	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20231025143816||ORU^R01|3|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20231025143816",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "3",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|6|||||||O|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "",
+    "Patient": {
+      "LastName": null,
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "O"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|6|202310250003|10|^|N|20231025140643|20231025140558|20231025140558||^^^||||20231025140558|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "6",
+    "PlaceOrderNumber": "202310250003",
+    "FillerOrderNumber": "10",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2023-10-25T14:06:43",
+    "ObservationTime": "2023-10-25T14:05:58",
+    "CollectorId": "^^^",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2023-10-25T14:05:58",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|C-Peptide|C-Peptide|2.92|ng/mL|-|N|||F||2.918171|20231025143717|||0|||||",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "C-Peptide",
+        "Identifier": "C-Peptide",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "C-Peptide",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "2.92",
+        "Arguments": []
+      },
+      "Units": "ng/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+25/10/2023 14:43:26-Conectando con GALILEO ONLINE
+
+25/10/2023 14:43:41-Se encuentra el analizador configurado.
+
+25/10/2023 14:43:41-Inicia la aplicación
+
+25/10/2023 14:43:41-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 14:43:41-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 14:44:31-Conectando con GALILEO ONLINE
+
+25/10/2023 14:44:36-Se encuentra el analizador configurado.
+
+25/10/2023 14:44:36-Inicia la aplicación
+
+25/10/2023 14:44:36-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 14:44:36-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 14:47:52-25/10/2023 14:47:52	CLIA:	<SB>MSH|^~\&|||||20231025144948||QRY^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 14:47:52-25/10/2023 14:47:52	CLIA:	QRD|20231025144948|R|D|8|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 14:47:52-25/10/2023 14:47:52	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 14:47:52-25/10/2023 14:47:52	CLIA:	<EB><CR>
+
+25/10/2023 14:47:56-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO||BS-200|20231025145159||DSR^Q03|1|P|2.3.1||||||UNICODE UTF-8|||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	ERR|0|<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	QRD|20231025145159|R|D|8|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|2|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|6|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|7|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|8|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|9|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|10|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|11|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|12|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|13|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|14|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|15|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|16|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|17|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|18|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|19|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|20|||||<CR>
+
+25/10/2023 14:47:59-25/10/2023 14:47:59	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|22||8|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|23|||||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|25|||||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|27|||||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|28|||||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	DSC||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	<EB><CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025145200||QCK^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	ERR|0|<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 14:48:00-25/10/2023 14:48:00	HOST:	<EB><CR>
+
+25/10/2023 14:48:00-*****FIN DEL MENSAJE******
+
+25/10/2023 15:04:32-Conectando con GALILEO ONLINE
+
+25/10/2023 15:05:30-Conectando con GALILEO ONLINE
+
+25/10/2023 15:05:38-Se encuentra el analizador configurado.
+
+25/10/2023 15:05:38-Inicia la aplicación
+
+25/10/2023 15:05:38-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:05:38-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:09:31-25/10/2023 15:09:31	CLIA:	<SB>MSH|^~\&|||||20231025151126||QRY^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:09:31-25/10/2023 15:09:31	CLIA:	QRD|20231025151126|R|D|9|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:09:31-25/10/2023 15:09:31	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:09:31-25/10/2023 15:09:31	CLIA:	<EB><CR>
+
+25/10/2023 15:09:35-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025151335||QCK^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	MSA|AA|2|Message accepted|||0|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	ERR|0|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	<EB><CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO||BS-200|20231025151335||DSR^Q03|2|P|2.3.1||||||UNICODE UTF-8|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	MSA|AA|2|Message accepted|||0|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	ERR|0|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	QRD|20231025151335|R|D|9|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|2|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|6|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|7|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|8|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|9|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|10|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|11|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|12|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|13|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|14|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|15|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|16|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|17|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|18|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|19|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|20|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|22||9|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|23|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|25|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|27|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|28|||||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	DSC||<CR>
+
+25/10/2023 15:09:35-25/10/2023 15:09:35	HOST:	<EB><CR>
+
+25/10/2023 15:09:35-*****FIN DEL MENSAJE******
+
+25/10/2023 15:15:08-Conectando con GALILEO ONLINE
+
+25/10/2023 15:15:15-Se encuentra el analizador configurado.
+
+25/10/2023 15:15:15-Inicia la aplicación
+
+25/10/2023 15:15:15-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:15:15-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:19:17-25/10/2023 15:19:17	CLIA:	<SB>MSH|^~\&|||||20231025152112||QRY^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:19:17-25/10/2023 15:19:17	CLIA:	QRD|20231025152112|R|D|10|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:19:17-25/10/2023 15:19:17	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:19:17-25/10/2023 15:19:17	CLIA:	<EB><CR>
+
+25/10/2023 15:19:21-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025152321||QCK^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	ERR|0|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	<EB><CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO||BS-200|20231025152321||DSR^Q03|1|P|2.3.1||||||UNICODE UTF-8|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	ERR|0|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	QRD|20231025152321|R|D|10|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|2|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|6|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|7|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|8|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|9|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|10|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|11|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|12|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|13|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|14|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|15|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|16|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|17|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|18|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|19|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|20|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|22||10|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|23|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|25|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|27|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|28|||||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	DSC||<CR>
+
+25/10/2023 15:19:21-25/10/2023 15:19:21	HOST:	<EB><CR>
+
+25/10/2023 15:19:21-*****FIN DEL MENSAJE******
+
+25/10/2023 15:25:10-Conectando con GALILEO ONLINE
+
+25/10/2023 15:25:19-Se encuentra el analizador configurado.
+
+25/10/2023 15:25:19-Inicia la aplicación
+
+25/10/2023 15:25:19-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:25:19-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:25:39-25/10/2023 15:25:39	CLIA:	<SB>MSH|^~\&|||||20231025152735||QRY^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:25:39-25/10/2023 15:25:39	CLIA:	QRD|20231025152735|R|D|11|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:25:39-25/10/2023 15:25:39	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:25:39-25/10/2023 15:25:39	CLIA:	<EB><CR>
+
+25/10/2023 15:25:43-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:25:43-25/10/2023 15:25:43	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025152943||QCK^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:25:43-25/10/2023 15:25:43	HOST:	MSA|AA|2|Message accepted|||0|<CR>
+
+25/10/2023 15:25:43-25/10/2023 15:25:43	HOST:	ERR|0|<CR>
+
+25/10/2023 15:25:43-25/10/2023 15:25:43	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:25:43-25/10/2023 15:25:43	HOST:	<EB><CR>
+
+25/10/2023 15:25:43-*****FIN DEL MENSAJE******
+
+25/10/2023 15:27:15-Conectando con GALILEO ONLINE
+
+25/10/2023 15:27:21-Se encuentra el analizador configurado.
+
+25/10/2023 15:27:21-Inicia la aplicación
+
+25/10/2023 15:27:21-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:27:21-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:27:52-25/10/2023 15:27:52	CLIA:	<SB>MSH|^~\&|||||20231025152948||QRY^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:27:52-25/10/2023 15:27:52	CLIA:	QRD|20231025152948|R|D|12|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:27:52-25/10/2023 15:27:52	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:27:52-25/10/2023 15:27:52	CLIA:	<EB><CR>
+
+25/10/2023 15:27:56-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:27:56-25/10/2023 15:27:56	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO|BS-200||20231025153156||QCK^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:27:56-25/10/2023 15:27:56	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:27:56-25/10/2023 15:27:56	HOST:	ERR|0|<CR>
+
+25/10/2023 15:27:56-25/10/2023 15:27:56	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:27:56-25/10/2023 15:27:56	HOST:	<EB><CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	<SB>MSH|^~\&|FRISONEX|GALILEO||BS-200|20231025153157||DSR^Q03|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	ERR|0|<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	QRD|20231025153157|R|D|12|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|2|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|6|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|7|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|8|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|9|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|10|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|11|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|12|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|13|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|14|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|15|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|16|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|17|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|18|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|19|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|20|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|22||12|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|23|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|25|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|27|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|28|||||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	DSC||<CR>
+
+25/10/2023 15:27:57-25/10/2023 15:27:57	HOST:	<EB><CR>
+
+25/10/2023 15:27:57-*****FIN DEL MENSAJE******
+
+25/10/2023 15:30:58-Conectando con GALILEO ONLINE
+
+25/10/2023 15:31:07-Se encuentra el analizador configurado.
+
+25/10/2023 15:31:07-Inicia la aplicación
+
+25/10/2023 15:31:07-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:31:07-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:31:33-25/10/2023 15:31:33	CLIA:	<SB>MSH|^~\&|||||20231025153329||QRY^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:31:33-25/10/2023 15:31:33	CLIA:	QRD|20231025153329|R|D|13|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:31:33-25/10/2023 15:31:33	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:31:33-25/10/2023 15:31:33	CLIA:	<EB><CR>
+
+25/10/2023 15:31:37-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	<SB>MSH|^~\&|||||20231025153538||QCK^Q02|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	ERR|0|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	<EB><CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	<SB>MSH|^~\&|||||20231025153329||DSR^Q03|1|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	MSA|AA|1|Message accepted|||0|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	ERR|0|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	QRD|20231025153538|R|D|13|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|2|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|6|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|7|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|8|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|9|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|10|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|11|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|12|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|13|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|14|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|15|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|16|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|17|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|18|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|19|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|20|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|22||13|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|23|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|25|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|27|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|28|||||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	DSC||<CR>
+
+25/10/2023 15:31:38-25/10/2023 15:31:38	HOST:	<EB><CR>
+
+25/10/2023 15:31:38-*****FIN DEL MENSAJE******
+
+25/10/2023 15:50:52-Conectando con GALILEO ONLINE
+
+25/10/2023 15:50:59-Se encuentra el analizador configurado.
+
+25/10/2023 15:50:59-Inicia la aplicación
+
+25/10/2023 15:50:59-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 15:50:59-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 15:51:50-25/10/2023 15:51:50	CLIA:	<SB>MSH|^~\&|||||20231025155346||QRY^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:51:50-25/10/2023 15:51:50	CLIA:	QRD|20231025155346|R|D|14|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:51:50-25/10/2023 15:51:50	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:51:50-25/10/2023 15:51:50	CLIA:	<EB><CR>
+
+25/10/2023 15:51:54-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	<SB>MSH|^~\&|||||20231025155346||QCK^Q02|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	MSA|AA|2|Message accepted|||0|<CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	ERR|0|<CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	<EB><CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	DEBUG:	MSH|^~\&|||||20231025155346||QCK^Q02|2|P|2.3.1||||||ASCII|||
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	DEBUG:	MSA|AA|2|Message accepted|||0|
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	DEBUG:	ERR|0|
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	DEBUG:	QAK|SR|OK|
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	DEBUG:	
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	<SB>MSH|^~\&|||||20231025155346||DSR^Q03|2|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 15:51:54-25/10/2023 15:51:54	HOST:	MSA|AA|2|Message accepted|||0|<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	ERR|0|<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	QRD|20231025155554|R|D|14|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|2|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|6|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|7|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|8|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|9|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|10|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|11|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|12|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|13|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|14|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|15|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|16|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|17|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|18|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|19|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|20|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|22||14|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|23|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|25|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|27|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|28|||||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	DSC||<CR>
+
+25/10/2023 15:51:55-25/10/2023 15:51:55	HOST:	<EB><CR>
+
+25/10/2023 15:51:55-*****FIN DEL MENSAJE******
+
+25/10/2023 16:00:22-Conectando con GALILEO ONLINE
+
+25/10/2023 16:01:00-Conectando con GALILEO ONLINE
+
+25/10/2023 16:01:07-Se encuentra el analizador configurado.
+
+25/10/2023 16:01:07-Inicia la aplicación
+
+25/10/2023 16:01:08-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 16:01:08-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 16:01:56-25/10/2023 16:01:56	CLIA:	<SB>MSH|^~\&|||||20231025160352||QRY^Q02|3|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:01:56-25/10/2023 16:01:56	CLIA:	QRD|20231025160352|R|D|15|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 16:01:56-25/10/2023 16:01:56	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 16:01:56-25/10/2023 16:01:56	CLIA:	<EB><CR>
+
+25/10/2023 16:02:00-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	<SB>MSH|^~\&|||||20231025160352||QCK^Q02|3|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	MSA|AA|3|Message accepted|||0|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	ERR|0|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	<EB><CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	DEBUG:	MSH|^~\&|||||20231025160352||QCK^Q02|3|P|2.3.1||||||ASCII|||
+MSA|AA|3|Message accepted|||0|
+ERR|0|
+QAK|SR|OK|
+
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	<SB>MSH|^~\&|||||20231025160352||DSR^Q03|3|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	MSA|AA|3|Message accepted|||0|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	ERR|0|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	QRD|20231025160601|R|D|15|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|2|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|6|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|7|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|8|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|9|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|10|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|11|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|12|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|13|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|14|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|15|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|16|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|17|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|18|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|19|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|20|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|22||15|||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|23|||||<CR>
+
+25/10/2023 16:02:01-25/10/2023 16:02:01	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|25|||||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|27|||||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|28|||||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	DSC||<CR>
+
+25/10/2023 16:02:02-25/10/2023 16:02:02	HOST:	<EB><CR>
+
+25/10/2023 16:02:02-*****FIN DEL MENSAJE******
+
+25/10/2023 16:07:26-Conectando con GALILEO ONLINE
+
+25/10/2023 16:07:33-Se encuentra el analizador configurado.
+
+25/10/2023 16:07:33-Inicia la aplicación
+
+25/10/2023 16:07:33-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 16:07:33-Escuchando el puerto: 6502 por TCP/IP
+
+25/10/2023 16:08:26-25/10/2023 16:08:26	CLIA:	<SB>MSH|^~\&|||||20231025161022||QRY^Q02|4|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:08:26-25/10/2023 16:08:26	CLIA:	QRD|20231025161022|R|D|16|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 16:08:26-25/10/2023 16:08:26	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+25/10/2023 16:08:26-25/10/2023 16:08:26	CLIA:	<EB><CR>
+
+25/10/2023 16:08:30-Consultando al LIS la orden: 202310230001-3
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	<SB>MSH|^~\&|||||20231025161022||QCK^Q02|4|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	MSA|AA|4|Message accepted|||0|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	ERR|0|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	<EB><CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	DEBUG:	MSH|^~\&|||||20231025161022||QCK^Q02|4|P|2.3.1||||||ASCII|||MSA|AA|4|Message accepted|||0|ERR|0|
+QAK|SR|OK|
+
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	<SB>MSH|^~\&|||||20231025161022||DSR^Q03|4|P|2.3.1||||||ASCII|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	MSA|AA|4|Message accepted|||0|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	ERR|0|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	QAK|SR|OK|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	QRD|20231025161230|R|D|16|||RD|202310230001-3|OTH|||T|<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|1||1|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|2|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|3||FRISONEX|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|4||19990210120000|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|5||M|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|6|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|7|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|8|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|9|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|10|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|11|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|12|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|13|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|14|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|15|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|16|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|17|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|18|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|19|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|20|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|21||202310230001-3|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|22||16|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|23|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|24||N|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|25|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|26||Suero|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|27|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|28|||||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|29||FT3^^^|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSP|30||FSH^^^|||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	DSC||<CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	HOST:	<EB><CR>
+
+25/10/2023 16:08:30-25/10/2023 16:08:30	DEBUG:	MSH|^~\&|||||20231025161022||DSR^Q03|4|P|2.3.1||||||ASCII|||MSA|AA|4|Message accepted|||0|ERR|0|
+QAK|SR|OK|
+QRD|20231025161230|R|D|16|||RD|202310230001-3|OTH|||T|QRF|BS-200|||||RCT|COR|ALL||DSP|1||1|||
+DSP|2|||||
+DSP|3||FRISONEX|||
+DSP|4||19990210120000|||
+DSP|5||M|||
+DSP|6|||||
+DSP|7|||||
+DSP|8|||||
+DSP|9|||||
+DSP|10|||||
+DSP|11|||||
+DSP|12|||||
+DSP|13|||||
+DSP|14|||||
+DSP|15|||||
+DSP|16|||||
+DSP|17|||||
+DSP|18|||||
+DSP|19|||||
+DSP|20|||||
+DSP|21||202310230001-3|||
+DSP|22||16|||
+DSP|23|||||
+DSP|24||N|||
+DSP|25|||||
+DSP|26||Suero|||
+DSP|27|||||
+DSP|28|||||
+DSP|29||FT3^^^|||
+DSP|30||FSH^^^|||
+DSC||
+
+
+25/10/2023 16:08:30-*****FIN DEL MENSAJE******
+
+25/10/2023 16:11:11-Conectando con GALILEO ONLINE
+
+25/10/2023 16:11:20-Se encuentra el analizador configurado.
+
+25/10/2023 16:11:20-Inicia la aplicación
+
+25/10/2023 16:11:20-Esperando Conexión del Instrumento CLIA 1000
+
+25/10/2023 16:11:20-Escuchando el puerto: 6502 por TCP/IP
+

@@ -1,0 +1,563 @@
+27/7/2023 8:38:26-Conectando con GALILEO ONLINE
+
+27/7/2023 8:38:29-Se encuentra el analizador configurado.
+
+27/7/2023 8:38:29-Inicia la aplicación
+
+27/7/2023 8:38:29-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 8:38:31-Escuchando el puerto: COM8 
+
+27/7/2023 11:47:06-Conectando con GALILEO ONLINE
+
+27/7/2023 11:47:12-Se encuentra el analizador configurado.
+
+27/7/2023 11:47:12-Inicia la aplicación
+
+27/7/2023 11:47:12-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 11:47:28-Escuchando el puerto: COM8 
+
+27/7/2023 12:02:23-Conectando con GALILEO ONLINE
+
+27/7/2023 12:02:29-Se encuentra el analizador configurado.
+
+27/7/2023 12:02:29-Inicia la aplicación
+
+27/7/2023 12:02:29-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 12:02:33-Escuchando el puerto: COM8 
+
+27/7/2023 12:02:37-Error al conectar en el puerto: COM8
+
+27/7/2023 12:02:37-Error al conectar en el puerto: COM8 Access to the path 'COM8' is denied.
+
+27/7/2023 12:05:29-Conectando con GALILEO ONLINE
+
+27/7/2023 12:05:33-Se encuentra el analizador configurado.
+
+27/7/2023 12:05:33-Inicia la aplicación
+
+27/7/2023 12:05:33-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 12:05:39-Escuchando el puerto: COM8 
+
+H|\^&|||Mindray^^|||||||PR|1394-97|20230727120638P|81||||^^||^^|U||||||||||||||||||||||||||O|81|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||R|148|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^L|1|N
+
+{
+  "header": {
+    "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727120638|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-07-27T12:06:38",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|81||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "81",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|81|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "81",
+          "SpecimenId": "10^^",
+          "InstrumentSpecimenId": "07210001",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-07-21T15:33:27",
+          "SpecimenCollectionDateTime": "2023-07-21T15:31:52",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230721153152",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|148|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "148",
+              "TestID": "^TESTO^^F",
+              "DataMeasurementValue": "5.67^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "5.67^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230721155935",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "TESTO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^TESTO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "5.67",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "10",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|1|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "1",
+    "TerminationCode": "N"
+  },
+  "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727120638\rP|81||||^^||^^|U||||||||||||||||||||||||||\rO|81|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||\rR|148|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^\rL|1|N\r"
+}
+
+27/7/2023 12:09:07-Conectando con GALILEO ONLINE
+
+27/7/2023 12:09:11-Se encuentra el analizador configurado.
+
+27/7/2023 12:09:11-Inicia la aplicación
+
+27/7/2023 12:09:11-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 12:09:11-Escuchando el puerto: COM8 
+
+27/7/2023 12:10:59-Conectando con GALILEO ONLINE
+
+27/7/2023 12:11:02-Se encuentra el analizador configurado.
+
+27/7/2023 12:11:02-Inicia la aplicación
+
+27/7/2023 12:11:02-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 12:11:02-Escuchando el puerto: COM8 
+
+H|\^&|||Mindray^^|||||||PR|1394-97|20230727121147P|82||||^^||^^|U||||||||||||||||||||||||||O|82|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||R|149|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^L|2|N
+
+{
+  "header": {
+    "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727121147|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-07-27T12:11:47",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|82||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "82",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|82|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "82",
+          "SpecimenId": "10^^",
+          "InstrumentSpecimenId": "07210001",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-07-21T15:33:27",
+          "SpecimenCollectionDateTime": "2023-07-21T15:31:52",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230721153152",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|149|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "149",
+              "TestID": "^TESTO^^F",
+              "DataMeasurementValue": "5.67^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "5.67^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230721155935",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "TESTO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^TESTO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "5.67",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "10",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|2|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "2",
+    "TerminationCode": "N"
+  },
+  "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727121147\rP|82||||^^||^^|U||||||||||||||||||||||||||\rO|82|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||\rR|149|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^\rL|2|N\r"
+}
+
+27/7/2023 12:15:02-Conectando con GALILEO ONLINE
+
+27/7/2023 12:15:04-Se encuentra el analizador configurado.
+
+27/7/2023 12:15:04-Inicia la aplicación
+
+27/7/2023 12:15:04-Esperando Conexión del Instrumento CLIA 1000
+
+27/7/2023 12:15:05-Escuchando el puerto: COM8 
+
+H|\^&|||Mindray^^|||||||PR|1394-97|20230727121545P|83||||^^||^^|U||||||||||||||||||||||||||O|83|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||R|150|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^L|3|N
+
+{
+  "header": {
+    "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727121545|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-07-27T12:15:45",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|83||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "83",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|83|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "83",
+          "SpecimenId": "10^^",
+          "InstrumentSpecimenId": "07210001",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-07-21T15:33:27",
+          "SpecimenCollectionDateTime": "2023-07-21T15:31:52",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230721153152",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|150|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "150",
+              "TestID": "^TESTO^^F",
+              "DataMeasurementValue": "5.67^^^^",
+              "Units": "ng/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "5.67^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230721155935",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "TESTO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^TESTO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "5.67",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "10",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|3|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "3",
+    "TerminationCode": "N"
+  },
+  "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230727121545\rP|83||||^^||^^|U||||||||||||||||||||||||||\rO|83|10^^|07210001|^TESTO^^|R|20230721153327|20230721153152|||||||20230721153152|serum||||||||||F|||||\rR|150|^TESTO^^F|5.67^^^^|ng/mL|^|N||F|5.67^^^^|0|20230721155935||Mindray^\rL|3|N\r"
+}
+
+27/7/2023 12:15:19-{"idLaboratorio":18,"codigoOrden":"07210001","CodigoMuestra":"0","CodigoExamenHomologado":"TESTO","valorNumero":5.67,"valorTexto":null,"Validado":false,"Identificador":"CLIA1000HL","Orden":123}
+
+27/7/2023 12:15:19-"[{\"idLaboratorio\":18,\"codigoOrden\":\"07210001\",\"CodigoMuestra\":\"0\",\"CodigoExamenHomologado\":\"TESTO\",\"valorNumero\":5.67,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":123}]"
+
+27/7/2023 12:15:19-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+

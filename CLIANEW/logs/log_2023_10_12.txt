@@ -1,0 +1,727 @@
+12/10/2023 10:10:11-Conectando con GALILEO ONLINE
+
+12/10/2023 10:10:21-Se encuentra el analizador configurado.
+
+12/10/2023 10:10:21-Inicia la aplicación
+
+12/10/2023 10:10:21-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:10:21-Escuchando el puerto: COM4 
+
+12/10/2023 10:10:21-Error al conectar en el puerto: COM4
+
+12/10/2023 10:10:21-Error al conectar en el puerto: COM4 Could not find file 'COM4'.
+
+12/10/2023 10:10:39-Conectando con GALILEO ONLINE
+
+12/10/2023 10:10:49-Se encuentra el analizador configurado.
+
+12/10/2023 10:10:49-Inicia la aplicación
+
+12/10/2023 10:10:49-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:10:49-Escuchando el puerto: COM4 
+
+12/10/2023 10:10:49-Error al conectar en el puerto: COM4
+
+12/10/2023 10:10:49-Error al conectar en el puerto: COM4 Could not find file 'COM4'.
+
+12/10/2023 10:11:21-Conectando con GALILEO ONLINE
+
+12/10/2023 10:11:30-Se encuentra el analizador configurado.
+
+12/10/2023 10:11:30-Inicia la aplicación
+
+12/10/2023 10:11:30-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:11:30-Escuchando el puerto: COM4 
+
+12/10/2023 10:14:31-CLIA: <ENQ>
+
+12/10/2023 10:14:35-GALILEO:<ACK>
+
+12/10/2023 10:14:35-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20231012101559<LF>Q|44|^202310120003-3||||||||||O<LF>L|1|N<LF><ETX>D7<LF><CR>
+
+12/10/2023 10:14:37-GALILEO:<ACK>
+
+12/10/2023 10:14:37-GALILEO: <ENQ>
+
+12/10/2023 10:14:37-GALILEO: <ENQ>
+
+12/10/2023 10:14:38-CLIA: <ACK>
+
+12/10/2023 10:14:40-GALILEO: <STX>1H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501<CR>P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||<CR>O|1|1^^|202310100004-3|1^CA125^^\3^t-PSA^^\4^HIV^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||<CR>; L|1|N<CR><ETX>
+
+12/10/2023 10:17:43-Conectando con GALILEO ONLINE
+
+12/10/2023 10:17:54-Se encuentra el analizador configurado.
+
+12/10/2023 10:17:54-Inicia la aplicación
+
+12/10/2023 10:17:54-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:17:54-Escuchando el puerto: COM4 
+
+12/10/2023 10:20:35-CLIA: <ENQ>
+
+12/10/2023 10:20:39-GALILEO:<ACK>
+
+12/10/2023 10:20:45-CLIA: <ENQ>
+
+12/10/2023 10:20:49-GALILEO:<ACK>
+
+12/10/2023 10:20:55-CLIA: <ENQ>
+
+12/10/2023 10:20:59-GALILEO:<ACK>
+
+12/10/2023 10:21:05-CLIA: <ENQ>
+
+12/10/2023 10:21:09-GALILEO:<ACK>
+
+12/10/2023 10:23:02-Conectando con GALILEO ONLINE
+
+12/10/2023 10:23:11-Se encuentra el analizador configurado.
+
+12/10/2023 10:23:11-Inicia la aplicación
+
+12/10/2023 10:23:11-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:23:11-Escuchando el puerto: COM4 
+
+12/10/2023 10:26:33-CLIA: <ENQ>
+
+12/10/2023 10:26:37-GALILEO:<ACK>
+
+12/10/2023 10:26:37-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20231012102801<LF>Q|46|^202310120003-3||||||||||O<LF>L|1|N<LF><ETX>
+
+12/10/2023 10:26:39-GALILEO:<ACK>
+
+12/10/2023 10:26:39-GALILEO: <ENQ>
+
+12/10/2023 10:26:39-GALILEO: <ENQ>
+
+12/10/2023 10:26:40-CLIA: <ACK>
+
+12/10/2023 10:26:42-GALILEO: <STX>O|1|1^^|202310120003-3|1^CA125^^\2^CEA^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||<CR>; L|1|N<CR><ETX>
+
+12/10/2023 10:31:15-CLIA: <ENQ>
+
+12/10/2023 10:31:19-GALILEO:<ACK>
+
+12/10/2023 10:31:25-CLIA: <ENQ>
+
+12/10/2023 10:31:29-GALILEO:<ACK>
+
+12/10/2023 10:31:35-CLIA: <ENQ>
+
+12/10/2023 10:31:39-GALILEO:<ACK>
+
+12/10/2023 10:31:45-CLIA: <ENQ>
+
+12/10/2023 10:31:49-GALILEO:<ACK>
+
+12/10/2023 10:32:06-CLIA: <ENQ>
+
+12/10/2023 10:32:10-GALILEO:<ACK>
+
+12/10/2023 10:32:11-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||PR|1394-97|20231012103335<LF>P|110||||^^||^^|U||||||||||||||||||||||||||<LF>O|110|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||<LF>R|290|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^<LF>L|1|N<LF><ETX>
+
+12/10/2023 10:32:13-GALILEO:<ACK>
+
+{
+  "header": {
+    "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103335|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-10-12T10:33:35",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|110||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "110",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|110|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "110",
+          "SpecimenId": "1^^",
+          "InstrumentSpecimenId": "202310120002-3",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-10-12T08:52:16",
+          "SpecimenCollectionDateTime": "2023-10-12T08:51:39",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "2023-10-12T08:51:39",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|290|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "290",
+              "TestID": "^Anti-TPO^^F",
+              "DataMeasurementValue": "0.40^^^^",
+              "Units": "IU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.40^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20231012093156",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "Anti-TPO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^Anti-TPO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.40",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "1",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|1|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "1",
+    "TerminationCode": "N"
+  },
+  "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103335\rP|110||||^^||^^|U||||||||||||||||||||||||||\rO|110|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||\rR|290|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^\rL|1|N\r\u0003"
+}
+
+12/10/2023 10:32:13-Anti-TPO : 0.40 : 202310120002 : 3 : 18
+
+12/10/2023 10:32:13-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202310120002\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"Anti-TPO\",\"valorNumero\":0.4,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":188}]"
+
+12/10/2023 10:32:13-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+12/10/2023 10:32:13-GALILEO: <ENQ>
+
+12/10/2023 10:32:14-CLIA: <ACK>
+
+12/10/2023 10:32:16-GALILEO: <STX>O|1|1^^|202310120003-3|1^CA125^^\2^CEA^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||<CR>; L|1|N<CR><ETX>
+
+12/10/2023 10:32:46-CLIA: <ENQ>
+
+12/10/2023 10:32:50-GALILEO:<ACK>
+
+12/10/2023 10:32:56-CLIA: <ENQ>
+
+12/10/2023 10:33:00-GALILEO:<ACK>
+
+12/10/2023 10:33:06-CLIA: <ENQ>
+
+12/10/2023 10:33:10-GALILEO:<ACK>
+
+12/10/2023 10:33:24-CLIA: <ENQ>
+
+12/10/2023 10:33:28-GALILEO:<ACK>
+
+12/10/2023 10:33:28-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||PR|1394-97|20231012103453<LF>P|112||||^^||^^|U||||||||||||||||||||||||||<LF>O|112|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||<LF>R|292|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^<LF>L|1|N<LF><ETX>
+
+12/10/2023 10:33:30-GALILEO:<ACK>
+
+{
+  "header": {
+    "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103453|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-10-12T10:34:53",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|112||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "112",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|112|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "112",
+          "SpecimenId": "1^^",
+          "InstrumentSpecimenId": "202310120002-3",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-10-12T08:52:16",
+          "SpecimenCollectionDateTime": "2023-10-12T08:51:39",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "2023-10-12T08:51:39",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|292|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "292",
+              "TestID": "^Anti-TPO^^F",
+              "DataMeasurementValue": "0.40^^^^",
+              "Units": "IU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.40^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20231012093156",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "Anti-TPO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^Anti-TPO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.40",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "1",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|1|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "1",
+    "TerminationCode": "N"
+  },
+  "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103453\rP|112||||^^||^^|U||||||||||||||||||||||||||\rO|112|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||\rR|292|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^\rL|1|N\r\u0003"
+}
+
+12/10/2023 10:33:30-Anti-TPO : 0.40 : 202310120002 : 3 : 18
+
+12/10/2023 10:33:30-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202310120002\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"Anti-TPO\",\"valorNumero\":0.4,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":188}]"
+
+12/10/2023 10:33:31-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+12/10/2023 10:33:31-GALILEO: <ENQ>
+
+12/10/2023 10:33:32-CLIA: <ACK>
+
+12/10/2023 10:33:34-GALILEO: <STX>O|1|1^^|202310120003-3|1^CA125^^\2^CEA^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||O|||||<CR>; L|1|N<CR><ETX>
+
+12/10/2023 10:34:08-Conectando con GALILEO ONLINE
+
+12/10/2023 10:34:17-Se encuentra el analizador configurado.
+
+12/10/2023 10:34:17-Inicia la aplicación
+
+12/10/2023 10:34:17-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:34:17-Escuchando el puerto: COM4 
+
+12/10/2023 10:34:49-CLIA: <ENQ>
+
+12/10/2023 10:34:53-GALILEO:<ACK>
+
+12/10/2023 10:34:54-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||PR|1394-97|20231012103618<LF>P|113||||^^||^^|U||||||||||||||||||||||||||<LF>O|113|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||<LF>R|293|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^<LF>L|1|N<LF><ETX>
+
+12/10/2023 10:34:56-GALILEO:<ACK>
+
+{
+  "header": {
+    "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103618|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-10-12T10:36:18",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|113||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "113",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|113|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "113",
+          "SpecimenId": "1^^",
+          "InstrumentSpecimenId": "202310120002-3",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-10-12T08:52:16",
+          "SpecimenCollectionDateTime": "2023-10-12T08:51:39",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "2023-10-12T08:51:39",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|293|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "293",
+              "TestID": "^Anti-TPO^^F",
+              "DataMeasurementValue": "0.40^^^^",
+              "Units": "IU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "0.40^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20231012093156",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "Anti-TPO",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^Anti-TPO^^F"
+              },
+              "DataMeasurement": {
+                "Value": "0.40",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "1",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|1|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "1",
+    "TerminationCode": "N"
+  },
+  "Content": "\u00021H|\\^&|||Mindray^^|||||||PR|1394-97|20231012103618\rP|113||||^^||^^|U||||||||||||||||||||||||||\rO|113|1^^|202310120002-3|^Anti-TPO^^|R|20231012085216|20231012085139|||||||20231012085139|serum||||||||||F|||||\rR|293|^Anti-TPO^^F|0.40^^^^|IU/mL|^|N||F|0.40^^^^|0|20231012093156||Mindray^\rL|1|N\r\u0003"
+}
+
+12/10/2023 10:34:56-Anti-TPO : 0.40 : 202310120002 : 3 : 18
+
+12/10/2023 10:34:56-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202310120002\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"Anti-TPO\",\"valorNumero\":0.4,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":188}]"
+
+12/10/2023 10:34:56-{"code":"API-00","Mensaje":"No existen Datos a Mostrar","ProcesoExitoso":false}
+
+12/10/2023 10:34:56-GALILEO: <ENQ>
+
+12/10/2023 10:34:57-CLIA: <ACK>
+
+12/10/2023 10:34:59-GALILEO: <STX><ETX>
+
+12/10/2023 10:38:07-Conectando con GALILEO ONLINE
+
+12/10/2023 10:38:15-Se encuentra el analizador configurado.
+
+12/10/2023 10:38:15-Inicia la aplicación
+
+12/10/2023 10:38:15-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 10:38:15-Escuchando el puerto: COM4 
+
+12/10/2023 10:40:56-CLIA: <ENQ>
+
+12/10/2023 10:41:00-GALILEO:<ACK>
+
+12/10/2023 10:41:00-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20231012104224<LF>Q|47|^202310120003-3||||||||||O<LF>L|1|N<LF><ETX>D2<LF><CR>
+
+12/10/2023 10:41:02-GALILEO:<ACK>
+
+12/10/2023 10:41:02-GALILEO: <ENQ>
+
+12/10/2023 10:41:02-GALILEO: <ENQ>
+
+12/10/2023 10:41:03-CLIA: <ACK>
+
+12/10/2023 10:41:05-GALILEO: <STX>1H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501<CR>P|1||PATIENT111||Smith^^||19600315^45^Y|M||keshi||||||||zhenduan||01|||||A1|002||||||||<CR>O|1|1^^|202310120003-3|1^CA125^^\2^CEA^^|R|20090910135300|20090910125300|||||||20130715102431|Urine|Dr.Who|Department1||Dr.Tom||||||F|||||<CR>; L|1|N<CR><ETX>
+
+12/10/2023 17:07:08-Conectando con GALILEO ONLINE
+
+12/10/2023 17:07:16-Se encuentra el analizador configurado.
+
+12/10/2023 17:07:16-Inicia la aplicación
+
+12/10/2023 17:07:16-Esperando Conexión del Instrumento CLIA 1000
+
+12/10/2023 17:07:16-Escuchando el puerto: COM4 
+
+12/10/2023 17:07:16-Error al conectar en el puerto: COM4
+
+12/10/2023 17:07:16-Error al conectar en el puerto: COM4 Could not find file 'COM4'.
+

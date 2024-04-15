@@ -1,0 +1,324 @@
+13/10/2023 13:30:29-Conectando con GALILEO ONLINE
+
+13/10/2023 13:31:40-Conectando con GALILEO ONLINE
+
+13/10/2023 13:31:45-Se encuentra el analizador configurado.
+
+13/10/2023 13:31:45-Inicia la aplicación
+
+13/10/2023 13:31:45-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 13:31:46-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:27:17-Conectando con GALILEO ONLINE
+
+13/10/2023 16:27:26-Se encuentra el analizador configurado.
+
+13/10/2023 16:27:26-Inicia la aplicación
+
+13/10/2023 16:27:26-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:27:26-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:38:48-Conectando con GALILEO ONLINE
+
+13/10/2023 16:38:57-Se encuentra el analizador configurado.
+
+13/10/2023 16:38:57-Inicia la aplicación
+
+13/10/2023 16:38:57-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:38:57-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:40:52-Conectando con GALILEO ONLINE
+
+13/10/2023 16:40:59-Se encuentra el analizador configurado.
+
+13/10/2023 16:40:59-Inicia la aplicación
+
+13/10/2023 16:40:59-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:40:59-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:42:52-Conectando con GALILEO ONLINE
+
+13/10/2023 16:42:58-Se encuentra el analizador configurado.
+
+13/10/2023 16:42:58-Inicia la aplicación
+
+13/10/2023 16:42:58-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:42:58-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:44:34-Conectando con GALILEO ONLINE
+
+13/10/2023 16:44:40-Se encuentra el analizador configurado.
+
+13/10/2023 16:44:40-Inicia la aplicación
+
+13/10/2023 16:44:40-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:44:40-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:53:46-Conectando con GALILEO ONLINE
+
+13/10/2023 16:53:54-Se encuentra el analizador configurado.
+
+13/10/2023 16:53:54-Inicia la aplicación
+
+13/10/2023 16:53:54-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:53:54-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:54:31-Conectando con GALILEO ONLINE
+
+13/10/2023 16:54:37-Se encuentra el analizador configurado.
+
+13/10/2023 16:54:37-Inicia la aplicación
+
+13/10/2023 16:54:37-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:54:38-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 16:55:50-Conectando con GALILEO ONLINE
+
+13/10/2023 16:55:58-Se encuentra el analizador configurado.
+
+13/10/2023 16:55:58-Inicia la aplicación
+
+13/10/2023 16:55:58-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 16:55:58-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 17:11:37-Conectando con GALILEO ONLINE
+
+13/10/2023 17:11:46-Se encuentra el analizador configurado.
+
+13/10/2023 17:11:46-Inicia la aplicación
+
+13/10/2023 17:11:46-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 17:11:46-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 17:52:18-Conectando con GALILEO ONLINE
+
+13/10/2023 17:52:33-Se encuentra el analizador configurado.
+
+13/10/2023 17:52:33-Inicia la aplicación
+
+13/10/2023 17:52:33-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 17:52:33-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 17:54:02-Conectando con GALILEO ONLINE
+
+13/10/2023 17:54:08-Se encuentra el analizador configurado.
+
+13/10/2023 17:54:08-Inicia la aplicación
+
+13/10/2023 17:54:08-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 17:54:08-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:03:41-Conectando con GALILEO ONLINE
+
+13/10/2023 18:03:54-Se encuentra el analizador configurado.
+
+13/10/2023 18:03:54-Inicia la aplicación
+
+13/10/2023 18:03:54-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:03:54-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:14:10-Conectando con GALILEO ONLINE
+
+13/10/2023 18:14:39-Se encuentra el analizador configurado.
+
+13/10/2023 18:14:39-Inicia la aplicación
+
+13/10/2023 18:14:39-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:14:39-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:18:20-Conectando con GALILEO ONLINE
+
+13/10/2023 18:18:29-Se encuentra el analizador configurado.
+
+13/10/2023 18:18:29-Inicia la aplicación
+
+13/10/2023 18:18:29-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:18:29-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:26:46-Conectando con GALILEO ONLINE
+
+13/10/2023 18:27:44-Conectando con GALILEO ONLINE
+
+13/10/2023 18:27:50-Se encuentra el analizador configurado.
+
+13/10/2023 18:27:51-Inicia la aplicación
+
+13/10/2023 18:27:51-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:27:51-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:29:47-Conectando con GALILEO ONLINE
+
+13/10/2023 18:29:54-Se encuentra el analizador configurado.
+
+13/10/2023 18:29:55-Inicia la aplicación
+
+13/10/2023 18:29:55-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:29:55-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:35:02-Conectando con GALILEO ONLINE
+
+13/10/2023 18:35:10-Se encuentra el analizador configurado.
+
+13/10/2023 18:35:10-Inicia la aplicación
+
+13/10/2023 18:35:10-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:35:10-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:36:46-Conectando con GALILEO ONLINE
+
+13/10/2023 18:36:52-Se encuentra el analizador configurado.
+
+13/10/2023 18:36:52-Inicia la aplicación
+
+13/10/2023 18:36:52-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:36:52-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:39:21-Conectando con GALILEO ONLINE
+
+13/10/2023 18:39:28-Se encuentra el analizador configurado.
+
+13/10/2023 18:39:28-Inicia la aplicación
+
+13/10/2023 18:39:28-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:39:28-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:41:07-Conectando con GALILEO ONLINE
+
+13/10/2023 18:41:16-Se encuentra el analizador configurado.
+
+13/10/2023 18:41:16-Inicia la aplicación
+
+13/10/2023 18:41:16-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:41:16-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:46:57-Conectando con GALILEO ONLINE
+
+13/10/2023 18:47:04-Se encuentra el analizador configurado.
+
+13/10/2023 18:47:04-Inicia la aplicación
+
+13/10/2023 18:47:04-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:47:04-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:51:34-Conectando con GALILEO ONLINE
+
+13/10/2023 18:51:41-Se encuentra el analizador configurado.
+
+13/10/2023 18:51:41-Inicia la aplicación
+
+13/10/2023 18:51:41-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:51:41-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 18:55:05-Conectando con GALILEO ONLINE
+
+13/10/2023 18:55:11-Se encuentra el analizador configurado.
+
+13/10/2023 18:55:12-Inicia la aplicación
+
+13/10/2023 18:55:12-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 18:55:12-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 19:03:46-Conectando con GALILEO ONLINE
+
+13/10/2023 19:03:53-Se encuentra el analizador configurado.
+
+13/10/2023 19:03:54-Inicia la aplicación
+
+13/10/2023 19:03:54-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 19:03:54-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 19:15:53-Conectando con GALILEO ONLINE
+
+13/10/2023 19:16:00-Se encuentra el analizador configurado.
+
+13/10/2023 19:16:00-Inicia la aplicación
+
+13/10/2023 19:16:00-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 19:16:00-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 19:18:37-Conectando con GALILEO ONLINE
+
+13/10/2023 19:18:44-Se encuentra el analizador configurado.
+
+13/10/2023 19:18:44-Inicia la aplicación
+
+13/10/2023 19:18:44-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 19:18:44-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 19:20:20-Conectando con GALILEO ONLINE
+
+13/10/2023 19:20:26-Se encuentra el analizador configurado.
+
+13/10/2023 19:20:26-Inicia la aplicación
+
+13/10/2023 19:20:26-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 19:20:26-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 19:59:42-Conectando con GALILEO ONLINE
+
+13/10/2023 19:59:51-Se encuentra el analizador configurado.
+
+13/10/2023 19:59:51-Inicia la aplicación
+
+13/10/2023 19:59:51-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 19:59:51-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 20:02:19-Conectando con GALILEO ONLINE
+
+13/10/2023 20:02:25-Se encuentra el analizador configurado.
+
+13/10/2023 20:02:25-Inicia la aplicación
+
+13/10/2023 20:02:25-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 20:02:25-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 20:42:50-Conectando con GALILEO ONLINE
+
+13/10/2023 20:42:57-Se encuentra el analizador configurado.
+
+13/10/2023 20:42:57-Inicia la aplicación
+
+13/10/2023 20:42:57-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 20:42:57-Escuchando el puerto: 6500 por TCP/IP
+
+13/10/2023 20:44:12-Conectando con GALILEO ONLINE
+
+13/10/2023 20:44:22-Se encuentra el analizador configurado.
+
+13/10/2023 20:44:22-Inicia la aplicación
+
+13/10/2023 20:44:22-Esperando Conexión del Instrumento CLIA 1000
+
+13/10/2023 20:44:22-Escuchando el puerto: 6500 por TCP/IP
+

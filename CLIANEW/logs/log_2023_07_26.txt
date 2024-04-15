@@ -1,0 +1,443 @@
+26/7/2023 9:47:18-Conectando con GALILEO ONLINE
+
+26/7/2023 9:47:18-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 9:47:18-Inicia la aplicación
+
+26/7/2023 9:47:18-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 9:47:18-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 10:18:36-Conectando con GALILEO ONLINE
+
+26/7/2023 10:18:36-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 10:18:36-Inicia la aplicación
+
+26/7/2023 10:18:36-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 10:18:36-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 10:19:30-Conectando con GALILEO ONLINE
+
+26/7/2023 10:19:30-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 10:19:30-Inicia la aplicación
+
+26/7/2023 10:19:30-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 10:19:30-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 11:41:14-Conectando con GALILEO ONLINE
+
+26/7/2023 11:41:14-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 11:41:14-Inicia la aplicación
+
+26/7/2023 11:41:14-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 11:41:14-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 11:42:24-Conectando con GALILEO ONLINE
+
+26/7/2023 11:42:24-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 11:42:24-Inicia la aplicación
+
+26/7/2023 11:42:24-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 11:42:24-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:04:51-Conectando con GALILEO ONLINE
+
+26/7/2023 12:04:51-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:04:51-Inicia la aplicación
+
+26/7/2023 12:04:51-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:04:52-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:14:17-Conectando con GALILEO ONLINE
+
+26/7/2023 12:14:17-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:14:17-Inicia la aplicación
+
+26/7/2023 12:14:17-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:14:43-Conectando con GALILEO ONLINE
+
+26/7/2023 12:14:43-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:14:43-Inicia la aplicación
+
+26/7/2023 12:14:43-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:15:42-Conectando con GALILEO ONLINE
+
+26/7/2023 12:15:42-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:15:42-Inicia la aplicación
+
+26/7/2023 12:15:42-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:15:42-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:18:14-Conectando con GALILEO ONLINE
+
+26/7/2023 12:18:14-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:18:14-Inicia la aplicación
+
+26/7/2023 12:18:14-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:18:17-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:21:20-Conectando con GALILEO ONLINE
+
+26/7/2023 12:21:20-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:21:20-Inicia la aplicación
+
+26/7/2023 12:21:20-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:21:29-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:21:57-Conectando con GALILEO ONLINE
+
+26/7/2023 12:21:57-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:21:57-Inicia la aplicación
+
+26/7/2023 12:21:57-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:22:00-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:22:34-Conectando con GALILEO ONLINE
+
+26/7/2023 12:22:34-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:22:34-Inicia la aplicación
+
+26/7/2023 12:22:34-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:22:36-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:32:31-Conectando con GALILEO ONLINE
+
+26/7/2023 12:32:31-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:32:31-Inicia la aplicación
+
+26/7/2023 12:32:31-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:36:26-Conectando con GALILEO ONLINE
+
+26/7/2023 12:36:26-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:36:26-Inicia la aplicación
+
+26/7/2023 12:36:26-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:36:26-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:39:59-Conectando con GALILEO ONLINE
+
+26/7/2023 12:39:59-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:39:59-Inicia la aplicación
+
+26/7/2023 12:39:59-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:40:00-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:42:10-Conectando con GALILEO ONLINE
+
+26/7/2023 12:42:10-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:42:10-Inicia la aplicación
+
+26/7/2023 12:42:10-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:42:11-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 12:42:46-Conectando con GALILEO ONLINE
+
+26/7/2023 12:42:46-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 12:42:46-Inicia la aplicación
+
+26/7/2023 12:42:46-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 12:42:46-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 13:00:12-Conectando con GALILEO ONLINE
+
+26/7/2023 13:00:12-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:00:12-Inicia la aplicación
+
+26/7/2023 13:00:12-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:01:31-Conectando con GALILEO ONLINE
+
+26/7/2023 13:01:31-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:01:31-Inicia la aplicación
+
+26/7/2023 13:01:31-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:03:22-Conectando con GALILEO ONLINE
+
+26/7/2023 13:03:22-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:03:22-Inicia la aplicación
+
+26/7/2023 13:03:22-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:13:28-Conectando con GALILEO ONLINE
+
+26/7/2023 13:13:28-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:13:28-Inicia la aplicación
+
+26/7/2023 13:13:28-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:13:28-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 13:14:05-Conectando con GALILEO ONLINE
+
+26/7/2023 13:14:05-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:14:05-Inicia la aplicación
+
+26/7/2023 13:14:05-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:14:06-Escuchando el puerto: 7118 por TCP/IP
+
+26/7/2023 13:14:55-Conectando con GALILEO ONLINE
+
+26/7/2023 13:14:55-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:14:55-Inicia la aplicación
+
+26/7/2023 13:14:55-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:14:55-Escuchando el puerto: COM8 
+
+26/7/2023 13:17:10-Conectando con GALILEO ONLINE
+
+26/7/2023 13:17:10-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:17:10-Inicia la aplicación
+
+26/7/2023 13:17:10-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:17:15-Escuchando el puerto: COM8 
+
+26/7/2023 13:22:22-Conectando con GALILEO ONLINE
+
+26/7/2023 13:22:22-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:22:22-Inicia la aplicación
+
+26/7/2023 13:22:22-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:22:25-Escuchando el puerto: COM8 
+
+26/7/2023 13:25:24-Conectando con GALILEO ONLINE
+
+26/7/2023 13:25:24-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:25:24-Inicia la aplicación
+
+26/7/2023 13:25:24-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:25:26-Escuchando el puerto: COM8 
+
+H|\^&|||Mindray^^|||||||PR|1394-97|20230726132605P|61||||^^||^^|U||||||||||||||||||||||||||O|61|^^||^LH^^|R|20230707142433|20230726132605|||||||20230726132605|serum||||||||||F|||||R|92|^LH^^F|3.19^^^^|mIU/mL|^|N||F|3.19^^^^|0|20230707150341||Mindray^L|4|N
+
+{
+  "header": {
+    "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230726132605|",
+    "RecordTypeId": "H",
+    "DelimiterDefinition": "\\^&",
+    "MessageControlId": "",
+    "AccessPassword": "",
+    "SenderNameId": "Mindray^^",
+    "SenderStreetAddress": "",
+    "ReservedField": null,
+    "TelephoneNo": "",
+    "CharacteristicOfSender": "",
+    "ReceiverId": "",
+    "Comment": "",
+    "ProcessingId": "PR",
+    "VersionNo": "1394-97",
+    "TimeOfMessage": "2023-07-26T13:26:05",
+    "SegmentDelimeter": "^"
+  },
+  "PatienInformationList": [
+    {
+      "Content": "P|61||||^^||^^|U|||||||||||||||||||||||||||",
+      "RecordTypeId": "P",
+      "SequenceNumber": "61",
+      "PracticeAssignedPatientId": "",
+      "LaboratoryAssignedPatientId": "",
+      "PatientId": "",
+      "PatientName": "^^",
+      "PatientMotherName": "",
+      "BirthDate": "0001-01-01T00:00:00",
+      "Age": null,
+      "AgeUnits": null,
+      "PatientSex": 2,
+      "PatientRaceEthnicOrigin": "",
+      "PatientAddress": "",
+      "ReservedField": "",
+      "PatientTelephoneNo": "",
+      "AttendingPhysicianId": "",
+      "SpecialField1": "",
+      "SpecialField2": "",
+      "PatientHeight": "",
+      "PatientWeight": "",
+      "Diagnosis": "",
+      "ActiveMedications": "",
+      "Diet": "",
+      "PracticeField1": "",
+      "PracticeField2": "",
+      "AdmissionandDischargeDates": "",
+      "AdmissionStatus": "",
+      "Location": "",
+      "NatureOfAternativeDiagnosisCodeAndClassifiers": "",
+      "AlternativeDiagnosticCodeAndClasssification": "",
+      "Religion": "",
+      "MaritalStatus": "",
+      "IsolationsStatus": "",
+      "Language": "",
+      "HospitalService": "",
+      "HospitalInstitution": "",
+      "DosageCategory": "",
+      "OrderRecordList": [
+        {
+          "Content": "O|61|^^||^LH^^|R|20230707142433|20230726132605|||||||20230726132605|serum||||||||||F||||||",
+          "RecordTypeId": "O",
+          "SecuenceNumber": "61",
+          "SpecimenId": "^^",
+          "InstrumentSpecimenId": "",
+          "UniversalTestIdPartOne": "",
+          "UniversalTestIdPartTwo": null,
+          "UniversalTestIdPartThree": null,
+          "Priority": 0,
+          "RequestedOrderderedDateTime": "2023-07-07T14:24:33",
+          "SpecimenCollectionDateTime": "2023-07-26T13:26:05",
+          "CollectionEndTime": "",
+          "CollectionVolume": "",
+          "CollectorId": "",
+          "ActionCode": "",
+          "DangerCode": "",
+          "RelevantClinicalInformation": "",
+          "DateTimeSpecimenReceived": "20230726132605",
+          "SpecimenDescriptor": "serum",
+          "OrderingPhysician": "",
+          "PhysicianTelephoneNo": "",
+          "UserField1": "",
+          "UserField2": "",
+          "LaboratoryField1": "",
+          "LaboratoryField2": "",
+          "ResultsReportedModifiedDateTime": "",
+          "InstreumentChargeToComputerSystem": "",
+          "InstrumentSectionId": "",
+          "ReportTypes": "F",
+          "ReservedField": "",
+          "LocationOfWardOfSpecimenCollection": "",
+          "NosocomialIngectionFlag": "",
+          "SpecimenService": "",
+          "SpecimenInstitution": "",
+          "PatientInfo": null,
+          "ResultRecordList": [
+            {
+              "Content": "R|92|^LH^^F|3.19^^^^|mIU/mL|^|N||F|3.19^^^^|0|20230707150341||Mindray^|",
+              "RecordTypeId": "R",
+              "SecuenceNumber": "92",
+              "TestID": "^LH^^F",
+              "DataMeasurementValue": "3.19^^^^",
+              "Units": "mIU/mL",
+              "ReferenceRanges": "^",
+              "ResultAbnormalFlags": "N",
+              "NatureOfAbnormalityTesting": "",
+              "ResultStatus": "F",
+              "DateOfChangeInInstrumentyNormativeValueOrUnits": "3.19^^^^",
+              "OperatorIdentification": "0",
+              "DateTimeTestStarted": "20230707150341",
+              "DateTimeTestCompleted": "",
+              "InstrumentId": "Mindray^",
+              "TestIdentifier": {
+                "TestIdentifier": "",
+                "TestName": "LH",
+                "TestIdentifierType": "",
+                "Manufacturer": "F",
+                "Content": "^LH^^F"
+              },
+              "DataMeasurement": {
+                "Value": "3.19",
+                "ValuePart1": "",
+                "ValuePart2": "",
+                "ValuePart3": "",
+                "ValuePart4": null
+              }
+            }
+          ],
+          "ManufacturRecordList": [],
+          "SpecimenIdRecord": {
+            "SpecimenId": "",
+            "SpecimenPart1": "",
+            "SpecimenPart2": "",
+            "SpecimenPart3": null,
+            "SpecimenPart4": null
+          }
+        }
+      ],
+      "Patient": {
+        "LastName": null,
+        "FirstName": null,
+        "MiddleName": null,
+        "Suffix": null,
+        "Prefix": null,
+        "Degree": null
+      }
+    }
+  ],
+  "Query": null,
+  "Terminator": {
+    "Content": "L|4|N|",
+    "RecordTypeId": "L",
+    "SecuenceNumber": "4",
+    "TerminationCode": "N"
+  },
+  "Content": "H|\\^&|||Mindray^^|||||||PR|1394-97|20230726132605\rP|61||||^^||^^|U||||||||||||||||||||||||||\rO|61|^^||^LH^^|R|20230707142433|20230726132605|||||||20230726132605|serum||||||||||F|||||\rR|92|^LH^^F|3.19^^^^|mIU/mL|^|N||F|3.19^^^^|0|20230707150341||Mindray^\rL|4|N\r"
+}
+
+26/7/2023 13:50:29-Conectando con GALILEO ONLINE
+
+26/7/2023 13:50:29-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:50:29-Inicia la aplicación
+
+26/7/2023 13:50:29-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:51:36-Escuchando el puerto: COM9 
+
+H|\^&|||ACCESS^573713|||||LIS||P|1|20230726135304
+
+26/7/2023 13:53:55-Conectando con GALILEO ONLINE
+
+26/7/2023 13:53:55-Se encuentra el analizador configurado de manera local.
+
+26/7/2023 13:53:55-Inicia la aplicación
+
+26/7/2023 13:53:55-Esperando Conexión del Instrumento CLIA 1000
+
+26/7/2023 13:54:00-Escuchando el puerto: COM9 
+
+H|\^&|||ACCESS^573713|||||LIS||P|1|20230726135455
+

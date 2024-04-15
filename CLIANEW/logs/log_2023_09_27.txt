@@ -1,0 +1,634 @@
+27/09/2023 08:28:03-Conectando con GALILEO ONLINE
+
+27/09/2023 08:28:10-Se encuentra el analizador configurado.
+
+27/09/2023 08:28:10-Inicia la aplicación
+
+27/09/2023 08:28:10-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 08:28:10-Escuchando el puerto: COM4 
+
+27/09/2023 08:32:09-CLIA: <ENQ>
+
+27/09/2023 08:32:13-GALILEO:<ACK>
+
+27/09/2023 08:32:14-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325Q|4|^202309220001-3||||||||||OL|10|N<ETX>
+
+27/09/2023 08:32:16-GALILEO:<ACK>
+
+27/09/2023 08:32:16-GALILEO: <STX>H|\^&|||Mindray^^|||||||QA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX><EOT>
+
+27/09/2023 08:41:26-Conectando con GALILEO ONLINE
+
+27/09/2023 08:41:32-Se encuentra el analizador configurado.
+
+27/09/2023 08:41:32-Inicia la aplicación
+
+27/09/2023 08:41:32-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 08:41:32-Escuchando el puerto: COM4 
+
+27/09/2023 08:44:25-CLIA: <ENQ>
+
+27/09/2023 08:44:29-GALILEO:<ACK>
+
+27/09/2023 08:44:29-CLIA:
+<ENQ><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927084540Q|5|^202309220001-3||||||||||OL|11|N<ETX>EA
+
+
+27/09/2023 08:44:31-GALILEO:<ACK>
+
+27/09/2023 08:44:31-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX><EOT>
+
+27/09/2023 10:38:45-Conectando con GALILEO ONLINE
+
+27/09/2023 10:38:55-Se encuentra el analizador configurado.
+
+27/09/2023 10:38:55-Inicia la aplicación
+
+27/09/2023 10:38:55-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 10:38:55-Escuchando el puerto: COM4 
+
+27/09/2023 10:38:55-Error al conectar en el puerto: COM4
+
+27/09/2023 10:38:55-Error al conectar en el puerto: COM4 Could not find file 'COM4'.
+
+27/09/2023 10:39:19-Conectando con GALILEO ONLINE
+
+27/09/2023 10:39:28-Se encuentra el analizador configurado.
+
+27/09/2023 10:39:28-Inicia la aplicación
+
+27/09/2023 10:39:28-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 10:39:29-Escuchando el puerto: COM4 
+
+27/09/2023 10:39:29-Error al conectar en el puerto: COM4
+
+27/09/2023 10:39:29-Error al conectar en el puerto: COM4 Could not find file 'COM4'.
+
+27/09/2023 10:40:04-Conectando con GALILEO ONLINE
+
+27/09/2023 10:40:11-Se encuentra el analizador configurado.
+
+27/09/2023 10:40:11-Inicia la aplicación
+
+27/09/2023 10:40:11-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 10:40:11-Escuchando el puerto: COM4 
+
+27/09/2023 11:19:18-Conectando con GALILEO ONLINE
+
+27/09/2023 11:19:26-Se encuentra el analizador configurado.
+
+27/09/2023 11:19:26-Inicia la aplicación
+
+27/09/2023 11:19:26-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:19:26-Escuchando el puerto: COM4 
+
+27/09/2023 11:23:09-Conectando con GALILEO ONLINE
+
+27/09/2023 11:23:15-Se encuentra el analizador configurado.
+
+27/09/2023 11:23:16-Inicia la aplicación
+
+27/09/2023 11:23:16-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:23:16-Escuchando el puerto: COM4 
+
+27/09/2023 11:23:30-CLIA: <ENQ>
+
+27/09/2023 11:23:36-GALILEO:<ACK>
+
+27/09/2023 11:24:12-Conectando con GALILEO ONLINE
+
+27/09/2023 11:24:19-Se encuentra el analizador configurado.
+
+27/09/2023 11:24:19-Inicia la aplicación
+
+27/09/2023 11:24:19-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:24:19-Escuchando el puerto: COM4 
+
+27/09/2023 11:25:03-Conectando con GALILEO ONLINE
+
+27/09/2023 11:25:10-Se encuentra el analizador configurado.
+
+27/09/2023 11:25:10-Inicia la aplicación
+
+27/09/2023 11:25:10-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:25:10-Escuchando el puerto: COM4 
+
+27/09/2023 11:25:28-CLIA: <ENQ>
+
+27/09/2023 11:25:34-GALILEO:<ACK>
+
+27/09/2023 11:25:53-Conectando con GALILEO ONLINE
+
+27/09/2023 11:26:00-Se encuentra el analizador configurado.
+
+27/09/2023 11:26:00-Inicia la aplicación
+
+27/09/2023 11:26:00-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:26:00-Escuchando el puerto: COM4 
+
+27/09/2023 11:26:13-CLIA: <ENQ>
+
+27/09/2023 11:26:40-GALILEO:<ACK>
+
+27/09/2023 11:32:32-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<ETX>
+
+27/09/2023 11:32:36-GALILEO:<ACK>
+
+27/09/2023 11:33:13-GALILEO: <ENQ>
+
+27/09/2023 11:33:43-Conectando con GALILEO ONLINE
+
+27/09/2023 11:33:51-Se encuentra el analizador configurado.
+
+27/09/2023 11:33:51-Inicia la aplicación
+
+27/09/2023 11:33:51-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:33:51-Escuchando el puerto: COM4 
+
+27/09/2023 11:33:57-CLIA: <ENQ>
+
+27/09/2023 11:34:01-GALILEO:<ACK>
+
+27/09/2023 11:34:22-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<ETX>
+
+27/09/2023 11:34:24-GALILEO:<ACK>
+
+27/09/2023 11:34:31-GALILEO: <ENQ>
+
+27/09/2023 11:34:40-GALILEO: <EOT>
+
+27/09/2023 11:35:07-Conectando con GALILEO ONLINE
+
+27/09/2023 11:35:13-Se encuentra el analizador configurado.
+
+27/09/2023 11:35:13-Inicia la aplicación
+
+27/09/2023 11:35:13-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:35:14-Escuchando el puerto: COM4 
+
+27/09/2023 11:35:33-CLIA: <ENQ>
+
+27/09/2023 11:35:37-GALILEO:<ACK>
+
+27/09/2023 11:35:47-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<ETX>
+
+27/09/2023 11:35:49-GALILEO:<ACK>
+
+27/09/2023 11:35:56-GALILEO: <ENQ>
+
+27/09/2023 11:36:06-GALILEO: <EOT>
+
+27/09/2023 11:37:13-Conectando con GALILEO ONLINE
+
+27/09/2023 11:37:19-Se encuentra el analizador configurado.
+
+27/09/2023 11:37:19-Inicia la aplicación
+
+27/09/2023 11:37:19-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 11:37:19-Escuchando el puerto: COM4 
+
+27/09/2023 11:37:29-CLIA: <ENQ>
+
+27/09/2023 11:37:40-GALILEO:<ACK>
+
+27/09/2023 11:38:27-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<ETX>
+
+27/09/2023 11:38:32-GALILEO:<ACK>
+
+27/09/2023 11:38:48-GALILEO: <ENQ>
+
+27/09/2023 11:39:21-CLIA: <ACK>
+
+27/09/2023 11:39:27-GALILEO: <STX><STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX><ETX>
+
+27/09/2023 11:39:51-GALILEO: <EOT>
+
+27/09/2023 12:06:34-Conectando con GALILEO ONLINE
+
+27/09/2023 12:06:42-Se encuentra el analizador configurado.
+
+27/09/2023 12:06:42-Inicia la aplicación
+
+27/09/2023 12:06:42-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 12:06:42-Escuchando el puerto: COM4 
+
+27/09/2023 12:10:42-CLIA: <ENQ>
+
+27/09/2023 12:10:46-GALILEO:<ACK>
+
+27/09/2023 12:10:46-CLIA: <ENQ><ENQ><ENQ>
+
+27/09/2023 12:10:50-GALILEO:<ACK>
+
+27/09/2023 12:11:24-Conectando con GALILEO ONLINE
+
+27/09/2023 12:11:30-Se encuentra el analizador configurado.
+
+27/09/2023 12:11:30-Inicia la aplicación
+
+27/09/2023 12:11:30-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 12:11:30-Escuchando el puerto: COM4 
+
+27/09/2023 12:14:17-CLIA: <ENQ>
+
+27/09/2023 12:14:21-GALILEO:<ACK>
+
+27/09/2023 12:14:21-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927121532Q|7|^202309220001-3||||||||||OL|14|N<ETX>
+
+27/09/2023 12:14:23-GALILEO:<ACK>
+
+27/09/2023 12:14:23-GALILEO: <ENQ>
+
+27/09/2023 12:14:24-CLIA: E8
+<EOT><ACK>
+
+27/09/2023 12:14:24-GALILEO: <STX><STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX><ETX>
+
+27/09/2023 12:14:24-GALILEO: <EOT>
+
+27/09/2023 12:45:54-Conectando con GALILEO ONLINE
+
+27/09/2023 12:46:00-Se encuentra el analizador configurado.
+
+27/09/2023 12:46:00-Inicia la aplicación
+
+27/09/2023 12:46:00-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 12:46:01-Escuchando el puerto: COM4 
+
+27/09/2023 12:49:08-CLIA: <ENQ>
+
+27/09/2023 12:49:12-GALILEO:<ACK>
+
+27/09/2023 12:49:12-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927125023Q|8|^202309220001-3||||||||||OL|15|N<ETX>E9
+
+
+27/09/2023 12:49:14-GALILEO:<ACK>
+
+27/09/2023 12:49:14-GALILEO: <ENQ>
+
+27/09/2023 12:49:15-CLIA: <ACK>
+
+27/09/2023 12:49:15-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX>
+
+27/09/2023 12:49:15-GALILEO: <EOT>
+
+27/09/2023 12:59:29-Conectando con GALILEO ONLINE
+
+27/09/2023 12:59:37-Se encuentra el analizador configurado.
+
+27/09/2023 12:59:37-Inicia la aplicación
+
+27/09/2023 12:59:37-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 12:59:37-Escuchando el puerto: COM4 
+
+27/09/2023 13:02:46-CLIA: <ENQ>
+
+27/09/2023 13:02:50-GALILEO:<ACK>
+
+27/09/2023 13:02:50-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401Q|9|^202309220001-3||||||||||OL|1|N<ETX>
+
+27/09/2023 13:02:52-GALILEO:<ACK>
+
+27/09/2023 13:02:52-GALILEO: <ENQ>
+
+27/09/2023 13:02:53-CLIA: <ACK>
+
+27/09/2023 13:02:55-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^AFP^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX>
+
+27/09/2023 13:02:57-GALILEO: <EOT>
+
+27/09/2023 13:30:26-Conectando con GALILEO ONLINE
+
+27/09/2023 13:30:34-Se encuentra el analizador configurado.
+
+27/09/2023 13:30:34-Inicia la aplicación
+
+27/09/2023 13:30:34-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 13:30:35-Escuchando el puerto: COM4 
+
+27/09/2023 13:33:35-CLIA: <ENQ>
+
+27/09/2023 13:33:39-GALILEO:<ACK>
+
+27/09/2023 13:33:39-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927133450Q|10|^202309220001-3||||||||||OL|2|N<ETX>E
+
+27/09/2023 13:33:41-GALILEO:<ACK>
+
+27/09/2023 13:33:41-GALILEO: <ENQ>
+
+27/09/2023 13:33:42-CLIA: <ACK>
+
+27/09/2023 13:33:44-GALILEO: <STX>H|\^&|||Mindray^^|||||||SA|1394-97|20090910102501
+P|1||PATIENT111||Smith^^||19600315^45^Y|M|| linchuangzhenduan||||||||||||||||
+O|1|1^^|202309220001-3|^CA125^^|R|20090910135300|20090910125300|||||||20130715102431|serum||||||||||O|||||
+L|1|N<ETX>
+
+27/09/2023 13:33:46-GALILEO: <EOT>
+
+27/09/2023 13:44:55-Conectando con GALILEO ONLINE
+
+27/09/2023 13:45:00-Se encuentra el analizador configurado.
+
+27/09/2023 13:45:00-Inicia la aplicación
+
+27/09/2023 13:45:00-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 13:45:01-Escuchando el puerto: COM4 
+
+27/09/2023 13:45:03-CLIA: <ENQ>
+
+27/09/2023 13:45:07-GALILEO:<ACK>
+
+27/09/2023 13:45:07-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927083325<ETX>
+
+27/09/2023 13:45:09-GALILEO:<ACK>
+
+27/09/2023 13:49:29-Conectando con GALILEO ONLINE
+
+27/09/2023 13:49:36-Se encuentra el analizador configurado.
+
+27/09/2023 13:49:36-Inicia la aplicación
+
+27/09/2023 13:49:36-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 13:49:36-Escuchando el puerto: COM4 
+
+27/09/2023 13:49:38-CLIA: <ENQ>
+
+27/09/2023 13:49:42-GALILEO:<ACK>
+
+27/09/2023 13:50:58-Conectando con GALILEO ONLINE
+
+27/09/2023 13:51:06-Se encuentra el analizador configurado.
+
+27/09/2023 13:51:06-Inicia la aplicación
+
+27/09/2023 13:51:06-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 13:51:06-Escuchando el puerto: COM4 
+
+27/09/2023 13:51:21-CLIA: <ENQ>
+
+27/09/2023 13:51:26-GALILEO:<ACK>
+
+27/09/2023 13:51:31-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 13:51:33-GALILEO:<ACK>
+
+27/09/2023 13:53:13-Conectando con GALILEO ONLINE
+
+27/09/2023 13:53:19-Se encuentra el analizador configurado.
+
+27/09/2023 13:53:19-Inicia la aplicación
+
+27/09/2023 13:53:19-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 13:53:19-Escuchando el puerto: COM4 
+
+27/09/2023 13:53:25-CLIA: <ENQ>
+
+27/09/2023 13:53:29-GALILEO:<ACK>
+
+27/09/2023 13:53:40-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 13:53:42-GALILEO:<ACK>
+
+27/09/2023 14:06:20-Conectando con GALILEO ONLINE
+
+27/09/2023 14:06:31-Se encuentra el analizador configurado.
+
+27/09/2023 14:06:31-Inicia la aplicación
+
+27/09/2023 14:06:31-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:06:31-Escuchando el puerto: COM4 
+
+27/09/2023 14:06:46-CLIA: <ENQ>
+
+27/09/2023 14:06:50-GALILEO:<ACK>
+
+27/09/2023 14:06:50-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:06:53-GALILEO:<ACK>
+
+27/09/2023 14:19:08-Conectando con GALILEO ONLINE
+
+27/09/2023 14:19:21-Se encuentra el analizador configurado.
+
+27/09/2023 14:19:21-Inicia la aplicación
+
+27/09/2023 14:19:21-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:19:21-Escuchando el puerto: COM4 
+
+27/09/2023 14:19:23-CLIA: <ENQ>
+
+27/09/2023 14:19:27-GALILEO:<ACK>
+
+27/09/2023 14:19:31-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:19:33-GALILEO:<ACK>
+
+27/09/2023 14:24:27-Conectando con GALILEO ONLINE
+
+27/09/2023 14:24:36-Se encuentra el analizador configurado.
+
+27/09/2023 14:24:36-Inicia la aplicación
+
+27/09/2023 14:24:36-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:24:36-Escuchando el puerto: COM4 
+
+27/09/2023 14:24:42-CLIA: <ENQ>
+
+27/09/2023 14:24:46-GALILEO:<ACK>
+
+27/09/2023 14:24:46-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:24:48-GALILEO:<ACK>
+
+27/09/2023 14:27:05-Conectando con GALILEO ONLINE
+
+27/09/2023 14:27:11-Se encuentra el analizador configurado.
+
+27/09/2023 14:27:11-Inicia la aplicación
+
+27/09/2023 14:27:11-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:27:11-Escuchando el puerto: COM4 
+
+27/09/2023 14:27:17-CLIA: <ENQ>
+
+27/09/2023 14:27:21-GALILEO:<ACK>
+
+27/09/2023 14:27:21-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:27:23-GALILEO:<ACK>
+
+27/09/2023 14:28:11-Conectando con GALILEO ONLINE
+
+27/09/2023 14:28:17-Se encuentra el analizador configurado.
+
+27/09/2023 14:28:17-Inicia la aplicación
+
+27/09/2023 14:28:17-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:28:17-Escuchando el puerto: COM4 
+
+27/09/2023 14:28:21-CLIA: <ENQ>
+
+27/09/2023 14:28:25-GALILEO:<ACK>
+
+27/09/2023 14:28:25-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:28:27-GALILEO:<ACK>
+
+27/09/2023 14:29:18-Conectando con GALILEO ONLINE
+
+27/09/2023 14:29:27-Se encuentra el analizador configurado.
+
+27/09/2023 14:29:27-Inicia la aplicación
+
+27/09/2023 14:29:27-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:29:27-Escuchando el puerto: COM4 
+
+27/09/2023 14:29:32-CLIA: <ENQ>
+
+27/09/2023 14:29:36-GALILEO:<ACK>
+
+27/09/2023 14:29:37-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:29:39-GALILEO:<ACK>
+
+27/09/2023 14:31:13-Conectando con GALILEO ONLINE
+
+27/09/2023 14:31:20-Se encuentra el analizador configurado.
+
+27/09/2023 14:31:20-Inicia la aplicación
+
+27/09/2023 14:31:20-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:31:20-Escuchando el puerto: COM4 
+
+27/09/2023 14:34:41-CLIA: <ENQ>
+
+27/09/2023 14:34:45-GALILEO:<ACK>
+
+27/09/2023 14:34:46-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:34:48-GALILEO:<ACK>
+
+27/09/2023 14:39:23-Conectando con GALILEO ONLINE
+
+27/09/2023 14:39:30-Se encuentra el analizador configurado.
+
+27/09/2023 14:39:30-Inicia la aplicación
+
+27/09/2023 14:39:30-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:39:30-Escuchando el puerto: COM4 
+
+27/09/2023 14:39:32-CLIA: <ENQ>
+
+27/09/2023 14:39:36-GALILEO:<ACK>
+
+27/09/2023 14:39:38-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 14:39:40-GALILEO:<ACK>
+
+27/09/2023 14:57:25-Conectando con GALILEO ONLINE
+
+27/09/2023 14:57:36-Se encuentra el analizador configurado.
+
+27/09/2023 14:57:36-Inicia la aplicación
+
+27/09/2023 14:57:36-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 14:57:36-Escuchando el puerto: COM4 
+
+27/09/2023 15:19:24-Conectando con GALILEO ONLINE
+
+27/09/2023 15:19:32-Se encuentra el analizador configurado.
+
+27/09/2023 15:19:32-Inicia la aplicación
+
+27/09/2023 15:19:32-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 15:19:32-Escuchando el puerto: COM4 
+
+27/09/2023 15:20:27-CLIA: <ENQ>
+
+27/09/2023 15:20:31-GALILEO:<ACK>
+
+27/09/2023 15:20:31-CLIA:
+<STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+27/09/2023 15:20:33-GALILEO:<ACK>
+
+27/09/2023 16:38:25-Conectando con GALILEO ONLINE
+
+27/09/2023 16:38:34-Se encuentra el analizador configurado.
+
+27/09/2023 16:38:34-Inicia la aplicación
+
+27/09/2023 16:38:34-Esperando Conexión del Instrumento CLIA 1000
+
+27/09/2023 16:38:34-Escuchando el puerto: COM4 
+

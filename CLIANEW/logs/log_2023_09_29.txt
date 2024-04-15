@@ -1,0 +1,29 @@
+29/09/2023 08:11:18-Conectando con GALILEO ONLINE
+
+29/09/2023 08:11:26-Se encuentra el analizador configurado.
+
+29/09/2023 08:11:26-Inicia la aplicación
+
+29/09/2023 08:11:26-Esperando Conexión del Instrumento CLIA 1000
+
+29/09/2023 08:11:26-Escuchando el puerto: COM4 
+
+29/09/2023 08:11:37-CLIA: <ENQ>
+
+29/09/2023 08:11:41-GALILEO:<ACK>
+
+29/09/2023 08:11:41-CLIA:
+<STX><STX>1H|\^&|||Mindray^^|||||||RQ|1394-97|20230927130401<ETX>
+
+29/09/2023 08:11:43-GALILEO:<ACK>
+
+29/09/2023 08:11:43-GALILEO: <ENQ>
+
+29/09/2023 08:11:43-CLIA: <ACK>
+
+29/09/2023 08:11:45-GALILEO: <STX><ETX>
+
+29/09/2023 08:11:47-GALILEO: <EOT>
+
+29/09/2023 08:11:54-CLIA: <ACK>
+

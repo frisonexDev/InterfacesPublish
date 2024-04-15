@@ -1,0 +1,230 @@
+03/03/2024 10:19:48-03/03/2024 10:19:48	CLIA:	<SB>MSH|^~\&|||||20240303102328||QRY^Q02|84|P|2.3.1||||||ASCII|||<CR>
+
+03/03/2024 10:19:48-03/03/2024 10:19:48	CLIA:	QRD|20240303102328|R|D|28|||RD|202403030005-3|OTH|||T|<CR>
+
+03/03/2024 10:19:48-03/03/2024 10:19:48	CLIA:	QRF||||||RCT|COR|ALL||<CR>
+
+03/03/2024 10:19:48-03/03/2024 10:19:48	CLIA:	<EB><CR>
+
+03/03/2024 10:19:52-Consultando al LIS la orden: 202403030005-3
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	<SB>MSH|^~\&|||||20240303102328||QCK^Q02|84|P|2.3.1||||||ASCII|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	MSA|AA|84|Message accepted|||0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	ERR|0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	QAK|SR|OK|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	<EB><CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	<SB>MSH|^~\&|||||20240303102328||DSR^Q03|84|P|2.3.1||||||ASCII|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	MSA|AA|84|Message accepted|||0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	ERR|0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	QAK|SR|OK|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	QRD|20240303102354|R|D|28|||RD|202403030005-3|OTH|||T|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	QRF|BS-200|||||RCT|COR|ALL||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|1||1723375075|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|2|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|3||ALEXANDRA BELEN|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|4||19891119120000|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|5||F|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|6|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|7|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|8|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|9|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|10|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|11|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|12|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|13|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|14|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|15|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|16|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|17|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|18|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|19|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|20|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|21||202403030005-3|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|22||28|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|23|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|24||N|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|25|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|26||Suero|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|27|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|28|||||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSP|29||TESTO^^^|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	DSC||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	HOST:	<EB><CR>
+
+03/03/2024 10:19:54-*****FIN DEL MENSAJE******
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	CLIA:	<SB>MSH|^~\&|||||20240303102333||ACK^Q03|84|P|2.3.1||||||ASCII|||<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	CLIA:	MSA|AA|84|Message accepted|||0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	CLIA:	ERR|0|<CR>
+
+03/03/2024 10:19:54-03/03/2024 10:19:54	CLIA:	<EB><CR>
+
+03/03/2024 10:19:54-*****FIN DEL MENSAJE******
+
+03/03/2024 10:41:20-03/03/2024 10:41:20	CLIA:	<SB>MSH|^~\&|||||20240303104459||ORU^R01|85|P|2.3.1||||0||ASCII|||<CR>
+
+03/03/2024 10:41:20-03/03/2024 10:41:20	CLIA:	PID|34|1723375075|||ALEXANDRA BELEN|||F|||||||||||||||||||||||<CR>
+
+03/03/2024 10:41:20-03/03/2024 10:41:20	CLIA:	OBR|34|202403030005-3|28|^|N|20240303102333|20240303102333|20240303102333||100001^1||||20240303102333|Suero||||||||||5|||||||||||||||||||||||<CR>
+
+03/03/2024 10:41:20-03/03/2024 10:41:20	CLIA:	OBX|1|NM|TESTO|TESTO|0.53|ng/mL|-|N|||F||0.528878|20240303104459|||0|<CR>
+
+03/03/2024 10:41:20-03/03/2024 10:41:20	CLIA:	<EB><CR>
+
+{
+  "Header": {
+    "Content": "|^~\\&|||||20240303104459||ORU^R01|85|P|2.3.1||||0||ASCII|||",
+    "_obsResultCount": 1,
+    "FieldSeparator": "|",
+    "EncodigCharacters": "^~\\&",
+    "EncodingCharacterList": [
+      "^",
+      "~",
+      "\\",
+      "&"
+    ],
+    "SendingApplication": "",
+    "SendingFacility": "",
+    "ReceivingApplication": "",
+    "ReceivingFacility": "",
+    "DateTimeOfMessage": "20240303104459",
+    "Security": "",
+    "MessageType": "ORU^R01",
+    "MessageControlId": "85",
+    "ProcessingId": "P",
+    "VersionId": "2.3.1",
+    "SequenceNumber": "",
+    "ContinuationPointer": "",
+    "AcceptanceACK": "",
+    "AppACK": "0",
+    "CountryCode": "",
+    "CharacterSet": "ASCII",
+    "PrincipalLanguage": "",
+    "AlternateCharacterSet": ""
+  },
+  "PatientId": {
+    "Content": "PID|34|1723375075|||ALEXANDRA BELEN|||F|||||||||||||||||||||||",
+    "PatientIdentifier": null,
+    "PatientNameContent": "ALEXANDRA BELEN",
+    "Patient": {
+      "LastName": "ALEXANDRA BELEN",
+      "FirstName": null,
+      "MiddleName": null,
+      "Suffix": null,
+      "Prefix": null,
+      "Degree": null
+    },
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Sex": "F"
+  },
+  "PatientVisit": null,
+  "ObservationRequest": {
+    "Content": "OBR|34|202403030005-3|28|^|N|20240303102333|20240303102333|20240303102333||100001^1||||20240303102333|Suero||||||||||5|||||||||||||||||||||||",
+    "SetId": "34",
+    "PlaceOrderNumber": "202403030005-3",
+    "FillerOrderNumber": "28",
+    "UniversalServiceId": "N",
+    "Priority": null,
+    "RequestedTime": "2024-03-03T10:23:33",
+    "ObservationTime": "2024-03-03T10:23:33",
+    "CollectorId": "100001^1",
+    "RelevantClinicalInfo": "",
+    "SpecimenReceivedTime": "2024-03-03T10:23:33",
+    "SpecimenSource": "Suero",
+    "ApprovalTime": "0001-01-01T00:00:00",
+    "DiagnosticServId": "",
+    "ResultCopiesTo": "",
+    "ResultInterpreter": null
+  },
+  "ObservationResultList": [
+    {
+      "Content": "OBX|1|NM|TESTO|TESTO|0.53|ng/mL|-|N|||F||0.528878|20240303104459|||0|",
+      "Index": 1,
+      "SecuenceId": "1",
+      "ValueType": "NM",
+      "ObservationIdentifier": {
+        "Content": "TESTO",
+        "Identifier": "TESTO",
+        "Text": null,
+        "NameOfCodingSystem": null
+      },
+      "ObservationSubId": "TESTO",
+      "ObservationNumericValue": 0.0,
+      "ObservationValue": {
+        "Value": "0.53",
+        "Arguments": []
+      },
+      "Units": "ng/mL",
+      "ReferenceRange": "-",
+      "AbnormalFlags": "N",
+      "ObservationResultStatus": "F"
+    }
+  ],
+  "MessageAcknowledgment": null,
+  "ErrorACK": null,
+  "QueryACK": null,
+  "QueryDef": null,
+  "QueryFilter": null,
+  "DisplayDataList": null,
+  "ContinuesPointer": null
+}
+
+03/03/2024 10:41:20-{"Header":{"Content":"|^~\\&|||||20240303104459||ORU^R01|85|P|2.3.1||||0||ASCII|||","_obsResultCount":1,"FieldSeparator":"|","EncodigCharacters":"^~\\&","EncodingCharacterList":["^","~","\\","&"],"SendingApplication":"","SendingFacility":"","ReceivingApplication":"","ReceivingFacility":"","DateTimeOfMessage":"20240303104459","Security":"","MessageType":"ORU^R01","MessageControlId":"85","ProcessingId":"P","VersionId":"2.3.1","SequenceNumber":"","ContinuationPointer":"","AcceptanceACK":"","AppACK":"0","CountryCode":"","CharacterSet":"ASCII","PrincipalLanguage":"","AlternateCharacterSet":""},"PatientId":{"Content":"PID|34|1723375075|||ALEXANDRA BELEN|||F|||||||||||||||||||||||","PatientIdentifier":null,"PatientNameContent":"ALEXANDRA BELEN","Patient":{"LastName":"ALEXANDRA BELEN","FirstName":null,"MiddleName":null,"Suffix":null,"Prefix":null,"Degree":null},"DateOfBirth":"0001-01-01T00:00:00","Sex":"F"},"PatientVisit":null,"ObservationRequest":{"Content":"OBR|34|202403030005-3|28|^|N|20240303102333|20240303102333|20240303102333||100001^1||||20240303102333|Suero||||||||||5|||||||||||||||||||||||","SetId":"34","PlaceOrderNumber":"202403030005-3","FillerOrderNumber":"28","UniversalServiceId":"N","Priority":null,"RequestedTime":"2024-03-03T10:23:33","ObservationTime":"2024-03-03T10:23:33","CollectorId":"100001^1","RelevantClinicalInfo":"","SpecimenReceivedTime":"2024-03-03T10:23:33","SpecimenSource":"Suero","ApprovalTime":"0001-01-01T00:00:00","DiagnosticServId":"","ResultCopiesTo":"","ResultInterpreter":null},"ObservationResultList":[{"Content":"OBX|1|NM|TESTO|TESTO|0.53|ng/mL|-|N|||F||0.528878|20240303104459|||0|","Index":1,"SecuenceId":"1","ValueType":"NM","ObservationIdentifier":{"Content":"TESTO","Identifier":"TESTO","Text":null,"NameOfCodingSystem":null},"ObservationSubId":"TESTO","ObservationNumericValue":0.0,"ObservationValue":{"Value":"0.53","Arguments":[]},"Units":"ng/mL","ReferenceRange":"-","AbnormalFlags":"N","ObservationResultStatus":"F"}],"MessageAcknowledgment":null,"ErrorACK":null,"QueryACK":null,"QueryDef":null,"QueryFilter":null,"DisplayDataList":null,"ContinuesPointer":null}
+
+03/03/2024 10:41:20-"[{\"idLaboratorio\":18,\"codigoOrden\":\"202403030005\",\"CodigoMuestra\":\"3\",\"CodigoExamenHomologado\":\"TESTO\",\"valorNumero\":0.53,\"valorTexto\":null,\"Validado\":false,\"Identificador\":\"CLIA1000HL\",\"Orden\":123}]"
+
+03/03/2024 10:41:20-{"code":null,"Mensaje":"Servicio ejecutado correctamente","ProcesoExitoso":true}
+
+03/03/2024 10:41:25-03/03/2024 10:41:25	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240303104120||ACK^R01|85|P|2.3.1||||0||ASCII|||<CR>
+
+03/03/2024 10:41:25-03/03/2024 10:41:25	HOST:	MSA|AA|85|Message accepted|||0|<CR>
+
+03/03/2024 10:41:25-03/03/2024 10:41:25	HOST:	MSH|^~\&|FRISONEX|GALILEO|||20240303104125||ACK^Q03|85|P|2.3.1||||0||ASCII|||<CR>
+
+03/03/2024 10:41:25-03/03/2024 10:41:25	HOST:	MSA|AR|85|Unsopported message type|||200|<CR>
+
+03/03/2024 10:41:25-*****FIN DEL MENSAJE******
+

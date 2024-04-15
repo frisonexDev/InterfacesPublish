@@ -1,0 +1,10 @@
+25/7/2023 14:45:34-Conectando con GALILEO ONLINE
+
+25/7/2023 14:45:34-Se encuentra el analizador configurado de manera local.
+
+25/7/2023 14:45:35-Inicia la aplicación
+
+25/7/2023 14:45:35-Esperando Conexión del Instrumento CLIA 1000
+
+25/7/2023 14:45:35-Escuchando el puerto: 7118 por TCP/IP
+
